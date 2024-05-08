@@ -4,12 +4,21 @@
 	<subtitle>Personal website of Shane Steinert-Threlkeld, with information on research and teaching, as well as a blog and trip reports from various outdoor adventures.</subtitle>
 	<link href="https://www.shane.st/feed/feed.xml" rel="self"/>
 	<link href="https://www.shane.st/"/>
-	<updated>2023-01-23T00:00:00Z</updated>
+	<updated>2024-05-05T00:00:00Z</updated>
 	<id>https://www.shane.st/</id>
 	<author>
 		<name>Shane Steinert-Threlkeld</name>
 		<email>ssshanest@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>_The Hidden Life of Trees_ by Peter Wohlleben</title>
+		<link href="https://www.shane.st/blog/book-reviews/hidden-life-of-trees/"/>
+		<updated>2024-05-05T00:00:00Z</updated>
+		<id>https://www.shane.st/blog/book-reviews/hidden-life-of-trees/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;The Hidden Life of Trees&lt;/em&gt;, Peter Wohlleben (audio).  A wonderful book that explains the ways in which trees communicate, live and die, and even interact socially.  (Amongst many other amazing behaviors, e.g. wound-tending.)  Written by a forest manager, and covering some of the relevant academic literature (e.g. around the role of mycelium networks in aiding communication in root systems), this book felt like a very refreshing &amp;quot;natural history&amp;quot; kind of book: it&#39;s largely a narration of what you will see if you look closer and understand trees---and forests, in particular, as the difference between re-planted groves of trees and the richness of natural forests is a recurring theme---on their own terms and, in particular, at their own time-scale.  I certainly won&#39;t look at trees the same way after this.  Grade: A&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>This is a fifth post (draft)</title>

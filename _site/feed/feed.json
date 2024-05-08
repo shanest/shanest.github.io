@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://www.shane.st/blog/book-reviews/hidden-life-of-trees/",
+			"url": "https://www.shane.st/blog/book-reviews/hidden-life-of-trees/",
+			"title": "_The Hidden Life of Trees_ by Peter Wohlleben",
+			"content_html": "<p><em>The Hidden Life of Trees</em>, Peter Wohlleben (audio).  A wonderful book that explains the ways in which trees communicate, live and die, and even interact socially.  (Amongst many other amazing behaviors, e.g. wound-tending.)  Written by a forest manager, and covering some of the relevant academic literature (e.g. around the role of mycelium networks in aiding communication in root systems), this book felt like a very refreshing &quot;natural history&quot; kind of book: it's largely a narration of what you will see if you look closer and understand trees---and forests, in particular, as the difference between re-planted groves of trees and the richness of natural forests is a recurring theme---on their own terms and, in particular, at their own time-scale.  I certainly won't look at trees the same way after this.  Grade: A</p>\n",
+			"date_published": "2024-05-05T00:00:00Z"
+		}
+		,
+		{
 			"id": "https://www.shane.st/blog/fifthpost/",
 			"url": "https://www.shane.st/blog/fifthpost/",
 			"title": "This is a fifth post (draft)",

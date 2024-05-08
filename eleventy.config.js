@@ -1,5 +1,9 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownIt = require("markdown-it")(({
+	html: true,
+	linkify: true,
+}));
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -77,6 +81,8 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
+
+	eleventyConfig.addFilter("markdownit", string => { return markdownIt.renderInline(string); });
 
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
