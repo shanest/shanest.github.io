@@ -36,13 +36,18 @@
 	{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 
 	<link rel="stylesheet" href="/css/bootstrap.css">
+	<style type="text/css">
+		/* Custom styles for this template */
+		body {
+			padding-top: 5rem;
+		}
+	</style>
 
 </head>
 
 
 
 <body>
-	<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
@@ -65,7 +70,7 @@
 		</nav>
 	</header>
 
-	<main class="container" id="skip">
+	<main class="container">
 		{{ content | safe }}
 	</main>
 
