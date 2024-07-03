@@ -27,6 +27,11 @@
 	</url>
 	
 	<url>
+		<loc>https://www.shane.st/blog/book-reviews/life-as-we-know-it-can-be/</loc>
+		<lastmod>2024-04-12</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://www.shane.st/about/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
@@ -47,16 +52,6 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/another-tag/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/number-2/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://www.shane.st/tags/second-tag/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
@@ -67,12 +62,27 @@
 	</url>
 	
 	<url>
+		<loc>https://www.shane.st/tags/number-2/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/another-tag/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://www.shane.st/tags/book-reviews/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://www.shane.st/tags/trees/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/climate/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
