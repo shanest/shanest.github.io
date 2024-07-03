@@ -52,12 +52,7 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/second-tag/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/posts-with-two-tags/</loc>
+		<loc>https://www.shane.st/tags/another-tag/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -67,7 +62,12 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/another-tag/</loc>
+		<loc>https://www.shane.st/tags/second-tag/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/posts-with-two-tags/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
