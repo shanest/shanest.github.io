@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://www.shane.st/blog/firstpost/</loc>
-		<lastmod>2018-05-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://www.shane.st/blog/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
@@ -22,8 +12,18 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/blog/fifthpost/</loc>
-		<lastmod>2023-01-23</lastmod>
+		<loc>https://www.shane.st/blog/book-reviews/eastern-standard-tribe/</loc>
+		<lastmod>2024-01-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/book-reviews/i-rigoberta-menchu/</loc>
+		<lastmod>2024-02-22</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/book-reviews/the-art-of-shralpinism/</loc>
+		<lastmod>2024-03-16</lastmod>
 	</url>
 	
 	<url>
@@ -48,16 +48,6 @@
 	
 	<url>
 		<loc>https://www.shane.st/tags/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/another-tag/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/number-2/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -87,7 +77,87 @@
 	</url>
 	
 	<url>
+		<loc>https://www.shane.st/tags/science/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/artificial-intelligence/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/evolution/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/imagination/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/sociology/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/skiing/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/snowboarding/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/sports/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/guatemala/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/mayan-culture/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/politics/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/fiction/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/time/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/mental-health/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://www.shane.st/blog/book-reviews/hidden-life-of-trees/</loc>
 		<lastmod>2024-05-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/book-reviews/imagination-a-manifesto/</loc>
+		<lastmod>2024-06-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/book-reviews/a-brief-history-of-intelligence/</loc>
+		<lastmod>2024-07-07</lastmod>
 	</url>
 </urlset>

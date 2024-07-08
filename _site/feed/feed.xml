@@ -4,12 +4,30 @@
 	<subtitle>Personal website of Shane Steinert-Threlkeld, with information on research and teaching, as well as a blog and trip reports from various outdoor adventures.</subtitle>
 	<link href="https://www.shane.st/feed/feed.xml" rel="self"/>
 	<link href="https://www.shane.st/"/>
-	<updated>2024-05-05T00:00:00Z</updated>
+	<updated>2024-07-07T00:00:00Z</updated>
 	<id>https://www.shane.st/</id>
 	<author>
 		<name>Shane Steinert-Threlkeld</name>
 		<email>ssshanest@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>_A Brief History of Intelligence_ by Max Bennett</title>
+		<link href="https://www.shane.st/blog/book-reviews/a-brief-history-of-intelligence/"/>
+		<updated>2024-07-07T00:00:00Z</updated>
+		<id>https://www.shane.st/blog/book-reviews/a-brief-history-of-intelligence/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;A Brief History of Intelligence&lt;/em&gt;, Max Bennett (audio).  A surprisingly pleasant and informative evolutionary history of our species and, in particular, our cogntivie capacities, centered around five breakthroughs: navigation, reinforcing, simulating, mentalizing, speaking.  For me, personally, the history of navigation and its role in evolution was by far the newest of these, and quite interesting to learn about.  While there were moments when I feared the author would stretch credulity for hype, the summaries of the work that I do know were always surprisingly accurate and appropriately hedged (minus the prediction in the end that the sixth breakthrough will be artificial super intelligence).  Would recommend to friends and colleagues.  Grade: A-&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>_Imagination: A Manifesto_ by Ruha Benjamin</title>
+		<link href="https://www.shane.st/blog/book-reviews/imagination-a-manifesto/"/>
+		<updated>2024-06-10T00:00:00Z</updated>
+		<id>https://www.shane.st/blog/book-reviews/imagination-a-manifesto/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Imagination: A Manifesto&lt;/em&gt;, Ruha Benjamin (audio).  I must confess to owning but having never made it through Benjamin&#39;s &lt;em&gt;Race After Technology&lt;/em&gt;, so I was very excited when this short book came out in audio format.  A wonderful expression of and testament to the power of imagination and of dreaming about other possibilities, including other futures.  The book provides many good examples, and focuses on ways in which societal structures implicitly (and explicitly!) choose what kinds of people are &lt;em&gt;allowed&lt;/em&gt; to imagine and to dream.  The last chapter and appendix have some concrete exercises (&amp;quot;making shit up university&amp;quot; for instance) that seem useful and that I can imagine using in class in the future.  Grade: A&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>_The Hidden Life of Trees_ by Peter Wohlleben</title>
@@ -30,11 +48,29 @@
 	</entry>
 	
 	<entry>
-		<title>This is a fifth post (draft)</title>
-		<link href="https://www.shane.st/blog/fifthpost/"/>
-		<updated>2023-01-23T00:00:00Z</updated>
-		<id>https://www.shane.st/blog/fifthpost/</id>
-		<content type="html">&lt;p&gt;This is a draft post&lt;/p&gt;
+		<title>_The Art of Sharlpinism_ by Jeremey Jones</title>
+		<link href="https://www.shane.st/blog/book-reviews/the-art-of-shralpinism/"/>
+		<updated>2024-03-16T00:00:00Z</updated>
+		<id>https://www.shane.st/blog/book-reviews/the-art-of-shralpinism/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;The Art of Sharlpinism&lt;/em&gt;, Jeremey Jones (audio).  I listened to most of this on the way back from an &amp;quot;eat pray ski&amp;quot; trip to Big Sky.  A compendium of &amp;quot;lessons from the mountains&amp;quot;, it&#39;s a mix of stories from his and others&#39; lives in the mountains as well as something of a how-to guide in places.  Two things that I&#39;ll take away: (1) &amp;quot;love of sport&amp;quot; days skiing/riding, i.e. going out even when it&#39;s bad conditions and still learning things and working on your craft; (2) &amp;quot;the church of the seven day recreationalists&amp;quot;: from Jim Zellers (?), three rules: (i) recreate outside every day of the week, (ii) keep your house and life in order, and (iii) don&#39;t let (ii) get in the way of (i).  I will say that this book was not ideal for audio format: it has lots of &amp;quot;inserts&amp;quot; and &amp;quot;cut-out&amp;quot; sections which had starts and stops which were occasionally hard to locate.  You also don&#39;t get to see the beautiful imagery in the book. Grade: B+.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>_I, Rigoberta Menchú_ by Rigoberta Menchú</title>
+		<link href="https://www.shane.st/blog/book-reviews/i-rigoberta-menchu/"/>
+		<updated>2024-02-22T00:00:00Z</updated>
+		<id>https://www.shane.st/blog/book-reviews/i-rigoberta-menchu/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;I, Rigoberta Menchú&lt;/em&gt;, Rigoberta Menchú (audio).  I checked this book out before a trip to Guatemala, but unfortunately only read/listened to it after the trip.  A first-person oral recounting of events (as well as general customs of her community and things like that) in the mid-to-late seventies in Guatemala, from one of the main people involved in organizing many different Mayan populations in response to severe oppression from the government.  Very interesting, and often upsetting (warning: many detailed accounts of torture and things like that), to listen to.  Menchú learned Spanish---the language of the oppressors---in order to be able to tell her story; the linguistic/cultural isolation amongst Mayan communities was also a through-line int he story, and something she worked to overcome.  Very much worth reading or listening to; I would recommend pairing it with a more general history of the same events, since she presupposes some details and is also just telling her story, so not everything is fully situated.  Grade: A&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>_Eastern Standard Tribe_ by Cory Doctorow</title>
+		<link href="https://www.shane.st/blog/book-reviews/eastern-standard-tribe/"/>
+		<updated>2024-01-12T00:00:00Z</updated>
+		<id>https://www.shane.st/blog/book-reviews/eastern-standard-tribe/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;Eastern Standard Tribe&lt;/em&gt;, Cory Doctorow (audio).  My first time reading (or listening) to fiction by Doctorow, whose nonfiction I&#39;ve been reading for a long time, mostly via his blog.  Tribes that are oriented around syncing circadian rhythms across borders have formed.  The protagonist Art is a member of Eastern Standard Tribe, but works in London as a UX designer selling intentionally bad designs to undermine that tribe.  The story alternates between his viewpoint in an asylum (told in the first person) and the path that led him there (told in the third person) in an interesting way, and the entire novel ends with the line &amp;quot;you know, you belong in a looney bin&amp;quot;.  I enjoyed this story-telling device, but the book as a whole did not have a super strong impact; possibly because it was written in 2004, and so both it and the future it imagines are slightly dated.  Grade: B+&lt;/p&gt;
 </content>
 	</entry>
 	
@@ -81,42 +117,6 @@ console.log(&#39;Test&#39;);
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;header-anchor&quot; href=&quot;https://www.shane.st/blog/thirdpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my second post with a much longer title.</title>
-		<link href="https://www.shane.st/blog/secondpost/"/>
-		<updated>2018-07-04T00:00:00Z</updated>
-		<id>https://www.shane.st/blog/secondpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;header-anchor&quot; href=&quot;https://www.shane.st/blog/secondpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.shane.st/blog/firstpost/&quot;&gt;First post&lt;/a&gt;
-&lt;a href=&quot;https://www.shane.st/blog/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my first post.</title>
-		<link href="https://www.shane.st/blog/firstpost/"/>
-		<updated>2018-05-01T00:00:00Z</updated>
-		<id>https://www.shane.st/blog/firstpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;header-anchor&quot; href=&quot;https://www.shane.st/blog/firstpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;pre class=&quot;language-diff-js&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// this is a command&lt;/span&gt;
-&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;myCommand&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token deleted-sign deleted language-js&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt;  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;  counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;/span&gt;
-&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// Test with a line break above this line.&lt;/span&gt;
-&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;Test&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 </content>
 	</entry>
 </feed>
