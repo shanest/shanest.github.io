@@ -7,3 +7,18 @@ body {
     padding-top: 5rem;
     font-family: 'Cabin', sans-serif;
 }
+
+/*
+NOTE: this is just over-writing some of the compiled Bootstrap CSS.
+I don't feel like learning SASS and compiling my own CSS, so this hack will do.
+*/
+@media (min-width: 1400px) {
+    .container-xxl,
+    .container-xl,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container {
+        max-width: 1140px;
+    }
+}
