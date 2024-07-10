@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Cabin';
+    src: url("/fonts/Cabin/Cabin-VariableFont_wdth,wght.ttf") format("truetype");
+}
+
+body {
+    padding-top: 5rem;
+    font-family: 'Cabin', sans-serif;
+}

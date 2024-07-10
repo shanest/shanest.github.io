@@ -33,15 +33,10 @@
 	{#- Render the CSS bundle using Inlined CSS (for the fastest site performance in production) #}
 	{#- <style> { % getBundle "css" % } </style> #}
 	{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
-	<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
+	{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 
 	<link rel="stylesheet" href="/css/bootstrap.css">
-	<style type="text/css">
-		/* Custom styles for this template */
-		body {
-			padding-top: 5rem;
-		}
-	</style>
+	<link rel="stylesheet" href="/css/main.css">
 
 </head>
 
@@ -58,7 +53,7 @@
 				</button>
 				<a href="/" class="navbar-brand">{{ metadata.title }}</a>
 				<div class="collapse navbar-collapse" id="navbarCollapse">
-					<ul class="navbar-nav me-auto mb-2 mb-md-0">
+					<ul class="navbar-nav ms-auto mb-2 mb-md-0">
 						{%- for entry in collections.all | eleventyNavigation %}
 						<li class="nav-item">
 							<a href="{{ entry.url }}" class="nav-link {%if entry.url==page.url %}active{% endif %}" {% if entry.url==page.url %} aria-current="page" {% endif %}>{{ entry.title }}</a>
