@@ -82,17 +82,27 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/self-help/</loc>
+		<loc>https://www.shane.st/tags/fiction/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/cognitive-science/</loc>
+		<loc>https://www.shane.st/tags/time/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/decision-making/</loc>
+		<loc>https://www.shane.st/tags/mental-health/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/imagination/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/sociology/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -112,17 +122,17 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/fiction/</loc>
+		<loc>https://www.shane.st/tags/self-help/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/time/</loc>
+		<loc>https://www.shane.st/tags/cognitive-science/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/mental-health/</loc>
+		<loc>https://www.shane.st/tags/decision-making/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -132,12 +142,22 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/imagination/</loc>
+		<loc>https://www.shane.st/tags/mountain-sports/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/sociology/</loc>
+		<loc>https://www.shane.st/tags/avalanche/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/snowboarding/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/biography/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -148,11 +168,6 @@
 	
 	<url>
 		<loc>https://www.shane.st/tags/skiing/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/snowboarding/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -179,5 +194,10 @@
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/clear-thinking/</loc>
 		<lastmod>2024-07-28</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/book-reviews/the-darkest-white/</loc>
+		<lastmod>2024-08-20</lastmod>
 	</url>
 </urlset>
