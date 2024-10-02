@@ -67,17 +67,22 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/science/</loc>
+		<loc>https://www.shane.st/tags/climbing/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/artificial-intelligence/</loc>
+		<loc>https://www.shane.st/tags/neuroscience/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/evolution/</loc>
+		<loc>https://www.shane.st/tags/psychadelics/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/trees/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -97,7 +102,17 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/trees/</loc>
+		<loc>https://www.shane.st/tags/guatemala/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/mayan-culture/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/politics/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -122,17 +137,37 @@
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/guatemala/</loc>
+		<loc>https://www.shane.st/tags/food/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/mayan-culture/</loc>
+		<loc>https://www.shane.st/tags/history/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://www.shane.st/tags/politics/</loc>
+		<loc>https://www.shane.st/tags/science/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/artificial-intelligence/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/evolution/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/imagination/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/sociology/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -148,26 +183,6 @@
 	
 	<url>
 		<loc>https://www.shane.st/tags/sports/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/imagination/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/sociology/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/food/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://www.shane.st/tags/history/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 	
@@ -214,5 +229,10 @@
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/pizza-in-new-haven/</loc>
 		<lastmod>2024-09-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/book-reviews/alchemy-of-action/</loc>
+		<lastmod>2024-10-01</lastmod>
 	</url>
 </urlset>
