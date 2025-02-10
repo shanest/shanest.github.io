@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+/* Import ET Book styles
+   adapted from https://github.com/edwardtufte/et-book/ */
+
+@font-face {
+  font-family: "et-book-roman-old-style";
+  src: url("../font/et-book/et-book-roman-old-style-figures.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book-roman-line";
+  src: url("../font/et-book/etbookot-roman-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book-italic-old-style";
+  src: url("../font/et-book/etbookot-italic-webfont.woff2") format("woff2"),
+    url("../font/et-book/etbookot-italic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book-display-italic";
+  src: url("../font/et-book/et-book-display-italic-old-style-figures.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book-bold-line";
+  src: url("../font/et-book/etbookot-bold-webfont.woff2") format("woff2"),
+    url("../font/et-book/et-book-bold-line-figures.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book-semi-bold";
+  src: url("../font/et-book/et-book-semi-bold-old-style-figures.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "et-book-roman-old-style", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  font-variant-ligatures: common-ligatures discretionary-ligatures;
+}
+
+/* ET Book font provides line numerals useful for tables, code, etc. */
+
+table,
+.table,
+.btn,
+.badge,
+.card-header,
+.pagination,
+.breadcrumb,
+.alert,
+.nav-link {
+  font-family: "et-book-roman-line", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-variant-numeric: lining-nums tabular-nums;
+  font-variant-ligatures: common-ligatures;
+}
+
+/* Use ET Book Display Italic for headings and large italicized text */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.display-1,
+.display-2,
+.display-3,
+.display-4 {
+  font-family: "et-book-display-italic", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-style: italic;
+  font-variant-ligatures: discretionary-ligatures;
+}
+
+/* Use ET Book Italic Old Style for smaller text elements */
+em,
+cite,
+blockquote,
+.fst-italic {
+  font-family: "et-book-italic-old-style", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-style: italic;
+  font-variant-ligatures: common-ligatures discretionary-ligatures;
+}
+
+/* Use ET Book Semi-Bold for intermediate emphasis */
+.fw-semibold {
+  font-family: "et-book-semi-bold", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-weight: 600;
+  font-variant-ligatures: common-ligatures;
+}
+
+/* Use ET Book Bold Line for strong emphasis */
+strong,
+b,
+.fw-bold {
+  font-family: "et-book-bold-line", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-weight: bold;
+  font-variant-ligatures: common-ligatures discretionary-ligatures;
+}
+
+.fw-normal {
+  font-family: "et-book-roman-old-style", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-weight: normal;
+}
