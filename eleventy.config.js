@@ -86,7 +86,7 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.addFilter("markdownit", string => { return markdownIt.renderInline(string); });
 
-	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(require('./public/js/sidenote')).use(require('./public/js/marginnote')));
+	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(require('./md-tufte/sidenote')).use(require('./md-tufte/marginnote')));
 
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
