@@ -28,7 +28,7 @@ body {
 
 
 /* Sidenotes and Marginnotes */
-.sidenote {
+.sidenote, .marginnote {
   float: right;
   clear: right;
   width: 35%;
