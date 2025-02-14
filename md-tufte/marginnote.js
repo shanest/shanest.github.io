@@ -14,7 +14,7 @@ function marginnote(md) {
 
     function render_sidenote(tokens, idx, options, env, slf) {
         var content = tokens[idx].content
-        var sidenote = `<aside class="col-md-4 float-md-end mb-3 ms-md-3 marginnote">${md.renderInline(content)}</aside>`
+        var sidenote = `<span class="marginnote">${md.renderInline(content)}</span>`
         return sidenote
     }
 

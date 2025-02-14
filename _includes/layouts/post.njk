@@ -5,6 +5,8 @@ layout: layouts/base.njk
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
 
+<article>
+
 <h1>{{ title | markdownit | safe}}</h1>
 
 <ul class="post-metadata">
@@ -16,6 +18,8 @@ layout: layouts/base.njk
 </ul>
 
 {{ content | safe }}
+
+</article>
 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
