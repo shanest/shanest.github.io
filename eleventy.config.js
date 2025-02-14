@@ -86,8 +86,6 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.addFilter("markdownit", string => { return markdownIt.renderInline(string); });
 
-	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(require('./md-tufte/sidenote')).use(require('./md-tufte/marginnote')));
-
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
@@ -101,6 +99,8 @@ module.exports = function (eleventyConfig) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
+
+	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(require('./md-tufte/sidenote')).use(require('./md-tufte/marginnote')));
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();

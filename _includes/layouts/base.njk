@@ -47,18 +47,18 @@
 <body class="bg-dark text-light container">
 
 	<header>
-		<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+		<nav class="navbar navbar-expand-md navbar-dark bg-dark border-bottom border-2 border-light">
 			<div class="container">
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
 					aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
-				<a href="/" class="navbar-brand">{{ metadata.title }}</a>
+				<a href="/" class="navbar-brand fs-2">{{ metadata.title }}</a>
 				<div class="collapse navbar-collapse" id="navbarCollapse">
 					<ul class="navbar-nav ms-auto mb-2 mb-md-0">
 						{%- for entry in collections.all | eleventyNavigation %}
 						<li class="nav-item">
-							<a href="{{ entry.url }}" class="nav-link {%if entry.url==page.url %}active{% endif %}" {% if entry.url==page.url %} aria-current="page" {% endif %}>{{ entry.title }}</a>
+							<a href="{{ entry.url }}" class="nav-link {%if entry.url==page.url %}active{% endif %} fs-4" {% if entry.url==page.url %} aria-current="page" {% endif %}>{{ entry.title }}</a>
 						</li>
 						{%- endfor %}
 					</ul>
@@ -67,7 +67,7 @@
 		</nav>
 	</header>
 
-	<main class="container pt-3">
+	<main class="container pt-5">
 		<div class="row">
 			<div class="col-9 mx-auto">
 				{{ content | safe }}
