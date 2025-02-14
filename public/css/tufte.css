@@ -47,10 +47,10 @@ body {
 
 .sidenote-number:after {
   content: counter(sidenote-counter);
-  color: #999;
+  /* color: #999; */
 }
 
-.margin-toggle {
+input.margin-toggle {
   display: none;
 }
 

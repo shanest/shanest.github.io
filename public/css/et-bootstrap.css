@@ -21,8 +21,9 @@ body {
 .sidenote::before {
   content: '' counter(sidenote-counter) ' ';
   /* Display the value of section counter */
-  counter-increment: sidenote-counter;
+  /* counter-increment: sidenote-counter; */
   /* Increment the value of sidenote counter by 1 */
   vertical-align: super;
   /* make superscript */
 }
+
