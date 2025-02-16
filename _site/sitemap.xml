@@ -222,6 +222,21 @@
 	</url>
 	
 	<url>
+		<loc>https://www.shane.st/tags/outdoors/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/adventure/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/tags/coffee-table-book/</loc>
+		<lastmod>2024-04-29</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://www.shane.st/blog/book-reviews/hidden-life-of-trees/</loc>
 		<lastmod>2024-05-05</lastmod>
 	</url>
@@ -269,5 +284,10 @@
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/cultish/</loc>
 		<lastmod>2025-02-09</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/book-reviews/states-of-adventure/</loc>
+		<lastmod>2025-02-16</lastmod>
 	</url>
 </urlset>
