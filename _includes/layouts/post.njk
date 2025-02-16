@@ -9,11 +9,13 @@ layout: layouts/base.njk
 
 <h1>{{ title | markdownit | safe}}</h1>
 
-<ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+<p class="mb-1">
+<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+</p>
+<ul class="list-inline mb-4">
 	{%- for tag in tags | filterTagList %}
 	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+	<li class="list-inline-item"><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
 
