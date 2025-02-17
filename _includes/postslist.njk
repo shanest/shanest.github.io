@@ -9,6 +9,8 @@
 		<span class="fs-6">
 		Tags: {% for tag in post.data.tags | filterTagList %} <a href="/tags/{{ tag | slug }}">{{ tag }}</a>{% if not loop.last %}, {% endif %} {% endfor %}
 		</span>
+		<br />
+		{% if post.data.grade %} <span class="fs-6">Grade: {{ post.data.grade }}</span> {% endif %}
 	</p>
 	{% endif %}
 {% endfor %}
