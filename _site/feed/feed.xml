@@ -4,12 +4,21 @@
 	<subtitle>Personal website of Shane Steinert-Threlkeld, with information on research and teaching, as well as a blog and trip reports from various outdoor adventures.</subtitle>
 	<link href="https://www.shane.st/feed/feed.xml" rel="self"/>
 	<link href="https://www.shane.st/"/>
-	<updated>2025-02-16T00:00:00Z</updated>
+	<updated>2025-02-17T00:00:00Z</updated>
 	<id>https://www.shane.st/</id>
 	<author>
 		<name>Shane Steinert-Threlkeld</name>
 		<email>ssshanest@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>_The Uncanny Muse_ by David Hadju</title>
+		<link href="https://www.shane.st/blog/book-reviews/the-uncanny-muse/"/>
+		<updated>2025-02-17T00:00:00Z</updated>
+		<id>https://www.shane.st/blog/book-reviews/the-uncanny-muse/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;The Uncanny Muse&lt;/em&gt;, David Hadju (audio).  This book&#39;s subtitle---&amp;quot;Music, Art, and Machines from Automata to AI&amp;quot;---captures its greatest virtue: it provides both an illuminating and entertaining history of the role of machines in the arts as both of them have evolved throughout history (at least since around the 1600s).  Although it does contain many examples of visual art, including a long episode of Andy Warhol and the wider New York art world around the founding of MoMA and various exhibits of machines and art (including machines-as-art), it&#39;s also no accident that the subtitle begins with &amp;quot;Music&amp;quot;: Hadju shines as a historian of music, telling of the development of the microphone, the player piano, electric organs, synthesizers, and the (embarassingly unknown-to-me) history of house music.  Hadju&#39;s telling of the history flows smoothly and listens easily; corner-stone objects or moments provide for natural, and often unnoticed, transitions between historical episodes.  Tracing this history shows the cyclical nature of a debate that is re-surfacing now: new technologies are often thought to threaten human creativity, but oftentimes become accepted and expand it.  With that being said, two thoughts on Hadju&#39;s handling of the present, LLM-driven moment, which felt like the weakest section to me.  On the one hand, he admirably does not directly argue for one view or another, but mostly just presents a history.  On the other hand, his use of ChatGPT to write a few paragraphs about its own history (this explained the eye-rolling phrase that it &amp;quot;perfects its...&amp;quot; TODO: look-up), and repeated emphasis of &amp;quot;the machine condition&amp;quot; in addition to the human condition lead one to believe that the present moment is just the latest instance in this historical cycle.  As I&#39;m sure many people have, I&#39;ve been having some currently-uncoalesced thoughts about asymmetries between LLM-generation and other machine-assisted art (which I&#39;ve both produced and been a fan of at different times).  This book hasn&#39;t necessarily increased the coalescence of my own thoughts, but has provided rich fodder for them due to the excellent re-telling of some important historical episodes.  Grade: B+&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>_States of Adventure_ by Fitz Cahall</title>
