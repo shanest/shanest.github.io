@@ -6,178 +6,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>The Books I Read in 2024</title>
 	<meta name="description" content="Personal website of Shane Steinert-Threlkeld, with information on research and teaching, as well as a blog and trip reports from various outdoor adventures.">
+	<meta name="build.version" content="3.0.0">
+	<meta name="config.version" content="">
 	<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Shane Steinert-Threlkeld">
 	<link rel="alternate" href="/feed/feed.json" type="application/json" title="Shane Steinert-Threlkeld">
 	
-	<style> .postlist { counter-reset: start-from 17 }
-/**
- * okaidia theme for JavaScript, CSS and HTML
- * Loosely based on Monokai textmate theme by http://www.monokai.nl/
- * @author ocodia
- */
-
-code[class*="language-"],
-pre[class*="language-"] {
-	color: #f8f8f2;
-	background: none;
-	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	font-size: 1em;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	word-wrap: normal;
-	line-height: 1.5;
-
-	-moz-tab-size: 4;
-	-o-tab-size: 4;
-	tab-size: 4;
-
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-}
-
-/* Code blocks */
-pre[class*="language-"] {
-	padding: 1em;
-	margin: .5em 0;
-	overflow: auto;
-	border-radius: 0.3em;
-}
-
-:not(pre) > code[class*="language-"],
-pre[class*="language-"] {
-	background: #272822;
-}
-
-/* Inline code */
-:not(pre) > code[class*="language-"] {
-	padding: .1em;
-	border-radius: .3em;
-	white-space: normal;
-}
-
-.token.comment,
-.token.prolog,
-.token.doctype,
-.token.cdata {
-	color: #8292a2;
-}
-
-.token.punctuation {
-	color: #f8f8f2;
-}
-
-.token.namespace {
-	opacity: .7;
-}
-
-.token.property,
-.token.tag,
-.token.constant,
-.token.symbol,
-.token.deleted {
-	color: #f92672;
-}
-
-.token.boolean,
-.token.number {
-	color: #ae81ff;
-}
-
-.token.selector,
-.token.attr-name,
-.token.string,
-.token.char,
-.token.builtin,
-.token.inserted {
-	color: #a6e22e;
-}
-
-.token.operator,
-.token.entity,
-.token.url,
-.language-css .token.string,
-.style .token.string,
-.token.variable {
-	color: #f8f8f2;
-}
-
-.token.atrule,
-.token.attr-value,
-.token.function,
-.token.class-name {
-	color: #e6db74;
-}
-
-.token.keyword {
-	color: #66d9ef;
-}
-
-.token.regex,
-.token.important {
-	color: #fd971f;
-}
-
-.token.important,
-.token.bold {
-	font-weight: bold;
-}
-.token.italic {
-	font-style: italic;
-}
-
-.token.entity {
-	cursor: help;
-}
-/*
- * New diff- syntax
- */
-
-pre[class*="language-diff-"] {
-	--eleventy-code-padding: 1.25em;
-	padding-left: var(--eleventy-code-padding);
-	padding-right: var(--eleventy-code-padding);
-}
-.token.deleted {
-	background-color: hsl(0, 51%, 37%);
-	color: inherit;
-}
-.token.inserted {
-	background-color: hsl(126, 31%, 39%);
-	color: inherit;
-}
-
-/* Make the + and - characters unselectable for copy/paste */
-.token.prefix.unchanged,
-.token.prefix.inserted,
-.token.prefix.deleted {
-	-webkit-user-select: none;
-	user-select: none;
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-.token.prefix.inserted,
-.token.prefix.deleted {
-	width: var(--eleventy-code-padding);
-	background-color: rgba(0,0,0,.2);
-}
-
-/* Optional: full-width background color */
-.token.inserted:not(.prefix),
-.token.deleted:not(.prefix) {
-	display: block;
-	margin-left: calc(-1 * var(--eleventy-code-padding));
-	margin-right: calc(-1 * var(--eleventy-code-padding));
-	text-decoration: none; /* override del, ins, mark defaults */
-	color: inherit; /* override del, ins, mark defaults */
-} </style>
+	
+	<style> .postlist { counter-reset: start-from 17 } </style>
 
 	<link rel="stylesheet" href="/css/bootstrap.css">
 	<link rel="stylesheet" href="/css/et-font.css">
@@ -193,21 +28,26 @@ pre[class*="language-diff-"] {
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark bg-dark border-bottom border-2 border-light">
 			<div class="container">
-				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-					aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<a href="/" class="navbar-brand fs-2">Shane Steinert-Threlkeld</a>
 				<div class="collapse navbar-collapse" id="navbarCollapse">
 					<ul class="navbar-nav ms-auto mb-2 mb-md-0">
 						<li class="nav-item">
-							<a href="/" class="nav-link  fs-4" >Home</a>
+							<a href="/" class="nav-link  fs-4">Home</a>
 						</li>
 						<li class="nav-item">
-							<a href="/blog/" class="nav-link  fs-4" >Blog</a>
+							<a href="/photos/" class="nav-link  fs-4">Photos</a>
 						</li>
 						<li class="nav-item">
-							<a href="/about/" class="nav-link  fs-4" >About Me</a>
+							<a href="/blog/" class="nav-link  fs-4">Blog</a>
+						</li>
+						<li class="nav-item">
+							<a href="/about/" class="nav-link  fs-4">About Me</a>
+						</li>
+						<li class="nav-item">
+							<a href="/feed/feed.xml" class="nav-link  fs-4">Feed</a>
 						</li>
 					</ul>
 				</div>
@@ -221,12 +61,13 @@ pre[class*="language-diff-"] {
 				
 
 
+
 <article>
 
-<h1>The Books I Read in 2024</h1>
+<h1 id="the-books-i-read-in-2024">The Books I Read in 2024</h1>
 
 <p class="mb-1">
-<time datetime="2025-01-03">January 03, 2025</time>
+<time datetime="2025-01-03">03 January 2025</time>
 </p>
 <ul class="list-inline mb-4">
 	<li class="list-inline-item"><a href="/tags/annual-review/" class="post-tag">annual-review</a>, </li>
@@ -234,127 +75,127 @@ pre[class*="language-diff-"] {
 </ul>
 
 <p>Starting in 2020, I began keeping track of all of the books I read, a habit I adapted from my brother.  Starting in 2023, I jotted down a quick long-paragraph review (with a &quot;grade&quot;) of each book as well.  Here's the list of books I read in 2024, in reverse chronological order:</p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/alchemy-of-action/" class="postlist-link"><em>The Alchemy of Action</em> by Doug Robinson</a>
-<br />
-<time class="postlist-date" datetime="2024-10-01">October 01, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/climbing">climbing</a>,   <a href="/tags/neuroscience">neuroscience</a>,   <a href="/tags/psychadelics">psychadelics</a>
-</span>
-<br />
-<span class="fs-6">Grade: B+</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/pizza-in-new-haven/" class="postlist-link"><em>Pizza in New Haven</em> by Colin M. Caplan</a>
-<br />
-<time class="postlist-date" datetime="2024-09-11">September 11, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/food">food</a>,   <a href="/tags/history">history</a>
-</span>
-<br />
-<span class="fs-6">Grade: C+</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/the-darkest-white/" class="postlist-link"><em>The Darkest White</em> by Eric Blehm</a>
-<br />
-<time class="postlist-date" datetime="2024-08-20">August 20, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/mountain-sports">mountain sports</a>,   <a href="/tags/avalanche">avalanche</a>,   <a href="/tags/snowboarding">snowboarding</a>,   <a href="/tags/biography">biography</a>
-</span>
-<br />
-<span class="fs-6">Grade: A</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/clear-thinking/" class="postlist-link"><em>Clear Thinking</em> by Shane Parrish</a>
-<br />
-<time class="postlist-date" datetime="2024-07-28">July 28, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/self-help">self-help</a>,   <a href="/tags/cognitive-science">cognitive science</a>,   <a href="/tags/decision-making">decision-making</a>
-</span>
-<br />
-<span class="fs-6">Grade: C</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/a-brief-history-of-intelligence/" class="postlist-link"><em>A Brief History of Intelligence</em> by Max Bennett</a>
-<br />
-<time class="postlist-date" datetime="2024-07-07">July 07, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/science">science</a>,   <a href="/tags/artificial-intelligence">artificial intelligence</a>,   <a href="/tags/evolution">evolution</a>
-</span>
-<br />
-<span class="fs-6">Grade: A-</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/imagination-a-manifesto/" class="postlist-link"><em>Imagination: A Manifesto</em> by Ruha Benjamin</a>
-<br />
-<time class="postlist-date" datetime="2024-06-10">June 10, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/imagination">imagination</a>,   <a href="/tags/sociology">sociology</a>
-</span>
-<br />
-<span class="fs-6">Grade: A</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/hidden-life-of-trees/" class="postlist-link"><em>The Hidden Life of Trees</em> by Peter Wohlleben</a>
-<br />
-<time class="postlist-date" datetime="2024-05-05">May 05, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/trees">trees</a>
-</span>
-<br />
-<span class="fs-6">Grade: A</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/life-as-we-know-it-can-be/" class="postlist-link"><em>Life As We Know It (Can Be)</em> by Bill Weir</a>
-<br />
-<time class="postlist-date" datetime="2024-04-12">April 12, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/climate">climate</a>
-</span>
-<br />
-<span class="fs-6">Grade: B</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/the-art-of-shralpinism/" class="postlist-link"><em>The Art of Sharlpinism</em> by Jeremey Jones</a>
-<br />
-<time class="postlist-date" datetime="2024-03-16">March 16, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/skiing">skiing</a>,   <a href="/tags/snowboarding">snowboarding</a>,   <a href="/tags/sports">sports</a>
-</span>
-<br />
-<span class="fs-6">Grade: B+</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/i-rigoberta-menchu/" class="postlist-link"><em>I, Rigoberta Menchú</em> by Rigoberta Menchú</a>
-<br />
-<time class="postlist-date" datetime="2024-02-22">February 22, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/guatemala">guatemala</a>,   <a href="/tags/mayan-culture">mayan culture</a>,   <a href="/tags/politics">politics</a>
-</span>
-<br />
-<span class="fs-6">Grade: A</span>
-</p></p>
-<p><p class="postlist-item pb-4">
-<a href="/blog/book-reviews/eastern-standard-tribe/" class="postlist-link"><em>Eastern Standard Tribe</em> by Cory Doctorow</a>
-<br />
-<time class="postlist-date" datetime="2024-01-12">January 12, 2024</time>
-<br />
-<span class="fs-6">
-Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/fiction">fiction</a>,   <a href="/tags/time">time</a>,   <a href="/tags/mental-health">mental health</a>
-</span>
-<br />
-<span class="fs-6">Grade: B+</span>
-</p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/alchemy-of-action/" class="postlist-link"><em>The Alchemy of Action</em> by Doug Robinson</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-10-01">01 October 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/climbing">climbing</a>,   <a href="/tags/neuroscience">neuroscience</a>,   <a href="/tags/psychadelics">psychadelics</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: B+</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/pizza-in-new-haven/" class="postlist-link"><em>Pizza in New Haven</em> by Colin M. Caplan</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-09-11">11 September 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/food">food</a>,   <a href="/tags/history">history</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: C+</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/the-darkest-white/" class="postlist-link"><em>The Darkest White</em> by Eric Blehm</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-08-20">20 August 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/mountain-sports">mountain sports</a>,   <a href="/tags/avalanche">avalanche</a>,   <a href="/tags/snowboarding">snowboarding</a>,   <a href="/tags/biography">biography</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: A</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/clear-thinking/" class="postlist-link"><em>Clear Thinking</em> by Shane Parrish</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-07-28">28 July 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/self-help">self-help</a>,   <a href="/tags/cognitive-science">cognitive science</a>,   <a href="/tags/decision-making">decision-making</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: C</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/a-brief-history-of-intelligence/" class="postlist-link"><em>A Brief History of Intelligence</em> by Max Bennett</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-07-07">07 July 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/science">science</a>,   <a href="/tags/artificial-intelligence">artificial intelligence</a>,   <a href="/tags/evolution">evolution</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: A-</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/imagination-a-manifesto/" class="postlist-link"><em>Imagination: A Manifesto</em> by Ruha Benjamin</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-06-10">10 June 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/imagination">imagination</a>,   <a href="/tags/sociology">sociology</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: A</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/hidden-life-of-trees/" class="postlist-link"><em>The Hidden Life of Trees</em> by Peter Wohlleben</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-05-05">05 May 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/trees">trees</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: A</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/life-as-we-know-it-can-be/" class="postlist-link"><em>Life As We Know It (Can Be)</em> by Bill Weir</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-04-12">12 April 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/climate">climate</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: B</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/the-art-of-shralpinism/" class="postlist-link"><em>The Art of Sharlpinism</em> by Jeremey Jones</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-03-16">16 March 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/skiing">skiing</a>,   <a href="/tags/snowboarding">snowboarding</a>,   <a href="/tags/sports">sports</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: B+</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/i-rigoberta-menchu/" class="postlist-link"><em>I, Rigoberta Menchú</em> by Rigoberta Menchú</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-02-22">22 February 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/guatemala">guatemala</a>,   <a href="/tags/mayan-culture">mayan culture</a>,   <a href="/tags/politics">politics</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: A</span><br>
+</p><p></p>
+<p></p><p class="postlist-item pb-4"><br>
+<a href="/blog/book-reviews/eastern-standard-tribe/" class="postlist-link"><em>Eastern Standard Tribe</em> by Cory Doctorow</a><br>
+<br><br>
+<time class="postlist-date" datetime="2024-01-12">12 January 2024</time><br>
+<br><br>
+<span class="fs-6"><br>
+Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/fiction">fiction</a>,   <a href="/tags/time">time</a>,   <a href="/tags/mental-health">mental health</a><br>
+</span><br>
+<br><br>
+<span class="fs-6">Grade: B+</span><br>
+</p><p></p>
 
 
 </article>
@@ -367,7 +208,7 @@ Tags:  <a href="/tags/book-reviews">book-reviews</a>,   <a href="/tags/fiction">
 
 	<footer></footer>
 
-	<!-- This page `/blog/books-2024/` was built on 2025-02-19T21:04:08.371Z -->
+	<!-- This page `/blog/books-2024/` was built on 2025-02-26T18:26:48.651Z -->
 </body>
 
 </html>

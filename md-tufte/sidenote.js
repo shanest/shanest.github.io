@@ -1,6 +1,6 @@
 /* see https://gist.github.com/taniki/0eb61559482e40768b40dc5aea71dff4 */
 
-function sidenote(md) {
+export default function sidenote(md) {
     var parseLinkLabel = md.helpers.parseLinkLabel,
         isSpace = md.utils.isSpace;
 
@@ -95,5 +95,3 @@ function sidenote(md) {
 
     md.inline.ruler.after('image', 'footnote_inline', footnote_inline);
 }
-
-module.exports = sidenote

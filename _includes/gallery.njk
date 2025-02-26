@@ -1,0 +1,16 @@
+<div id="gallery" class="pswp-gallery mb-5">
+  {% for image in gallery %}
+  <a href="{{image.url}}" 
+    data-pswp-width="{{image.width}}" 
+    data-pswp-height="{{image.height}}" 
+    class="inline-block"
+    target="_blank">
+    <img loading="lazy" src="{{image.url}}" title="{{image.title}}" alt="{{image.alt}}" class="img-fluid" />
+  </a>
+  {% endfor %}
+
+</div>
+
+{%- css %}{% include "node_modules/photoswipe/dist/photoswipe.css" %}{% endcss %}
+{%- js %}{% include "node_modules/photoswipe/dist/photoswipe.esm.min.js" %}{% endjs %}
+{%- js %}{% include "node_modules/photoswipe/dist/photoswipe-lightbox.esm.min.js" %}{% endjs %}

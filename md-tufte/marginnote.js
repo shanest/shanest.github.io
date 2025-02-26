@@ -1,6 +1,6 @@
 /* see https://gist.github.com/taniki/0eb61559482e40768b40dc5aea71dff4 */
 
-function marginnote(md) {
+export default function marginnote(md) {
     var parseLinkLabel = md.helpers.parseLinkLabel,
         isSpace = md.utils.isSpace;
 
@@ -70,5 +70,3 @@ function marginnote(md) {
 
     md.inline.ruler.after('image', 'marginnote_inline', footnote_inline);
 }
-
-module.exports = marginnote

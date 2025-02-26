@@ -2,8 +2,9 @@
 layout: layouts/base.njk
 ---
 {# Only include the syntax highlighter CSS on blog posts #}
+{% if code %}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
-{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+{% endif %}
 {% if tufte %}
 {%- css %} article > p { width: 65% } {% endcss %}
 {% endif %}

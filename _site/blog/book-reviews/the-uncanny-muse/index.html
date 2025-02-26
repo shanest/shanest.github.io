@@ -6,178 +6,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>_The Uncanny Muse_ by David Hadju</title>
 	<meta name="description" content="Personal website of Shane Steinert-Threlkeld, with information on research and teaching, as well as a blog and trip reports from various outdoor adventures.">
+	<meta name="build.version" content="3.0.0">
+	<meta name="config.version" content="">
 	<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Shane Steinert-Threlkeld">
 	<link rel="alternate" href="/feed/feed.json" type="application/json" title="Shane Steinert-Threlkeld">
 	
-	<style> /**
- * okaidia theme for JavaScript, CSS and HTML
- * Loosely based on Monokai textmate theme by http://www.monokai.nl/
- * @author ocodia
- */
-
-code[class*="language-"],
-pre[class*="language-"] {
-	color: #f8f8f2;
-	background: none;
-	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	font-size: 1em;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	word-wrap: normal;
-	line-height: 1.5;
-
-	-moz-tab-size: 4;
-	-o-tab-size: 4;
-	tab-size: 4;
-
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-}
-
-/* Code blocks */
-pre[class*="language-"] {
-	padding: 1em;
-	margin: .5em 0;
-	overflow: auto;
-	border-radius: 0.3em;
-}
-
-:not(pre) > code[class*="language-"],
-pre[class*="language-"] {
-	background: #272822;
-}
-
-/* Inline code */
-:not(pre) > code[class*="language-"] {
-	padding: .1em;
-	border-radius: .3em;
-	white-space: normal;
-}
-
-.token.comment,
-.token.prolog,
-.token.doctype,
-.token.cdata {
-	color: #8292a2;
-}
-
-.token.punctuation {
-	color: #f8f8f2;
-}
-
-.token.namespace {
-	opacity: .7;
-}
-
-.token.property,
-.token.tag,
-.token.constant,
-.token.symbol,
-.token.deleted {
-	color: #f92672;
-}
-
-.token.boolean,
-.token.number {
-	color: #ae81ff;
-}
-
-.token.selector,
-.token.attr-name,
-.token.string,
-.token.char,
-.token.builtin,
-.token.inserted {
-	color: #a6e22e;
-}
-
-.token.operator,
-.token.entity,
-.token.url,
-.language-css .token.string,
-.style .token.string,
-.token.variable {
-	color: #f8f8f2;
-}
-
-.token.atrule,
-.token.attr-value,
-.token.function,
-.token.class-name {
-	color: #e6db74;
-}
-
-.token.keyword {
-	color: #66d9ef;
-}
-
-.token.regex,
-.token.important {
-	color: #fd971f;
-}
-
-.token.important,
-.token.bold {
-	font-weight: bold;
-}
-.token.italic {
-	font-style: italic;
-}
-
-.token.entity {
-	cursor: help;
-}
-/*
- * New diff- syntax
- */
-
-pre[class*="language-diff-"] {
-	--eleventy-code-padding: 1.25em;
-	padding-left: var(--eleventy-code-padding);
-	padding-right: var(--eleventy-code-padding);
-}
-.token.deleted {
-	background-color: hsl(0, 51%, 37%);
-	color: inherit;
-}
-.token.inserted {
-	background-color: hsl(126, 31%, 39%);
-	color: inherit;
-}
-
-/* Make the + and - characters unselectable for copy/paste */
-.token.prefix.unchanged,
-.token.prefix.inserted,
-.token.prefix.deleted {
-	-webkit-user-select: none;
-	user-select: none;
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-.token.prefix.inserted,
-.token.prefix.deleted {
-	width: var(--eleventy-code-padding);
-	background-color: rgba(0,0,0,.2);
-}
-
-/* Optional: full-width background color */
-.token.inserted:not(.prefix),
-.token.deleted:not(.prefix) {
-	display: block;
-	margin-left: calc(-1 * var(--eleventy-code-padding));
-	margin-right: calc(-1 * var(--eleventy-code-padding));
-	text-decoration: none; /* override del, ins, mark defaults */
-	color: inherit; /* override del, ins, mark defaults */
-}
-article > p { width: 65% } </style>
+	
+	<style> article > p { width: 65% } </style>
 
 	<link rel="stylesheet" href="/css/bootstrap.css">
 	<link rel="stylesheet" href="/css/et-font.css">
@@ -193,21 +28,26 @@ article > p { width: 65% } </style>
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark bg-dark border-bottom border-2 border-light">
 			<div class="container">
-				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-					aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<a href="/" class="navbar-brand fs-2">Shane Steinert-Threlkeld</a>
 				<div class="collapse navbar-collapse" id="navbarCollapse">
 					<ul class="navbar-nav ms-auto mb-2 mb-md-0">
 						<li class="nav-item">
-							<a href="/" class="nav-link  fs-4" >Home</a>
+							<a href="/" class="nav-link  fs-4">Home</a>
 						</li>
 						<li class="nav-item">
-							<a href="/blog/" class="nav-link  fs-4" >Blog</a>
+							<a href="/photos/" class="nav-link  fs-4">Photos</a>
 						</li>
 						<li class="nav-item">
-							<a href="/about/" class="nav-link  fs-4" >About Me</a>
+							<a href="/blog/" class="nav-link  fs-4">Blog</a>
+						</li>
+						<li class="nav-item">
+							<a href="/about/" class="nav-link  fs-4">About Me</a>
+						</li>
+						<li class="nav-item">
+							<a href="/feed/feed.xml" class="nav-link  fs-4">Feed</a>
 						</li>
 					</ul>
 				</div>
@@ -222,12 +62,13 @@ article > p { width: 65% } </style>
 
 
 
+
 <article>
 
-<h1><em>The Uncanny Muse</em> by David Hadju</h1>
+<h1 id="the-uncanny-muse-by-david-hadju"><em>The Uncanny Muse</em> by David Hadju</h1>
 
 <p class="mb-1">
-<time datetime="2025-02-17">February 17, 2025</time>
+<time datetime="2025-02-17">17 February 2025</time>
 </p>
 <ul class="list-inline mb-4">
 	<li class="list-inline-item"><a href="/tags/book-reviews/" class="post-tag">book-reviews</a>, </li>
@@ -249,7 +90,7 @@ article > p { width: 65% } </style>
 
 	<footer></footer>
 
-	<!-- This page `/blog/book-reviews/the-uncanny-muse/` was built on 2025-02-19T21:04:08.371Z -->
+	<!-- This page `/blog/book-reviews/the-uncanny-muse/` was built on 2025-02-26T18:26:48.651Z -->
 </body>
 
 </html>

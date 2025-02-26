@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	title: "Shane Steinert-Threlkeld",
 	url: "https://www.shane.st/",
 	language: "en",

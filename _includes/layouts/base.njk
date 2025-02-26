@@ -6,6 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ title or metadata.title }}</title>
 	<meta name="description" content="{{ description or metadata.description }}">
+	<meta name="build.version" content="{{ eleventy.version }}">
+	<meta name="config.version" content="{{ config.version }}">
 
 	{#- Atom and JSON feeds included by default #}
 	<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
@@ -19,9 +21,9 @@
 	1. You can add to them using `{% css %}`
 	2. You can get from them using `{% getBundle "css" %}` or `{% getBundleFileUrl "css" %}`
 	3. You can do the same for JS: {% js %}{% endjs %} and
-	<script>{% getBundle "js" %}</script>
 	4. Learn more: https://github.com/11ty/eleventy-plugin-bundle
 	#}
+	<script>{% getBundle "js" %}</script>
 
 	{#- Add an arbitrary string to the bundle #}
 	{#- {%- css %}* { box-sizing: border-box; }{% endcss %} -}
