@@ -114,7 +114,7 @@ export default async function(eleventyConfig) {
     const mdLib = markdownIt(
         {
             html: true,
-            breaks: true,
+            // breaks: true,
             linkify: true
         }
     )
