@@ -115,7 +115,8 @@ export default async function(eleventyConfig) {
         {
             html: true,
             // breaks: true,
-            linkify: true
+            linkify: true,
+            typographer: true,
         }
     )
 
