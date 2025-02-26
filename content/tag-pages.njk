@@ -14,9 +14,11 @@ const eleventyComputed = {
 	title: "Tagged '{{ tag }}'",
 	permalink: function(data) {
 		return `/tags/${this.slugify(data.tag)}/`;
-	}
+	},
+    layout: "layouts/base.njk",
 };
 ---
+
 <h1>Tagged “{{ tag }}”</h1>
 
 {% set postslist = collections[ tag ] %}

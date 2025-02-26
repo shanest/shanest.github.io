@@ -4,15 +4,15 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>_The Hidden Life of Trees_ by Peter Wohlleben</title>
-	<meta name="description" content="This is a post on My Blog about agile frameworks.">
+	<title>Shane Steinert-Threlkeld</title>
+	<meta name="description" content="Personal website of Shane Steinert-Threlkeld, with information on research and teaching, as well as a blog and trip reports from various outdoor adventures.">
 	<meta name="build.version" content="3.0.0">
 	<meta name="config.version" content="">
 	<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Shane Steinert-Threlkeld">
 	<link rel="alternate" href="/feed/feed.json" type="application/json" title="Shane Steinert-Threlkeld">
+	<script>/*__EleventyBundle:get:js:default:EleventyBundle__*/</script>
 	
-	
-	<style>  </style>
+	<style> /*__EleventyBundle:get:css:default:EleventyBundle__*/ </style>
 
 	<link rel="stylesheet" href="/css/bootstrap.css">
 	<link rel="stylesheet" href="/css/et-font.css">
@@ -60,26 +60,34 @@
 			<div class="col-10 mx-auto">
 				
 
+---js
+// <script>
+const pagination = {
+	data: "collections",
+	size: 1,
+	alias: "tag",
+	filter: ["all", "posts"],
+	// addAllPagesToCollections: true,
+};
+
+const eleventyExcludeFromCollections = true;
+
+const eleventyComputed = {
+	title: "Tagged ''",
+	permalink: function(data) {
+		return `/tags/${this.slugify(data.tag)}/`;
+	}
+};
+---
+
+<h1>Tagged “”</h1>
 
 
-<article>
-
-<h1 id="the-hidden-life-of-trees-by-peter-wohlleben"><em>The Hidden Life of Trees</em> by Peter Wohlleben</h1>
-
-<p class="mb-1">
-<time datetime="2024-05-05">05 May 2024</time>
-</p>
-<ul class="list-inline mb-4">
-	<li class="list-inline-item"><a href="/tags/book-reviews/" class="post-tag">book-reviews</a>, </li>
-	<li class="list-inline-item"><a href="/tags/trees/" class="post-tag">trees</a></li>
-</ul>
-
-<p><em>The Hidden Life of Trees</em>, Peter Wohlleben (audio).  A wonderful book that explains the ways in which trees communicate, live and die, and even interact socially.  (Amongst many other amazing behaviors, e.g. wound-tending.)  Written by a forest manager, and covering some of the relevant academic literature (e.g. around the role of mycelium networks in aiding communication in root systems), this book felt like a very refreshing “natural history” kind of book: it’s largely a narration of what you will see if you look closer and understand trees—and forests, in particular, as the difference between re-planted groves of trees and the richness of natural forests is a recurring theme—on their own terms and, in particular, at their own time-scale.  I certainly won’t look at trees the same way after this.  Grade: A</p>
 
 
-</article>
-<ul class="links-nextprev"><li>Previous: <a href="/blog/book-reviews/life-as-we-know-it-can-be/"><em>Life As We Know It (Can Be)</em> by Bill Weir</a></li><li>Next: <a href="/blog/book-reviews/imagination-a-manifesto/"><em>Imagination: A Manifesto</em> by Ruha Benjamin</a></li>
-</ul>
+
+
+<p>See <a href="tags.njk">all tags</a>.</p>
 
 			</div>
 		</div>
@@ -87,7 +95,7 @@
 
 	<footer></footer>
 
-	<!-- This page `/blog/book-reviews/hidden-life-of-trees/` was built on 2025-02-26T19:01:01.034Z -->
+	<!-- This page `/tag-pages/` was built on 2025-02-26T18:49:03.999Z -->
 </body>
 
-</html>
+</html></script></div></div></main></body></html>
