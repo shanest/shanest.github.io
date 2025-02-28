@@ -18,12 +18,14 @@ html {
   scroll-behavior: smooth;
 }
 
+/* 
 body {
   font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: #151515 !important;
   color: #ddd;
   counter-reset: sidenote-counter;
 }
+*/
 
 
 

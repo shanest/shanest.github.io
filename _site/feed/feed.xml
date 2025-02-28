@@ -5,11 +5,28 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-02-19T00:00:00Z</updated>
+  <updated>2025-02-25T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>_Amusing Ourselves to Death_ by Neal Postman</title>
+    <link href="https://example.com/blog/book-reviews/amusing-ourselves-to-death/" />
+    <updated>2025-02-25T00:00:00Z</updated>
+    <id>https://example.com/blog/book-reviews/amusing-ourselves-to-death/</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;Amusing Ourselves to Death&lt;/em&gt;, Neal Postman (audio).  I learned of this book from the great &lt;a href=&quot;https://drlennecefer.com/&quot;&gt;Len Necefer&lt;/a&gt;, most recently in his post-election post &lt;a href=&quot;https://drlennecefer.substack.com/p/the-algorithm-wont-save-us&quot;&gt;The Algorithm Won’t Save Us&lt;/a&gt; and his subsequent departure from Meta platforms.  Reading this book—written in 1985 on the heels of Reagan becoming president—in February 2025—on the heels of Trump’s second term—felt eerie.  Postman’s central claim is that “the medium is the metaphor”: the structure of the dominant media in which public discourse takes place shapes how the public conceives of truth and justification.&lt;span class=&quot;marginnote&quot;&gt;Whence the subtitle “Public discourse in the age of show business”.&lt;/span&gt;  He argues that the transition from a print-based mode of discourse to a television-baesd mode of discourse has fundamentally changed the nature of public discourse, from one in which long, reasoned arguments were entertained by the public&lt;label for=&quot;sn-0&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-0&quot; class=&quot;margin-toggle&quot;&gt;&lt;span class=&quot;sidenote&quot;&gt;As evidenced, for instance, by the extremely long form of debates in 17- and 1800s America.&lt;/span&gt; to one in which short, context-free nuggest of &lt;em&gt;entertainment&lt;/em&gt; are the dominant currency.&lt;/p&gt;
+&lt;p&gt;Although the book has its idiosyncracies—I found his discussion of photography to be somewhat vapid, and he spent an unusually long time discussing television evangelists—the history of information transmission, including the crucial distance-erasing effect of the telegraph, and the core argument are both compelling and have held up forty years later.&lt;span class=&quot;marginnote&quot;&gt;At separate times, he claimed that TV’s aesthetic preferences meant that no overweight person would become president, and that TV favors conciliatory messaging, so no red-faced angry person would become president. These claims have proven to be very obviously and sadly false.&lt;/span&gt;  Once concept that felt particularly apt to our current time is “The Peek-a-Boo World” (the title of Chapter 5).  Postman accuses television of trading in very small units that are de-contextualized and disconnected, in a way resembling a game of peek-a-boo.  His least favorite words appear to be “Now, this”, due to the abrupt transition between small units.&lt;/p&gt;
+&lt;p&gt;Accusing TV of creating a Peek-a-Boo world feels comical when algorithmic feeds like TikToks have reduced so many people into passive consumers of long streams of very short-form video content.  We all know the dopamine rush these feeds cause and euqally well the feeling of emptiness after scrolling for too long.  Doom-scrolling no longer refers to scrolling for purely negative news, but rather for the sense of doom one feels after losing track of how long one has been hooked on the feed.&lt;/p&gt;
+&lt;p&gt;Our public discourse has transformed even more deeply into an entertainment-based one in the 40 years since Postman’s book.  This depresses greatly but also motivates.  I’ve been working to break free of algorithmic feeds and shorter-form content myself and have been enjoying the restorative effects on my attention span and well-being (more on this in a later context).  Although I’m certainly not alone in this effort, this book does make one wonder: how can we change the dominant media landscape in a way that promotes a healthy, rational public discourse?  I hope that it’s possible.&lt;/p&gt;
+&lt;!--
+TODO: figure out / debug sidenote.js to get id working for label
+--&gt;
+&lt;!--
+This book is a classic, and for good reason.  Postman&#39;s thesis is that the medium of communication shapes the content of communication, and that the shift from a print-based culture to a television-based culture has had profound effects on public discourse.  Postman&#39;s argument is compelling, and his examples are well-chosen.  The book is a bit dated, and some of the examples are a bit stale, but the core argument is still relevant today.  Postman&#39;s writing is clear and engaging, and he makes his points effectively.  The book is a bit repetitive, but it&#39;s a quick read and well worth the time.  Grade: B+
+--&gt;
+</content>
+  </entry>
   <entry>
     <title>_Tender is the Flesh_ by Agustina Bazterrica</title>
     <link href="https://example.com/blog/book-reviews/tender-is-the-flesh/" />
@@ -201,14 +218,6 @@ Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-revi
     <updated>2024-08-20T00:00:00Z</updated>
     <id>https://example.com/blog/book-reviews/the-darkest-white/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;The Darkest White&lt;/em&gt;, Eric Blehm (audio).  This is the story of Craig Kelly, aptly subtitled “A mountain legend and the avalanche that took him”.  Kelly is someone I’d heard about—&lt;em&gt;the&lt;/em&gt; snowboarder’s snowboarder—but about whom I didn’t know much more, since (i) I ski and (ii) am relatively new to snow sports and so was not conscious of him during his rise and when this tragedy took place (early 2000s).  This book was gripping: a very informative character portrait from Kelly’s somewhat troubled early days in Mt. Vernon, WA and a portrait of the birth of a new sport.  He seems like a “real one”: dedicated to his craft, humble in his own success, and loyal to his loved ones.  The story of the avalanche itself (during an apprenticeship for Kelly to become the first snowboard-based mountain guide) is also very detailed and informative.  The epilogue must be read, as it paints a richer portrait of Ruedi Beglinger, the main guide that day, and his role in the affair.  (I suspect it’s an epilogue and not in the main text simply because many of the details could not be corroborated and Blehm seems to be a serious journalist.) Ultimately, it’s a story both of the pitfalls of interpersonal relationships, mental health, and the true randomness of the mountains.  Grade: A.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>_Clear Thinking_ by Shane Parrish</title>
-    <link href="https://example.com/blog/book-reviews/clear-thinking/" />
-    <updated>2024-07-28T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/clear-thinking/</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;Clear Thinking&lt;/em&gt;, Shane Parrish (audio).  I saw this book mentioned on a blog I read and my library had it available immediately as an audiobook (and a relatively short one) right before I set off on an international trip, so I decided to check it out.  Expecting some relatively interesting cognitive science (the purpose of the trip in fact), I instead received pretty standard self-help platitudes about process vs outcome, what you can control, and things of that sort.  (I don’t mean to belittle some of the ideas too much, but they were certainly old news to me.  The target demographic seems to be a certain kind of corporate and/or military bro.)  I almost stopped listening entirely when, in a lesson on personal accountability, the author parenthetically added: “Don’t blame the bus for being late. Get a car.”  That sentiment so completely misses the point (we should be striving to ween the USA off of its car-dependence and providing reliable public transit, not shaming people who have to rely on an under-funded system).  If it weren’t for the amount of time I was spending in airports and on trains, I would have left the book behind.  Grade: C&lt;/p&gt;
 </content>
   </entry>
 </feed>
