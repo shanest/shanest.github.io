@@ -2,7 +2,7 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { eleventyImageTransformPlugin, Image} from "@11ty/eleventy-img";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 
@@ -10,6 +10,8 @@ import pluginFilters from "./_config/filters.js";
 
 import marginnote from "./md-tufte/marginnote.js";
 import sidenote from "./md-tufte/sidenote.js";
+
+import path from "path";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -96,6 +98,23 @@ export default async function(eleventyConfig) {
 		sharpOptions: {
 			animated: true,
 		},
+	});
+
+	// custom image shortcode for photoswipe
+	eleventyConfig.addShortcode("gimage", async function (src, alt, widths = [200, "auto"], sizes = "") {
+		if (alt === undefined) {
+			// You bet we throw an error on missing alt (alt="" works okay)
+			throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+		}
+		// get proper path
+		let imageSrc = `${path.dirname(this.page.inputPath)}/${src}`;
+		let metadata = await Image(src, {widths: widths, sizes: sizes}); //.statsSync();
+		console.log(metadata);
+		console.log(metadata.jpeg[0]);
+		let data = metadata.jpeg[metadata.jpeg.length - 1];
+		let thumb_data = metadata.jpeg[0];
+		let anchor = `<a href="${data.url}" data-pswp-width="${data.width}" data-pswp-height="${data.height}" class="inline-block" target="_blank">`;
+		return `${anchor}<img src="${thumb_data.url}" alt="${alt}" loading="lazy" decoding="async" eleventy:ignore /></a>`;
 	});
 
 	// Filters
