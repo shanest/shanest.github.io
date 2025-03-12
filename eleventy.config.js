@@ -2,7 +2,8 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
-import { eleventyImageTransformPlugin, Image} from "@11ty/eleventy-img";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import Image from "@11ty/eleventy-img";
 import markdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
 
@@ -108,9 +109,8 @@ export default async function(eleventyConfig) {
 		}
 		// get proper path
 		let imageSrc = `${path.dirname(this.page.inputPath)}/${src}`;
-		let metadata = await Image(src, {widths: widths, sizes: sizes}); //.statsSync();
-		console.log(metadata);
-		console.log(metadata.jpeg[0]);
+		let metadata = await Image(imageSrc, {widths: widths, sizes: sizes, outputDir: `${eleventyConfig.dir.output}/img/`});
+		// TODO: get format automatically
 		let data = metadata.jpeg[metadata.jpeg.length - 1];
 		let thumb_data = metadata.jpeg[0];
 		let anchor = `<a href="${data.url}" data-pswp-width="${data.width}" data-pswp-height="${data.height}" class="inline-block" target="_blank">`;
