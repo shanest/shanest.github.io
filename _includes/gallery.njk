@@ -1,7 +1,5 @@
 <div id="gallery" class="pswp-gallery mb-5">
-  {% for image in gallery %}
-    {% gimage image.url, image.alt %}
-  {% endfor %}
+  {% for image in gallery %} {% gimage image.url, image.alt %} {% endfor %}
 </div>
 
 

@@ -110,6 +110,7 @@ export default async function(eleventyConfig) {
 		// get proper path
 		let imageSrc = `${path.dirname(this.page.inputPath)}/${src}`;
 		let metadata = await Image(imageSrc, {widths: widths, sizes: sizes, outputDir: `${eleventyConfig.dir.output}/img/`});
+
 		// TODO: get format automatically
 		let data = metadata.jpeg[metadata.jpeg.length - 1];
 		let thumb_data = metadata.jpeg[0];
