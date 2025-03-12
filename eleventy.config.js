@@ -102,7 +102,7 @@ export default async function(eleventyConfig) {
 	});
 
 	// custom image shortcode for photoswipe
-	eleventyConfig.addShortcode("gimage", async function (src, alt, widths = [200, "auto"], sizes = "") {
+	eleventyConfig.addShortcode("gimage", async function (src, alt, widths = [300, "auto"], sizes = "") {
 		if (alt === undefined) {
 			// You bet we throw an error on missing alt (alt="" works okay)
 			throw new Error(`Missing \`alt\` on myImage from: ${src}`);
@@ -114,7 +114,7 @@ export default async function(eleventyConfig) {
 		// TODO: get format automatically
 		let data = metadata.jpeg[metadata.jpeg.length - 1];
 		let thumb_data = metadata.jpeg[0];
-		let anchor = `<a href="${data.url}" data-pswp-width="${data.width}" data-pswp-height="${data.height}" class="inline-block" target="_blank">`;
+		let anchor = `<a href="${data.url}" data-pswp-width="${data.width}" data-pswp-height="${data.height}" class="inline-block p-3" target="_blank">`;
 		return `${anchor}<img src="${thumb_data.url}" alt="${alt}" loading="lazy" decoding="async" eleventy:ignore /></a>`;
 	});
 
