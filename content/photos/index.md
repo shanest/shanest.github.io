@@ -13,6 +13,9 @@ gallery:
   - url: ./CascadeLayers.jpg
     title: "Layers in the Cascade Mountains, prominently featuring Glacier Peak and Ranier"
     alt: "Layers in the Cascade Mountains, prominently featuring Glacier Peak and Ranier.  As seen from the west ridge of Forbidden Peak. 09/06/22"
+  - url: ./Tahoma.jpg 
+    title: "Tahoma (Rainier) as seen from the Northeast"
+    alt: "Tahoma (Rainier) as seen from the Northeast, with a nice lenticular hat. 03/07/22"
   - url: ./Triad-back.jpg
     title: "Looking at the backside Triad from the back"
     alt: "The back-side of the Triad, as seen from the Marble Creek cirque, nearing the Dorado Needle, in North Cascades National Park. The Kumquat couloir is on the far right side. 04/14/24"
