@@ -1,25 +1,22 @@
 ---
-layout: layouts/home.njk
+layout: layouts/base.njk
 numberOfLatestPostsToShow: 3
 ---
-{% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
-{% include "postslist.njk" %}
+{% css %}img { width: 100%; height: auto; }{% endcss %}
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
-{% endif %}
 
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
+<div class="row">
+    <div class="col">
+
+		# Welcome to my website!
+
+		Can I put more stuff here?
+
+	</div>
+
+	<div class="col-6">
+		<img src="./shane_headshot.png" alt="Photo of Shane Steinert-Threlkeld from " />
+	</div>
+</div>
+

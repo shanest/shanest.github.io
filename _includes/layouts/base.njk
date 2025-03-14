@@ -26,9 +26,11 @@
 	<script>{% getBundle "js" %}</script>
 
 	{#- Add an arbitrary string to the bundle #}
-	{#- {%- css %}* { box-sizing: border-box; }{% endcss %} -}
 	{#- Add the contents of a file to the bundle #}
-	{#- {%- css %}{% include "public/css/bootstrap.css" %}{% endcss %} #}
+	{%- css %}{% include "public/css/bootstrap.css" %}{% endcss %}
+	{%- css %}{% include "public/css/et-font.css" %}{% endcss %}
+	{%- css %}{% include "public/css/et-bootstrap.css" %}{% endcss %}
+	{%- css %}{% include "public/css/tufte.css" %}{% endcss %}
 	{#- Or add from node_modules #}
 	{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
@@ -37,10 +39,6 @@
 	{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
 	{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 
-	<link rel="stylesheet" href="/css/bootstrap.css">
-	<link rel="stylesheet" href="/css/et-font.css">
-	<link rel="stylesheet" href="/css/et-bootstrap.css">
-	<link rel="stylesheet" href="/css/tufte.css">
 
 </head>
 
