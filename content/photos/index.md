@@ -13,6 +13,9 @@ gallery:
   - url: ./CascadeLayers.jpg
     title: "Layers in the Cascade Mountains, prominently featuring Glacier Peak and Ranier"
     alt: "Layers in the Cascade Mountains, prominently featuring Glacier Peak and Ranier.  As seen from the west ridge of Forbidden Peak. 09/06/22"
+  - url: ./Tieton-boxes.jpg
+    title: "Apple crates resting for the winter in Tieton, WA"
+    alt: "Apple crates resting for the winter in Tieton, WA. 12/28/20"
   - url: ./Tahoma.jpg 
     title: "Tahoma (Rainier) as seen from the Northeast"
     alt: "Tahoma (Rainier) as seen from the Northeast, with a nice lenticular hat. 03/07/22"
