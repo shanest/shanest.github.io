@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>Blog Title</title>
-  <subtitle>This is a longer description about your blog.</subtitle>
-  <link href="https://example.com/feed/feed.xml" rel="self" />
-  <link href="https://example.com/" />
+  <title>Shane Steinert-Threlkeld&#39;s blog</title>
+  <subtitle>Posts from Shane Steinert-Threlkeld, with no promised frequency or content, though usually covering book reviews, trip reports, and miscellaneous academic thoughts.</subtitle>
+  <link href="https://shane.st/feed/feed.xml" rel="self" />
+  <link href="https://shane.st/" />
   <updated>2025-02-25T00:00:00Z</updated>
-  <id>https://example.com/</id>
+  <id>https://shane.st/</id>
   <author>
-    <name>Your Name</name>
+    <name>Shane Steinert-Threlkeld</name>
   </author>
   <entry>
     <title>_Amusing Ourselves to Death_ by Neal Postman</title>
-    <link href="https://example.com/blog/book-reviews/amusing-ourselves-to-death/" />
+    <link href="https://shane.st/blog/book-reviews/amusing-ourselves-to-death/" />
     <updated>2025-02-25T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/amusing-ourselves-to-death/</id>
+    <id>https://shane.st/blog/book-reviews/amusing-ourselves-to-death/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Amusing Ourselves to Death&lt;/em&gt;, Neal Postman (audio).  I learned of this book from the great &lt;a href=&quot;https://drlennecefer.com/&quot;&gt;Len Necefer&lt;/a&gt;, most recently in his post-election post &lt;a href=&quot;https://drlennecefer.substack.com/p/the-algorithm-wont-save-us&quot;&gt;The Algorithm Won’t Save Us&lt;/a&gt; and his subsequent departure from Meta platforms.  Reading this book—written in 1985 on the heels of Reagan becoming president—in February 2025—on the heels of Trump’s second term—felt eerie.  Postman’s central claim is that “the medium is the metaphor”: the structure of the dominant media in which public discourse takes place shapes how the public conceives of truth and justification.&lt;span class=&quot;marginnote&quot;&gt;Whence the subtitle “Public discourse in the age of show business”.&lt;/span&gt;  He argues that the transition from a print-based mode of discourse to a television-baesd mode of discourse has fundamentally changed the nature of public discourse, from one in which long, reasoned arguments were entertained by the public&lt;label for=&quot;sn-0&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-0&quot; class=&quot;margin-toggle&quot;&gt;&lt;span class=&quot;sidenote&quot;&gt;As evidenced, for instance, by the extremely long form of debates in 17- and 1800s America.&lt;/span&gt; to one in which short, context-free nuggest of &lt;em&gt;entertainment&lt;/em&gt; are the dominant currency.&lt;/p&gt;
 &lt;p&gt;Although the book has its idiosyncracies—I found his discussion of photography to be somewhat vapid, and he spent an unusually long time discussing television evangelists—the history of information transmission, including the crucial distance-erasing effect of the telegraph, and the core argument are both compelling and have held up forty years later.&lt;span class=&quot;marginnote&quot;&gt;At separate times, he claimed that TV’s aesthetic preferences meant that no overweight person would become president, and that TV favors conciliatory messaging, so no red-faced angry person would become president. These claims have proven to be very obviously and sadly false.&lt;/span&gt;  Once concept that felt particularly apt to our current time is “The Peek-a-Boo World” (the title of Chapter 5).  Postman accuses television of trading in very small units that are de-contextualized and disconnected, in a way resembling a game of peek-a-boo.  His least favorite words appear to be “Now, this”, due to the abrupt transition between small units.&lt;/p&gt;
 &lt;p&gt;Accusing TV of creating a Peek-a-Boo world feels comical when algorithmic feeds like TikToks have reduced so many people into passive consumers of long streams of very short-form video content.  We all know the dopamine rush these feeds cause and euqally well the feeling of emptiness after scrolling for too long.  Doom-scrolling no longer refers to scrolling for purely negative news, but rather for the sense of doom one feels after losing track of how long one has been hooked on the feed.&lt;/p&gt;
@@ -29,167 +29,167 @@ This book is a classic, and for good reason.  Postman&#39;s thesis is that the m
   </entry>
   <entry>
     <title>_Tender is the Flesh_ by Agustina Bazterrica</title>
-    <link href="https://example.com/blog/book-reviews/tender-is-the-flesh/" />
+    <link href="https://shane.st/blog/book-reviews/tender-is-the-flesh/" />
     <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/tender-is-the-flesh/</id>
+    <id>https://shane.st/blog/book-reviews/tender-is-the-flesh/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Tender is the Flesh&lt;/em&gt;, Agustina Bazterrica.  My first novel in a little while, this one was a shop’s pick in Charleston, SC during a visit to my mom for the new year.  It’s disturbing.  The premise: in a near-future world, a global virus has spread among all animals, forcing them to all be killed.  In response, sanctioned and regulated cannibalism has become the norm.&lt;label for=&quot;sn-0&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-0&quot; class=&quot;margin-toggle&quot;&gt;&lt;span class=&quot;sidenote&quot;&gt;Or did it? Several characters allude to a conspiracy theory, that the virus was a hoax so that the government could tighten regulation and control the population.&lt;/span&gt; Some of the regulations are linguistic: euphemisms (“the Transition”, “meat”, “head” to refer to a human bred for meat, etc) serve to mask the reality of what’s going on.  Some are not: the breeding process is very regulated to create humans that in a sense lack humanity (no names, no vocal chords, etc).  The protagonist works high up at a meat-processing plant.  He—his name is Marcos, but he’s almost uniformly referred to as “he” and the like—is a troubled soul: he does not like the work and the resulting dehumanization, but does so to take care of and provide for an ailing father.  He also has dark events in his past that contribute to his dissociative day-to-day existence.  While the book depicts truly gruesome events—detailed descriptions of a tour through a human slaughterhouse, a “game hunting” operation, and the like—the plot moves relatively quickly and the narration of Marcos’ inner-life keeps the reader grounded.  The prose is moving as well. At one point, an entire paragraph spanning two pages uses a long sequence of comma-separated clauses to both describe and mirror the mental chaos of a traumatic event.  I do not want to say too much about the plot,&lt;span class=&quot;marginnote&quot;&gt;The book has two “parts”, which are separated by a particular event which does, in a sense, change everything.&lt;/span&gt; but will just say: the ending genuinely surprised, and somewhat shook me.  The take home: Marcos—as we all are I suppose—is still just human after all.  Grade: A&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>_The Uncanny Muse_ by David Hadju</title>
-    <link href="https://example.com/blog/book-reviews/the-uncanny-muse/" />
+    <link href="https://shane.st/blog/book-reviews/the-uncanny-muse/" />
     <updated>2025-02-17T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/the-uncanny-muse/</id>
+    <id>https://shane.st/blog/book-reviews/the-uncanny-muse/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;The Uncanny Muse&lt;/em&gt;, David Hadju (audio).  This book’s subtitle—“Music, Art, and Machines from Automata to AI”—captures its greatest virtue: it provides both an illuminating and entertaining history of the role of machines in the arts as both of them have evolved throughout history (at least since around the 1600s).  Although it does contain many examples of visual art, including a long episode of Andy Warhol and the wider New York art world around the founding of MoMA and various exhibits of machines and art (including machines-as-art), it’s also no accident that the subtitle begins with “Music”: Hadju shines as a historian of music, telling of the development of the microphone, the player piano, electric organs, synthesizers, and the (embarassingly unknown-to-me) history of house music.  Hadju’s telling of the history flows smoothly and listens easily; corner-stone objects or moments provide for natural, and often unnoticed, transitions between historical episodes.  Tracing this history shows the cyclical nature of a debate that is re-surfacing now: new technologies are often thought to threaten human creativity, but oftentimes become accepted and expand it.  With that being said, two thoughts on Hadju’s handling of the present, LLM-driven moment, which felt like the weakest section to me.  On the one hand, he admirably does not directly argue for one view or another, but mostly just presents a history.  On the other hand, his use of ChatGPT to write a few paragraphs about its own history (this explained the eye-rolling phrase that it “perfects its…” TODO: look-up), and repeated emphasis of “the machine condition” in addition to the human condition lead one to believe that the present moment is just the latest instance in this historical cycle.  As I’m sure many people have, I’ve been having some currently-uncoalesced thoughts about asymmetries between LLM-generation and other machine-assisted art (which I’ve both produced and been a fan of at different times).  This book hasn’t necessarily increased the coalescence of my own thoughts, but has provided rich fodder for them due to the excellent re-telling of some important historical episodes.  Grade: B+&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>_States of Adventure_ by Fitz Cahall</title>
-    <link href="https://example.com/blog/book-reviews/states-of-adventure/" />
+    <link href="https://shane.st/blog/book-reviews/states-of-adventure/" />
     <updated>2025-02-16T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/states-of-adventure/</id>
+    <id>https://shane.st/blog/book-reviews/states-of-adventure/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;States of Adventure&lt;/em&gt;, Fitz Cahall.  This book was a perfect holiday gift for me.  Part coffee-table photo book, part adventure memoir anthology, it contains 30 relatively bit-sized stories distilled from Cahall’s podcast &lt;em&gt;The Dirtbag Diaries&lt;/em&gt;.  That show is the original outdoor/adventure podcast, and one of the earliest podcasts period.  I’m ashamed to say I’ve never listened to it (though I’ve listened to Cahall’s other show &lt;em&gt;Climbing Gold&lt;/em&gt;, and various interviews with him), so I can’t attest to the direct mapping from podcast episode to chapter in this book (though it is clear that they are not transcripts; many are also not written by Cahall, but by others who either lived the adventure or did the primary reporting).  For the most part, the stories were great reading and viewing.  Some were downright moving: a team of strangers banding together to carry a taken-too-soon-by-disease man’s boots through the Appalachian Trail so that they at least could fulfill his dream.  (This one felt like an antidote to the isolation that has created some of the larger problems in our world right now.). Some felt like they didn’t translate well into written form.  While I’m sure the story of the youngest rafting descent through the Colorado River in the Grand Canyon was riveting, the written word was not: “The river pulled her in.  Each wave formed its own deep canyon.  The kayaks acclerated down the backside of the wave.”  While certainly not nearly AI slop, some writing like this had a certain average-of-all-adventure-writing genericity reminiscent of ChatGPT’s “style”.  Some were especially enjoyable because they hit close to home: Fitz Cahall is a fellow Seattleite, almost exactly 10 years my senior, so I especially enjoyed hearing about his transition into family life with a trailer in Crystal Mountain’s famous Lot B, skiing down the iconic Brothers in the Olympic mountains, and his evolution as a climber in and through Index.  The book certainly has something for everyone, and I will happily pass it around and tell folks about many of the stories, though with a tongue not quite as silver as Cahall’s.  Grade: A-&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>_Cultish: The Language of Fanaticism_ by Amanda Montell</title>
-    <link href="https://example.com/blog/book-reviews/cultish/" />
+    <link href="https://shane.st/blog/book-reviews/cultish/" />
     <updated>2025-02-09T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/cultish/</id>
+    <id>https://shane.st/blog/book-reviews/cultish/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Cultish: The Language of Fanaticism&lt;/em&gt;, Amanda Montell (audio).  I stumbled upon this book just through browsing the Libby app, but thoroughly enjoyed it.  The name comes not just from analyzing cult-like groups, but is intended to evoke English and Spanish, in highlighting how language is used to form and shape groupthink.  Terms that were new to me—but labeling phenomena which are very much noticeable—include “thought-terminating cliché”  (aka “semantic stopsign”) and “love-bombing”.  Although it did include detailed analyses of several typical cults (e.g. Scientology, Jonestown, Heaven’s Gate), I especially appreciated the discussion of group fitness trends like CrossFit, SoulCycle, and Bikram yoga.  When I first became serious about physical training (for ultimate, in college), CrossFit was nearing its peak influence; luckily, I was able to extract some useful information while smeleling something a bit fishy in its celebration of suffering and zealousness of its supporters. (I also did a non-trivial number of Bikram classes during grad school.)  The final section covered social media influencers, highlighting a few from the wellness space that were news to me. The book also has a nice pace, with a clear structure, which also lent itself very well to the audio format.  Grade: B+&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>_On Writing_ by Stephen King</title>
-    <link href="https://example.com/blog/book-reviews/on-writing/" />
+    <link href="https://shane.st/blog/book-reviews/on-writing/" />
     <updated>2025-01-04T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/on-writing/</id>
+    <id>https://shane.st/blog/book-reviews/on-writing/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;On Writing&lt;/em&gt;, Stephen King.  This is (ironically?) the first thing I’ve read by Stephen King.&lt;label for=&quot;sn-0&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-0&quot; class=&quot;margin-toggle&quot;&gt;&lt;span class=&quot;sidenote&quot;&gt;test a sidenote.  If it gets too long, then what happens?&lt;/span&gt;  I’ve owned it for many years, buying it during one of those pangs of doubt near the end of grad school; maybe this would be the book that turned the pangs into a new self-conception.  Needless to say, I’m not sure what prompted me to finally pick up after so long; even after I got tenure.  Oh: probably the book I’m over 18 months late on and the grant application I had to delay as well.  Anyways: great read.  I see why Stephen King has had the success that he has.  The book opened with a memoir section; a rather turbulent and fragmented childhood was mirrored both in the prose (short, punchy sentences) and in the structure (very short numbered sections) in a very satisfying way.  I won’t go too much into the details of either his life or his suggestions (I think the four hours a day, every day, line has been repeated enough; and a small few things were a bit too specific to fiction writing), but will mention one other thing that stood out to me: his approach to writing as a craft (of course it is!), and the analogies to other crafts like plumbing.  I remember during grad school reading the introduction to Michael Dummett’s &lt;em&gt;A Logical Basis of Metaphysics&lt;/em&gt;, as erudite and obscure a book as exists (look at that title!), and being struck by the line, “Philosophy, after all, is a craft, as plumbing is”.  Several similar moments met me in King’s book.&lt;span class=&quot;marginnote&quot;&gt;How about a margin note? And what if I make it really really long?&lt;/span&gt;  Great read.  Not the last of his for me.  Grade:  A-&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>The Books I Read in 2024</title>
-    <link href="https://example.com/blog/books-2024/" />
+    <link href="https://shane.st/blog/books-2024/" />
     <updated>2025-01-03T00:00:00Z</updated>
-    <id>https://example.com/blog/books-2024/</id>
+    <id>https://shane.st/blog/books-2024/</id>
     <content type="html">&lt;p&gt;Starting in 2020, I began keeping track of all of the books I read, a habit I adapted from my brother.  Starting in 2023, I jotted down a quick long-paragraph review (with a “grade”) of each book as well.  Here’s the list of books I read in 2024, in reverse chronological order:&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/alchemy-of-action/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Alchemy of Action&lt;/em&gt; by Doug Robinson&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/alchemy-of-action/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Alchemy of Action&lt;/em&gt; by Doug Robinson&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-10-01&quot;&gt;01 October 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/climbing&quot;&gt;climbing&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/neuroscience&quot;&gt;neuroscience&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/psychadelics&quot;&gt;psychadelics&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/climbing&quot;&gt;climbing&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/neuroscience&quot;&gt;neuroscience&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/psychadelics&quot;&gt;psychadelics&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: B+&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/pizza-in-new-haven/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Pizza in New Haven&lt;/em&gt; by Colin M. Caplan&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/pizza-in-new-haven/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Pizza in New Haven&lt;/em&gt; by Colin M. Caplan&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-09-11&quot;&gt;11 September 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/food&quot;&gt;food&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/history&quot;&gt;history&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/food&quot;&gt;food&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/history&quot;&gt;history&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: C+&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/the-darkest-white/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Darkest White&lt;/em&gt; by Eric Blehm&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/the-darkest-white/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Darkest White&lt;/em&gt; by Eric Blehm&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-08-20&quot;&gt;20 August 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/mountain-sports&quot;&gt;mountain sports&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/avalanche&quot;&gt;avalanche&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/snowboarding&quot;&gt;snowboarding&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/biography&quot;&gt;biography&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/mountain-sports&quot;&gt;mountain sports&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/avalanche&quot;&gt;avalanche&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/snowboarding&quot;&gt;snowboarding&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/biography&quot;&gt;biography&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: A&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/clear-thinking/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Clear Thinking&lt;/em&gt; by Shane Parrish&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/clear-thinking/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Clear Thinking&lt;/em&gt; by Shane Parrish&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-07-28&quot;&gt;28 July 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/self-help&quot;&gt;self-help&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/cognitive-science&quot;&gt;cognitive science&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/decision-making&quot;&gt;decision-making&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/self-help&quot;&gt;self-help&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/cognitive-science&quot;&gt;cognitive science&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/decision-making&quot;&gt;decision-making&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: C&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/a-brief-history-of-intelligence/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;A Brief History of Intelligence&lt;/em&gt; by Max Bennett&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/a-brief-history-of-intelligence/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;A Brief History of Intelligence&lt;/em&gt; by Max Bennett&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-07-07&quot;&gt;07 July 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/science&quot;&gt;science&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/artificial-intelligence&quot;&gt;artificial intelligence&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/evolution&quot;&gt;evolution&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/science&quot;&gt;science&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/artificial-intelligence&quot;&gt;artificial intelligence&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/evolution&quot;&gt;evolution&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: A-&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/imagination-a-manifesto/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Imagination: A Manifesto&lt;/em&gt; by Ruha Benjamin&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/imagination-a-manifesto/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Imagination: A Manifesto&lt;/em&gt; by Ruha Benjamin&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-06-10&quot;&gt;10 June 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/imagination&quot;&gt;imagination&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/sociology&quot;&gt;sociology&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/imagination&quot;&gt;imagination&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/sociology&quot;&gt;sociology&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: A&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/hidden-life-of-trees/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Hidden Life of Trees&lt;/em&gt; by Peter Wohlleben&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/hidden-life-of-trees/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Hidden Life of Trees&lt;/em&gt; by Peter Wohlleben&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-05-05&quot;&gt;05 May 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/trees&quot;&gt;trees&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/trees&quot;&gt;trees&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: A&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/life-as-we-know-it-can-be/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Life As We Know It (Can Be)&lt;/em&gt; by Bill Weir&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/life-as-we-know-it-can-be/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Life As We Know It (Can Be)&lt;/em&gt; by Bill Weir&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-04-12&quot;&gt;12 April 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/climate&quot;&gt;climate&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/climate&quot;&gt;climate&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: B&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/the-art-of-shralpinism/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Art of Sharlpinism&lt;/em&gt; by Jeremey Jones&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/the-art-of-shralpinism/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;The Art of Sharlpinism&lt;/em&gt; by Jeremey Jones&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-03-16&quot;&gt;16 March 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/skiing&quot;&gt;skiing&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/snowboarding&quot;&gt;snowboarding&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/sports&quot;&gt;sports&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/skiing&quot;&gt;skiing&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/snowboarding&quot;&gt;snowboarding&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/sports&quot;&gt;sports&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: B+&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/i-rigoberta-menchu/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;I, Rigoberta Menchú&lt;/em&gt; by Rigoberta Menchú&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/i-rigoberta-menchu/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;I, Rigoberta Menchú&lt;/em&gt; by Rigoberta Menchú&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-02-22&quot;&gt;22 February 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/guatemala&quot;&gt;guatemala&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/mayan-culture&quot;&gt;mayan culture&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/politics&quot;&gt;politics&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/guatemala&quot;&gt;guatemala&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/mayan-culture&quot;&gt;mayan culture&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/politics&quot;&gt;politics&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: A&lt;/span&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;postlist-item pb-4&quot;&gt;
-&lt;a href=&quot;https://example.com/blog/book-reviews/eastern-standard-tribe/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Eastern Standard Tribe&lt;/em&gt; by Cory Doctorow&lt;/a&gt;
+&lt;a href=&quot;https://shane.st/blog/book-reviews/eastern-standard-tribe/&quot; class=&quot;postlist-link&quot;&gt;&lt;em&gt;Eastern Standard Tribe&lt;/em&gt; by Cory Doctorow&lt;/a&gt;
 &lt;br&gt;
 &lt;time class=&quot;postlist-date&quot; datetime=&quot;2024-01-12&quot;&gt;12 January 2024&lt;/time&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;
-Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/fiction&quot;&gt;fiction&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/time&quot;&gt;time&lt;/a&gt;,   &lt;a href=&quot;https://example.com/tags/mental-health&quot;&gt;mental health&lt;/a&gt;
+Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/fiction&quot;&gt;fiction&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/time&quot;&gt;time&lt;/a&gt;,   &lt;a href=&quot;https://shane.st/tags/mental-health&quot;&gt;mental health&lt;/a&gt;
 &lt;/span&gt;
 &lt;br&gt;
 &lt;span class=&quot;fs-6&quot;&gt;Grade: B+&lt;/span&gt;
@@ -198,25 +198,25 @@ Tags:  &lt;a href=&quot;https://example.com/tags/book-reviews&quot;&gt;book-revi
   </entry>
   <entry>
     <title>_The Alchemy of Action_ by Doug Robinson</title>
-    <link href="https://example.com/blog/book-reviews/alchemy-of-action/" />
+    <link href="https://shane.st/blog/book-reviews/alchemy-of-action/" />
     <updated>2024-10-01T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/alchemy-of-action/</id>
+    <id>https://shane.st/blog/book-reviews/alchemy-of-action/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;The Alchemy of Action&lt;/em&gt;, Doug Robinson.  The main question on the title: “Why do people climb mountains?”  A great question, especially to someone who spends as much of their free time climbing as I (and many of my friends) do.  The answer: “Because it gets us high.”  A more intriguing answer than Sir Edmund Hillary’s “Because it’s there.”  More concretely, the book argues—suggests, in an appropriately humble way, may be more appropriate—that adventure sports (running, skiing, climbing, etc) can cause the body to produce DMT and/or anandamide (a new-to-me neurotransmitter that binds to the same receptors as THC), which is responsible for feelings of euphoria, heightened perception, and the like in these contexts.  A self-published book about psychadelics certainly runs the risk of becoming too detached from the facts on the ground; and although Robinson’s writing style often veers towards Huxley and Hunter S Thompson, it struck me as relatively well-informed and very appropriately scientifically modest: he knows when and is clear to flag when he’s speculating and when he’s reporting results from the literature.  And this description of various metabolic pathways and the scientific literature is intermixed with some good old-fashioned mountain man memoir writing (Robinson was a pioneer in the golden era of Yosemite climbing and a long-time mountain guide in the Sierras).  Am I fully convinced of the core thesis? No. Do I regret reading the book? Definitely not.  Do I want to follow-up and see what’s been discovered on these topics in the 20 years since Robinson wrote this?  Quite possibly.  Grade: B+&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>_Pizza in New Haven_ by Colin M. Caplan</title>
-    <link href="https://example.com/blog/book-reviews/pizza-in-new-haven/" />
+    <link href="https://shane.st/blog/book-reviews/pizza-in-new-haven/" />
     <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/pizza-in-new-haven/</id>
+    <id>https://shane.st/blog/book-reviews/pizza-in-new-haven/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Pizza in New Haven&lt;/em&gt;, Colin M. Caplan.  My brother got me this book as a gift several years ago because we grew up 40 minutes away from New Haven and would go somewhat regularly for pizza (has to be Sally’s for me).  An upcoming trip to New Haven caused me to finally sit down and read the book.  While Colin Caplan certainly loves New Haven and its pizza history and has done a great service to many people and families in documenting the history of pizza in New Haven—and many photos of old restaurants, people, advertisements, and the like add a lot of context and character—this book leaves much to be desired.  In my day job as a linguistics professor, when discussing pragmatics (language use in context) over semantics (literal meaning), I often joke about how conversation and discourse is much more complex than randomly sampling true sentences and uttering them.  Unfortunately, this book often felt like the latter.  Tons of very detailed facts were sequenced together, but not stitched together into any kind of larger historical arc or story.   This lack of narrative arc also caused the book to lack structure; it was unclear why certain stories were placed where they were, or why certain chapters followed the previous ones. In addition to quite a few typos, there were basic issues that gave the impression the book had not been proof-read; for example, “coke-fired” ovens were discussed from the very beginning, but not explained until page 189.  Several stories were repeated, often just pages apart.  I did still learn a lot, including seeing the impact of Redevelopment (plowing neighborhoods for highways, as in too many US cities) in New Haven, but was certainly left wanting. (I’m somewhat ashamed that this was my first print book of the year, in September.)  Grade: C+&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>_The Darkest White_ by Eric Blehm</title>
-    <link href="https://example.com/blog/book-reviews/the-darkest-white/" />
+    <link href="https://shane.st/blog/book-reviews/the-darkest-white/" />
     <updated>2024-08-20T00:00:00Z</updated>
-    <id>https://example.com/blog/book-reviews/the-darkest-white/</id>
+    <id>https://shane.st/blog/book-reviews/the-darkest-white/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;The Darkest White&lt;/em&gt;, Eric Blehm (audio).  This is the story of Craig Kelly, aptly subtitled “A mountain legend and the avalanche that took him”.  Kelly is someone I’d heard about—&lt;em&gt;the&lt;/em&gt; snowboarder’s snowboarder—but about whom I didn’t know much more, since (i) I ski and (ii) am relatively new to snow sports and so was not conscious of him during his rise and when this tragedy took place (early 2000s).  This book was gripping: a very informative character portrait from Kelly’s somewhat troubled early days in Mt. Vernon, WA and a portrait of the birth of a new sport.  He seems like a “real one”: dedicated to his craft, humble in his own success, and loyal to his loved ones.  The story of the avalanche itself (during an apprenticeship for Kelly to become the first snowboard-based mountain guide) is also very detailed and informative.  The epilogue must be read, as it paints a richer portrait of Ruedi Beglinger, the main guide that day, and his role in the affair.  (I suspect it’s an epilogue and not in the main text simply because many of the details could not be corroborated and Blehm seems to be a serious journalist.) Ultimately, it’s a story both of the pitfalls of interpersonal relationships, mental health, and the true randomness of the mountains.  Grade: A.&lt;/p&gt;
 </content>
   </entry>
