@@ -24,7 +24,7 @@ gallery:
     alt: "The back-side of the Triad, as seen from the Marble Creek cirque, nearing the Dorado Needle, in North Cascades National Park. The Kumquat couloir is on the far right side. 04/14/24"
 ---
 
-I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures.  Here are a few random ones that have caught my eye over the years.  This page/section is a work in progress, which may or may not become more organized over time.
+I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures.  Here are a few random ones that have caught my eye over the years.  This page/section is a work in progress; photos will be added, and they may or may not become more organized over time.
 
 {% include "gallery.njk" %}
 
