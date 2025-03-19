@@ -149,7 +149,7 @@ export default async function(eleventyConfig) {
 				placement: "after",
 				class: "header-anchor",
 				symbol: "#",
-				ariaHidden: false,
+				ariaHidden: true,
 			}),
 			level: [1, 2, 3, 4],
 			slugify: eleventyConfig.getFilter("slugify")
