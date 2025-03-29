@@ -6,7 +6,10 @@ layout: layouts/home.njk
 <img src="./shane_headshot.png" alt="Photo of Shane Steinert-Threlkeld from " style="float:right; width:35%; height: auto" />
 
 
-# Welcome to my website!
+# Welcome to my corner of the web!
 
-Can I put more stuff here? 
+Hello!  My name's Shane.
 
+Professionally, I'm an Associate Professor in the Linguistics department at the University of Washington, where I work in computational linguistics and cognitive science.
+
+In my non-professional life, I'm passionate about the outdoors---especially rock climbing, (backcountry) skiing, and bicycling---as well as food, design, and urbanism.

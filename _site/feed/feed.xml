@@ -5,11 +5,18 @@
   <subtitle>Posts from Shane Steinert-Threlkeld, with no promised frequency or content, though usually covering book reviews, trip reports, and miscellaneous academic thoughts.</subtitle>
   <link href="https://shane.st/feed/feed.xml" rel="self" />
   <link href="https://shane.st/" />
-  <updated>2025-02-25T00:00:00Z</updated>
+  <updated>2025-03-28T00:00:00Z</updated>
   <id>https://shane.st/</id>
   <author>
     <name>Shane Steinert-Threlkeld</name>
   </author>
+  <entry>
+    <title>My Corner of the Web</title>
+    <link href="https://shane.st/blog/my-corner-web/" />
+    <updated>2025-03-28T00:00:00Z</updated>
+    <id>https://shane.st/blog/my-corner-web/</id>
+    <content type="html"></content>
+  </entry>
   <entry>
     <title>_Amusing Ourselves to Death_ by Neal Postman</title>
     <link href="https://shane.st/blog/book-reviews/amusing-ourselves-to-death/" />
@@ -210,14 +217,6 @@ Tags:  &lt;a href=&quot;https://shane.st/tags/book-reviews&quot;&gt;book-reviews
     <updated>2024-09-11T00:00:00Z</updated>
     <id>https://shane.st/blog/book-reviews/pizza-in-new-haven/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Pizza in New Haven&lt;/em&gt;, Colin M. Caplan.  My brother got me this book as a gift several years ago because we grew up 40 minutes away from New Haven and would go somewhat regularly for pizza (has to be Sally’s for me).  An upcoming trip to New Haven caused me to finally sit down and read the book.  While Colin Caplan certainly loves New Haven and its pizza history and has done a great service to many people and families in documenting the history of pizza in New Haven—and many photos of old restaurants, people, advertisements, and the like add a lot of context and character—this book leaves much to be desired.  In my day job as a linguistics professor, when discussing pragmatics (language use in context) over semantics (literal meaning), I often joke about how conversation and discourse is much more complex than randomly sampling true sentences and uttering them.  Unfortunately, this book often felt like the latter.  Tons of very detailed facts were sequenced together, but not stitched together into any kind of larger historical arc or story.   This lack of narrative arc also caused the book to lack structure; it was unclear why certain stories were placed where they were, or why certain chapters followed the previous ones. In addition to quite a few typos, there were basic issues that gave the impression the book had not been proof-read; for example, “coke-fired” ovens were discussed from the very beginning, but not explained until page 189.  Several stories were repeated, often just pages apart.  I did still learn a lot, including seeing the impact of Redevelopment (plowing neighborhoods for highways, as in too many US cities) in New Haven, but was certainly left wanting. (I’m somewhat ashamed that this was my first print book of the year, in September.)  Grade: C+&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>_The Darkest White_ by Eric Blehm</title>
-    <link href="https://shane.st/blog/book-reviews/the-darkest-white/" />
-    <updated>2024-08-20T00:00:00Z</updated>
-    <id>https://shane.st/blog/book-reviews/the-darkest-white/</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;The Darkest White&lt;/em&gt;, Eric Blehm (audio).  This is the story of Craig Kelly, aptly subtitled “A mountain legend and the avalanche that took him”.  Kelly is someone I’d heard about—&lt;em&gt;the&lt;/em&gt; snowboarder’s snowboarder—but about whom I didn’t know much more, since (i) I ski and (ii) am relatively new to snow sports and so was not conscious of him during his rise and when this tragedy took place (early 2000s).  This book was gripping: a very informative character portrait from Kelly’s somewhat troubled early days in Mt. Vernon, WA and a portrait of the birth of a new sport.  He seems like a “real one”: dedicated to his craft, humble in his own success, and loyal to his loved ones.  The story of the avalanche itself (during an apprenticeship for Kelly to become the first snowboard-based mountain guide) is also very detailed and informative.  The epilogue must be read, as it paints a richer portrait of Ruedi Beglinger, the main guide that day, and his role in the affair.  (I suspect it’s an epilogue and not in the main text simply because many of the details could not be corroborated and Blehm seems to be a serious journalist.) Ultimately, it’s a story both of the pitfalls of interpersonal relationships, mental health, and the true randomness of the mountains.  Grade: A.&lt;/p&gt;
 </content>
   </entry>
 </feed>
