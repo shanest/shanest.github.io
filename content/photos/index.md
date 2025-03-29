@@ -22,6 +22,9 @@ gallery:
   - url: ./Triad-back.jpg
     title: "Looking at the backside Triad from the back"
     alt: "The back-side of the Triad, as seen from the Marble Creek cirque, nearing the Dorado Needle, in North Cascades National Park. The Kumquat couloir is on the far right side. 04/14/24"
+  - url: ./reiter-sun.jpg
+    title: "Sun bursting through the trees at the Reiter Foothills"
+    alt: "Sun shining through trees on Reiter Road, approaching the foothills between Gold Bar and Index, WA.  10/30/21"
 ---
 
 I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures.  Here are a few random ones that have caught my eye over the years.  This page/section is a work in progress; photos will be added, and they may or may not become more organized over time.
