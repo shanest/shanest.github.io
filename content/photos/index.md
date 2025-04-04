@@ -25,6 +25,9 @@ gallery:
   - url: ./reiter-sun.jpg
     title: "Sun bursting through the trees at the Reiter Foothills"
     alt: "Sun shining through trees on Reiter Road, approaching the foothills between Gold Bar and Index, WA.  10/30/21"
+  - url: ./ams-pride.jpg
+    title: "The opening of a pride parade in Amsterdam, 2018"
+    alt: "A person hovering high over Prinsengracht canal in Amsterdam, shooting confetti in the air, to celebrate the start of pride parade. 08/04/18"
 ---
 
 I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures.  Here are a few random ones that have caught my eye over the years.  This page/section is a work in progress; photos will be added, and they may or may not become more organized over time.
