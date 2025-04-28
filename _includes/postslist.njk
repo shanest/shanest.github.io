@@ -2,7 +2,7 @@
 {% for post in postslist | reverse %}
 	{% if (not postsyear) or (postsyear === post.data.year) %}
 	<p class="postlist-item{% if post.url == url %} postlist-item-active{% endif %} pb-4">
-		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title | markdownit | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title | markdowninline | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
 		<br />
 		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
 		<br />

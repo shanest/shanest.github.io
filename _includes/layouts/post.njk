@@ -12,7 +12,7 @@ layout: layouts/base.njk
 
 <article>
 
-<h1>{{ title | markdownit | safe}}</h1>
+{{ ["# ", title] | join | markdownit | safe}}
 
 <p class="mb-1">
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>

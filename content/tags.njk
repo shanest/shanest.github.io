@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 ---
 
-<h1>Tags</h1>
+{{"# Tags" | markdownit | safe }}
 
 <ul>
 {% for tag in collections | getKeys | filterTagList | sortAlphabetically %}

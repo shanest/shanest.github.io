@@ -8,7 +8,7 @@ eleventyNavigation:
 <div class="row">
   <div class="col-8">
 
-<h1>Blog</h1>
+{{ "# Blog" | markdownit | safe }}
 
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}
@@ -16,7 +16,8 @@ eleventyNavigation:
   </div>
   <div class="col-4">
 
-<h1>Tags</h1>
+{{ "# Tags" | markdownit | safe }}
+
     <ul>
 {% for tag in collections | getKeys | filterTagList | sortAlphabetically %}
 	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}

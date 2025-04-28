@@ -19,7 +19,7 @@ const eleventyComputed = {
 };
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+{{ ["# Tagged “", tag, "”"] | join | markdownit | safe }}
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}

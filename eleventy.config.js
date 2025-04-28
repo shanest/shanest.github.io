@@ -157,7 +157,8 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(sidenote).use(marginnote));
 
-	eleventyConfig.addFilter("markdownit", string => { return mdLib.renderInline(string); });
+	eleventyConfig.addFilter("markdownit", string => { return mdLib.render(string); });
+	eleventyConfig.addFilter("markdowninline", string => { return mdLib.renderInline(string); });
 
 	// Features to make your build faster (when you need them)
 
