@@ -145,12 +145,11 @@ export default async function(eleventyConfig) {
     	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
-			permalink: markdownItAnchor.permalink.ariaHidden({
-				placement: "after",
-				class: "header-anchor",
-				symbol: "#",
-				ariaHidden: true,
-			}),
+			permalink: markdownItAnchor.permalink.linkInsideHeader({
+				style: 'visually-hidden',
+				assistiveText: title => `Permalink to “${title}”`,
+				visuallyHiddenClass: 'visually-hidden',
+			  }),
 			level: [1, 2, 3, 4],
 			slugify: eleventyConfig.getFilter("slugify")
 		});
