@@ -6,6 +6,7 @@ export default function sidenote(md) {
 
     function render_footnote_ref(tokens, idx, options, env, slf) {
         var id = tokens[idx].meta.id
+        console.log(id);
 
         var label = `<label for="sn-${id}" class="margin-toggle sidenote-number"></label>`
         var input = `<input type="checkbox" id="sn-${id}" class="margin-toggle"/>`
@@ -15,7 +16,6 @@ export default function sidenote(md) {
 
     function render_sidenote(tokens, idx, options, env, slf) {
         var content = tokens[idx].content
-        console.log(content);
         var sidenote = `<span class="sidenote">${md.renderInline(content)}</span>`
         return sidenote
     }
@@ -73,6 +73,13 @@ export default function sidenote(md) {
             token = state.push('sidenote', '', 0);
             token.content = state.src.slice(labelStart, labelEnd)
             token.children = tokens
+
+            // NOTE: this fixes a but where multiple inline sidenotes were getting the same ID
+            // see here: https://github.com/markdown-it/markdown-it-footnote/blob/fe6c169c72b9f4d6656b10aa449128456f5a990e/index.mjs#L201
+            state.env.footnotes.list[footnoteId] = {
+                content: state.src.slice(labelStart, labelEnd),
+                tokens
+            }
 
             // token      = state.push('sidenote_open', '', 1);
             // token.meta = { id: footnoteId };
