@@ -1,0 +1,11 @@
+---
+title: "_The Sirens' Call_ by Chris Hayes"
+date: 2025-06-01
+medium: audio
+grade: B+
+tags:
+    - "attention economy"
+    - "social media"
+---
+
+[_The Sirens' Call: How Attention Became the World's Most Endangered Resource_](https://bookshop.org/a/111171/9780593653111) by Chris Hayes (audio).  This book begins with the famed fable of Ulysses and the Sirens, as well as brief history and etymology of the word "siren".  The reason: where sirens are designed to steal our attention from us and place it elsewhere where it is urgently needed, Hayes argues that the barage of notifications and other intrusions from smartphones and the like play the same attention-stealing function but without the societal benefit.  Rather: attention has been commodified and is being systematically extracted from us.  Like some commodities (oil), there is a fixed and finite amount of attention to be extracted; unlike oil, however, attention is "internal", constituting our very selves.  Hayes argues that commodifying attention has produced wide-scale alienation^[I admire him for not being afraid to invoke Marx explicitly here.]  I was also happy to see the non-trivial reference to [_Amusing Ourselves to Death_](amusing-ourselves-to-death.md) in the course of this argument.  Part memoir---Hayes admits to working in the attention business as a TV anchor and thriving off of recruiting and keeping hold on attention---, part history book, and part self-help book, _The Sirens' Call_ ends with a call-to-action stemming from an observation that folks are beginning to pry back control of their own attention.  He cites the rise in "dumb phones" as well as the increase in vinyl record sales and interest in print media.^[Though he focuses on newspapers, I see this in my world with things like the [Summit Journal](https://www.summitjournal.com/), [Mountain Gazette](https://mountaingazette.com/), and the [Climbing Zine](https://climbingzine.com/).  These publications feed a need for long-form story-telling and artistic expression that the Instagram story can't capture.]  Let's hope these movements---and perhaps a healthy does of regulation---wrest control back from the tech giants and help restore attention to its rightful bearers.  Grade: B+
