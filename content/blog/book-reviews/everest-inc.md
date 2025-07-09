@@ -1,0 +1,14 @@
+---
+title: "_Everest, Inc._ by Will Cockrell"
+date: 2025-06-22
+medium: audio
+grade: A-
+tufte: true
+tags:
+    - alpinism
+    - business
+    - climbing
+    - history
+---
+
+[_Everest, Inc.: The Renegades and Rogues who Built an Industry at the Top of the World_](https://bookshop.org/a/111171/9781982190460) by Will Cockrell (audio). This book chronicles the history of the commercial guiding industry on Everest, departing from standard books about Everest in taking a wide view on the history of this peak instead of recounting particular experiences.  It also departs from standard tales of Everest by not force-feeding the reader with a particular viewpoint on issues like overcrowding and the like.  The tale begins with [Dick Bass](https://en.wikipedia.org/wiki/Richard_Bass)' ascent as part of his endeavor to be the first person to climb the "seven summits" (highest point on each continent).^[I first heard of Bass thanks to a statue at Snowbird, which he owned and operated for many years as well.  Although the plaquard conveyed some of his colorful story, I didn't know the extent of his fame or the influence of the resulting book that he wrote.] Bass might be singlehandedly responsible for the "rich tourist" stereotype of guided clients on Everest.  Although Bass paid mountain guides to go on his trips, he was a member of a climbing team and not officially a client of a guiding service.  The book then recounts the race to become the first commercial operation to take a client to the summit of Everest^[In 1991! I didn't realize how recent it was.] as well as many ensuing developments, including the two most tragic years^[One being the day recounted in Krakauer's _Into Thin Air_.] and the development of Nepali-owned and operated guiding services.^[The book dedicates a whole chapter to [Nimsdai](https://en.wikipedia.org/wiki/Nirmal_Purja), which is apprropriate given his fame.  Although it does a good job explaining the love/hate dynamic around a polarizingly self-aggrandizing figure, the chapter does not at all mention [the extremely detailed New York Times piece](https://www.nytimes.com/2024/05/31/sports/mountaineering-sexual-harassment-abuse-nims-purja.html) accusing him of sexual harassment and abuse.  I suspect this has to do with when the book went to press, but it feels like a glaring omission given the date the book was actually released.]  The book is well-researched, fast-paced, and an engaging read (errr, listen).  This is [the second time in recent memory](thirty-below) that I've been turned on to a book from the podcast tour and, once again, the book was so much richer than the abstracted-away talking points were. I'd recommend the book to anyone interested in the history of mountaineering and the commercialization of both Everest and of nature in general.  Grade: A- 
