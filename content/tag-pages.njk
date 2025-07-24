@@ -21,7 +21,7 @@ const eleventyComputed = {
 
 {{ ["# Tagged “", tag, "”"] | join | markdownit | safe }}
 
-{% set postslist = collections[ tag ] %}
+{% set postslist = (collections[ tag ] | reverse) %}
 {% include "postslist.njk" %}
 
 <p>See <a href="tags.njk">all tags</a>.</p>
