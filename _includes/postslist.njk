@@ -1,5 +1,6 @@
 {%- css %}.postlist { counter-reset: start-from {{ (postslistCounter or postslist.length) + 1 }} }{% endcss %}
-{% for post in postslist | reverse %}
+{# {% for post in postslist | reverse %} #}
+{% for post in postslist %}
 	{% if (not postsyear) or (postsyear === post.data.year) %}
 	<p class="postlist-item{% if post.url == url %} postlist-item-active{% endif %} pb-4">
 		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title | markdowninline | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
