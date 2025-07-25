@@ -16845,6 +16845,21 @@ pre code {
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://www.shane.st/blog/books-2020/</loc>
+		<lastmod>2021-01-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/books-2021/</loc>
+		<lastmod>2022-01-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/books-2022/</loc>
+		<lastmod>2023-01-03</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://www.shane.st/blog/book-reviews/bigger-better-bolder/</loc>
 		<lastmod>2023-01-15</lastmod>
 	</url>
@@ -16912,6 +16927,11 @@ pre code {
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-power-of-habit/</loc>
 		<lastmod>2023-12-15</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://www.shane.st/blog/books-2023/</loc>
+		<lastmod>2024-01-03</lastmod>
 	</url>
 	
 	<url>
