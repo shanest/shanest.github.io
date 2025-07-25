@@ -17,6 +17,7 @@ const eleventyComputed = {
 	},
     layout: "layouts/base.njk",
 };
+
 ---
 
 {{ ["# Tagged “", tag, "”"] | join | markdownit | safe }}
