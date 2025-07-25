@@ -31,17 +31,18 @@ pagination:
 
   </div>
 
-  <nav aria-labelledby="my-pagination">
-  <h2 id="my-pagination">This is my Pagination</h2>
-  <ol>
-    <li>{% if page.url != pagination.href.first %}<a href="{{ pagination.href.first }}">First</a>{% else %}First{% endif %}</li>
-    <li>{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">Previous</a>{% else %}Previous{% endif %}</li>
+</div>
+
+<div class="row">
+
+  <ul class="nav justify-content-center">
+    <li class="nav-item"><a href="{% if page.url != pagination.href.first %}{{ pagination.href.first }}{% else %}#{% endif %}" class="nav-link">First</a></li>
+    <li class="nav-item"><a href="{% if pagination.href.previous %}{{ pagination.href.previous }}{% else %}${% endif %}" class="nav-link">Previous</a></li>
 {%- for pageEntry in pagination.pages %}
-    <li><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Page {{ loop.index }}</a></li>
+    <li class="nav-item"><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %} class="nav-link">Page {{ loop.index }}</a></li>
 {%- endfor %}
-    <li>{% if pagination.href.next %}<a href="{{ pagination.href.next }}">Next</a>{% else %}Next{% endif %}</li>
-    <li>{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}">Last</a>{% else %}Last{% endif %}</li>
-  </ol>
-</nav>
+    <li class="nav-item">{% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="nav-link">Next</a>{% else %}Next{% endif %}</li>
+    <li class="nav-item">{% if page.url != pagination.href.last %}<a href="{{ pagination.href.last }}" class="nav-link">Last</a>{% else %}Last{% endif %}</li>
+  </ul>
 
 </div>
