@@ -6,7 +6,6 @@ export default function sidenote(md) {
 
     function render_footnote_ref(tokens, idx, options, env, slf) {
         var id = tokens[idx].meta.id
-        console.log(id);
 
         var label = `<label for="sn-${id}" class="margin-toggle sidenote-number"></label>`
         var input = `<input type="checkbox" id="sn-${id}" class="margin-toggle"/>`

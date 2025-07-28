@@ -48,7 +48,9 @@
 	},
 	"dependencies": {
 		"@zachleat/heading-anchors": "^1.0.1",
+		"bootstrap": "^5.3.7",
 		"markdown-it-anchor": "^9.2.0",
-		"photoswipe": "^5.4.4"
+		"photoswipe": "^5.4.4",
+		"sass": "^1.89.2"
 	}
 }

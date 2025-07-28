@@ -13,6 +13,8 @@ import marginnote from "./md-tufte/marginnote.js";
 import sidenote from "./md-tufte/sidenote.js";
 
 import path from "path";
+import * as sass from "sass";
+import { RenderPlugin } from "@11ty/eleventy";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -54,6 +56,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+	eleventyConfig.addPlugin(RenderPlugin);
 
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "atom", // or "rss", "json"
@@ -159,6 +162,38 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.addFilter("markdownit", string => { return mdLib.render(string); });
 	eleventyConfig.addFilter("markdowninline", string => { return mdLib.renderInline(string); });
+
+	eleventyConfig.addExtension("scss", {
+		outputFileExtension: "css",
+
+		// opt-out of Eleventy Layouts
+		useLayouts: false,
+
+		compile: async function (inputContent, inputPath) {
+			let parsed = path.parse(inputPath);
+			// Don’t compile file names that start with an underscore
+			if(parsed.name.startsWith("_")) {
+				return;
+			}
+
+			let result = sass.compileString(inputContent, {
+				loadPaths: [
+					parsed.dir || ".",
+					this.config.dir.includes,
+				]
+			});
+
+			// Map dependencies for incremental builds
+			this.addDependencies(inputPath, result.loadedUrls);
+
+			console.log(inputPath);
+
+			return async (data) => {
+				return result.css;
+			};
+		},
+	});
+	eleventyConfig.addTemplateFormats("scss");
 
 	// Features to make your build faster (when you need them)
 

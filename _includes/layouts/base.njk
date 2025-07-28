@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ metadata.language }}">
+<html lang="{{ metadata.language }}" data-bs-theme="dark">
 
 <head>
 	<meta charset="utf-8">
@@ -28,7 +28,9 @@
 
 	{#- Add an arbitrary string to the bundle #}
 	{#- Add the contents of a file to the bundle #}
-	{%- css %}{% include "public/css/bootstrap.css" %}{% endcss %}
+	{%- css %}
+	{% renderFile "content/css/shanest.scss" %}
+	{% endcss %}
 	{%- css %}{% include "public/css/et-font.css" %}{% endcss %}
 	{%- css %}{% include "public/css/et-bootstrap.css" %}{% endcss %}
 	{%- css %}{% include "public/css/tufte.css" %}{% endcss %}
@@ -45,7 +47,7 @@
 
 
 
-<body class="bg-dark text-light container">
+<body class="container">
 
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark bg-dark border-bottom border-2 border-light">
