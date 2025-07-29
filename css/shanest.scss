@@ -1,15 +1,48 @@
 // Option A: Include all of Bootstrap
+// Option B: Include parts of Bootstrap
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "../node_modules/bootstrap/scss/functions";
+
+// 2. Include any default variable overrides here
+
+// 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+
+$headings-color-dark: #c06805;
+$body-bg-dark: $gray-600;
+
+// 4. Include any default map overrides here
+
+// 5. Include remainder of required parts
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+
+// 6. Include any other optional stylesheet partials as desired; list below is not inclusive of all available stylesheets
+@import "../node_modules/bootstrap/scss/utilities";
+@import "../node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/type";
+@import "../node_modules/bootstrap/scss/images";
+@import "../node_modules/bootstrap/scss/containers";
+@import "../node_modules/bootstrap/scss/grid";
+@import "../node_modules/bootstrap/scss/helpers";
+// ...
+@import "../node_modules/bootstrap/scss/nav";
+@import "../node_modules/bootstrap/scss/navbar";
+
+// 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
+@import "../node_modules/bootstrap/scss/utilities/api";
+
+// 8. Add additional custom code here
 
 // Include any default variable overrides here (though functions won’t be available)
 
-$headings-color-dark: #e07a04;
-
-// import all bootstrap
-@use "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
 
 // ET fonts
-@use "et-font";
-@use "et-bootstrap";
-@use "tufte";
+@import "et-font";
+@import "et-bootstrap";
+@import "tufte";

@@ -29,7 +29,6 @@
 	{#- Add an arbitrary string to the bundle #}
 	{#- Add the contents of a file to the bundle #}
 	{%- css %}
-	{% renderFile "css/shanest.scss" %}
 	{% endcss %}
 	{#- 
 	{%- css %}{% include "public/css/et-font.css" %}{% endcss %}
@@ -43,6 +42,7 @@
 	<style> {% getBundle "css" %} </style>
 	{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
 	{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
+	<link rel="stylesheet" href="/css/shanest.css">
 
 
 </head>
@@ -52,7 +52,7 @@
 <body class="container">
 
 	<header>
-		<nav class="navbar navbar-expand-md navbar-dark bg-dark border-bottom border-2 border-light">
+		<nav class="navbar navbar-expand-md border-bottom border-2">
 			<div class="container">
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
 					aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

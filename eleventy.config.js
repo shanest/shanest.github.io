@@ -143,6 +143,10 @@ export default async function(eleventyConfig) {
         }
     )
 
+	eleventyConfig.setBrowserSyncConfig({
+		files: './_site/css/**/*.css'
+	});
+
     eleventyConfig.setLibrary("md", mdLib);
 
     	// Customize Markdown library settings:
@@ -163,6 +167,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addFilter("markdownit", string => { return mdLib.render(string); });
 	eleventyConfig.addFilter("markdowninline", string => { return mdLib.renderInline(string); });
 
+	/*
 	eleventyConfig.addExtension("scss", {
 		outputFileExtension: "css",
 
@@ -193,6 +198,7 @@ export default async function(eleventyConfig) {
 		},
 	});
 	eleventyConfig.addTemplateFormats("scss");
+	*/
 
 	// Features to make your build faster (when you need them)
 
