@@ -29,11 +29,13 @@
 	{#- Add an arbitrary string to the bundle #}
 	{#- Add the contents of a file to the bundle #}
 	{%- css %}
-	{% renderFile "content/css/shanest.scss" %}
+	{% renderFile "css/shanest.scss" %}
 	{% endcss %}
+	{#- 
 	{%- css %}{% include "public/css/et-font.css" %}{% endcss %}
 	{%- css %}{% include "public/css/et-bootstrap.css" %}{% endcss %}
 	{%- css %}{% include "public/css/tufte.css" %}{% endcss %}
+	#}
 	{#- Or add from node_modules #}
 	{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 

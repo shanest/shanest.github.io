@@ -2,9 +2,14 @@
 
 // Include any default variable overrides here (though functions won’t be available)
 
-$body-color-dark: #c67d0e;
+$headings-color-dark: #e07a04;
 
 // import all bootstrap
-@import "../../node_modules/bootstrap/scss/bootstrap";
+@use "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
+
+// ET fonts
+@use "et-font";
+@use "et-bootstrap";
+@use "tufte";

@@ -180,13 +180,12 @@ export default async function(eleventyConfig) {
 				loadPaths: [
 					parsed.dir || ".",
 					this.config.dir.includes,
-				]
+				],
+				quietDeps: true,
 			});
 
 			// Map dependencies for incremental builds
 			this.addDependencies(inputPath, result.loadedUrls);
-
-			console.log(inputPath);
 
 			return async (data) => {
 				return result.css;
@@ -213,6 +212,7 @@ export const config = {
 		"html",
 		"liquid",
 		"11ty.js",
+		"scss",
 	],
 
 	// Pre-process *.md files with: (default: `liquid`)
