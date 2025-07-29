@@ -143,8 +143,8 @@ export default async function(eleventyConfig) {
         }
     )
 
-	eleventyConfig.setBrowserSyncConfig({
-		files: './_site/css/**/*.css'
+	eleventyConfig.setServerOptions({
+		watch: ["_site/**/*.css"], // watch for CSS changes in the output directory
 	});
 
     eleventyConfig.setLibrary("md", mdLib);
