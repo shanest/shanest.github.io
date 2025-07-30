@@ -9,4 +9,4 @@ tags:
     - culture
 ---
 
-_The Good Enough Job_ by Simone Stolzoff (audio). Another preaching-to-the-choir self-help book, but enjoyable because this one centered around several individual stories: of those who started a union at Kickstarter, lived in their truck at Google, and the like. The book is a general plea for re- and de-prioritizing work in your life. One cute quip from the concluding chapter: replacing "what do you do?" with "what do you like to do?" as the default small-talk line. I'll incorporate that one. Grade: A-
+[_The Good Enough Job_](https://bookshop.org/a/111171/9780593538968) by Simone Stolzoff (audio). Another preaching-to-the-choir self-help book, but enjoyable because this one centered around several individual stories: of those who started a union at Kickstarter, lived in their truck at Google, and the like. The book is a general plea for re- and de-prioritizing work in your life. One cute quip from the concluding chapter: replacing "what do you do?" with "what do you like to do?" as the default small-talk line. I'll incorporate that one. Grade: A-
