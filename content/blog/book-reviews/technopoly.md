@@ -1,0 +1,25 @@
+---
+title: "_Technopoly_ by Neil Postman"
+date: 2025-08-05
+medium: audio
+grade: B+
+tufte: true
+tags:
+    - technology
+    - history
+---
+
+[_Technopoly: The Surrender of Culture to Technology_](https://bookshop.org/a/111171/9780679745402) by Neil Postman (audio).
+After reading [_Amusing Ourselves to Death_](amusing-ourselves-to-death.md), I was keen to read more Postman.  This book, from just under a decade later, picks up some of the same themes,^[For instance, making reference to his idea of the "Peek-a-Boo World" of rapid image-change, well before the likes of TikTok existed.] describes a progression of cultures and their relationship to technology, from tool-using, to technocracies, to technopoly.  This latter---a coinage of Postman's---was not explicitly defined, but broadly refers to a culture where the dominant values and forms of cultural life are seen as _subservient_ to technology.  By contrast, in a technocracy, tools are a central metaphor pervading all forms of thought and metaphor, but are still intended to help, promote, and augment that culture.
+
+The meat of the book contains many interesting historical episodes---for instance, the history of numerical grading and the invention of management structures as well as a science thereof were news to me---and articulation of many ways in which technologies have become invisible while shaping our lives.  But, for possibly idiosyncratic reasons, I want to focus on the final chapter, where Postman self-consciously moves from critic to advocate, articulating a theory of change largely centered on education.
+
+This chapter---"The Loving Resistance Fighter"---begins by articulating, against the backdrop of the first Persian Gulf War, reasons for Americans to feel proud of their country by reminding people of values and a vision for society articulated in the nation's founding.^[This need, given the behavior of our governments, feels like one of the dominant themes of my teenage and adult life.] It then moves to education as a mechanism for developing resistance to technocracy, by articulating a vision for education that is less instrumental than the dominant one (still to this day) of producing an efficient workforce.
+
+Postman's vision, perhaps surprisingly, centers two disciplines as foundational: history and semantics. History plays a central role because every discipline, scientific or humanistic, has a history.  My first reaction was that this was true of philosophy as much as history.  Of course, I quickly realized that I have many friends who are historians of philosophy^[I even dabbled in it myself, writing a qualifying paper in grad school on Kant.] as well as a few who are philosophers of history.  So, it just might be that there's a cycle at the foundation of this enterprise.  Postman advocates for a teaching of each discipline that makes frequent and explicit reference to its history, so that students can situate current knowledge and practice in the long march of humanity to its present state.^[He explicitly models this form of education on [_The Ascent of Man_](https://en.wikipedia.org/wiki/The_Ascent_of_Man), though he updates it to "the ascent of humanity".] Against this backdrop, history then should focus on comparative history, and the art and practice of crafting histories and understanding how each one expresses the "raw facts" in a particular way and through a particular lens.
+
+As a semanticist,^[I actually am, but this is a joke for my friends.] I was especially surprised to hear semantics mentioned next as a foundational discipline in Postman's vision for education.  Perhaps I shouldn't have been: this and [_Amusing Ourselves to Death_](amusing-ourselves-to-death.md) both emphasize the symbolic landscape in which we are embedded, and which signs have which meanings.  Postman's argument is that semantics---in his definition, which may be closer to philosophy of language or metasemantics as currently understoody, studying how language relates to the external world, how symbols acquire meaning, and the different types of signs---equips students to question their environment and the cacophany of symbols that they encounter in their daily lives.  He argues that creating such an inquisitive attitude is esential to resisting technopoly but that the lack of docility so inculcated makes it unappealing to many in the managerial class.
+
+The book is not without its flaws: lack of precise definitions, some cherry-picked examples, and a sweeping critique of social science as a whole which felt somewhat unfair.^[Something I intended to write more about, but am out of time and space at the present.]  But: it was thought-provoking and has given me several things that I plan to continue to think about.  That's more than can be said for a lot of books.
+
+Grade: B+
