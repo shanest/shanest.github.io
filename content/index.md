@@ -3,7 +3,7 @@ layout: layouts/home.njk
 ---
 
 
-<img src="./shane_headshot.png" alt="Photo of Shane Steinert-Threlkeld from " style="float:right; width:35%; height: auto" />
+<img src="./shane_headshot.png" alt="Photo of Shane Steinert-Threlkeld from " class="m-3 float-end" style="width:35%; height: auto" />
 
 
 # Welcome to my corner of the web!
