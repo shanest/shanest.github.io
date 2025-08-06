@@ -4516,7 +4516,7 @@
 <body class="container">
 
 	<header>
-		<nav class="navbar navbar-expand-md border-bottom border-2">
+		<nav class="navbar navbar-expand-md border-bottom border-primary border-2">
 			<div class="container">
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
 					aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -4796,7 +4796,7 @@
 	
 	<url>
 		<loc>https://www.shane.st/feed/feed.xml</loc>
-		<lastmod>2025-08-05</lastmod>
+		<lastmod>2025-08-06</lastmod>
 	</url>
 </urlset>
 
