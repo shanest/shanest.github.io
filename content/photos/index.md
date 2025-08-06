@@ -28,6 +28,9 @@ gallery:
   - url: ./ams-pride.jpg
     title: "The opening of a pride parade in Amsterdam, 2018"
     alt: "A person hovering high over Prinsengracht canal in Amsterdam, shooting confetti in the air, to celebrate the start of pride parade. 08/04/18"
+  - url: ./perfection-lake.jpg
+    title: "Perfection Lake, from Prusik Pass"
+    alt: "Perfection Lake, with Little Annapurna on the right, McClellan Peak on the left, and Rainier/Tahoma in the distance in the background, as seen from Prusik Pass on descending from climbing the west ridge of Prusik Peak. 07/06/25"
 ---
 
 I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures.  Here are a few random ones that have caught my eye over the years.  This page/section is a work in progress; photos will be added, and they may or may not become more organized over time.
