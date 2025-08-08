@@ -1,6 +1,7 @@
 ---
 eleventyNavigation:
-  key: "C.V."
-  url: "/cv/"
+  key: CV
+  url: /cv/
+  order: 1
 permalink: false
 ---
