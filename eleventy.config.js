@@ -218,7 +218,6 @@ export const config = {
 		"html",
 		"liquid",
 		"11ty.js",
-		"scss",
 	],
 
 	// Pre-process *.md files with: (default: `liquid`)

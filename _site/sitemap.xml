@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Shane Steinert-Threlkeld</title>
 	<meta name="description" content="Personal website of Shane Steinert-Threlkeld, with information on research and teaching, as well as a blog and trip reports from various outdoor adventures.">
-	<meta name="build.version" content="3.0.0">
+	<meta name="build.version" content="3.1.2">
 	<meta name="config.version" content="">
 	<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Shane Steinert-Threlkeld">
 	<link rel="alternate" href="/feed/feed.json" type="application/json" title="Shane Steinert-Threlkeld">
@@ -4526,6 +4526,9 @@
 				<div class="collapse navbar-collapse" id="navbarCollapse">
 					<ul class="navbar-nav ms-auto mb-2 mb-md-0">
 						<li class="nav-item">
+							<a href="/cv/" class="nav-link  fs-4" >C.V.</a>
+						</li>
+						<li class="nav-item">
 							<a href="/photos/" class="nav-link  fs-4" >Photos</a>
 						</li>
 						<li class="nav-item">
@@ -4548,256 +4551,408 @@
 			<div class="col-10 mx-auto">
 				<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/books-2020/</loc>
 		<lastmod>2021-01-03</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/books-2021/</loc>
 		<lastmod>2022-01-03</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/books-2022/</loc>
 		<lastmod>2023-01-03</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/bigger-better-bolder/</loc>
 		<lastmod>2023-01-15</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/into-thin-air/</loc>
 		<lastmod>2023-01-30</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/annapurna/</loc>
 		<lastmod>2023-02-15</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/mathematics-for-human-flourishing/</loc>
 		<lastmod>2023-03-01</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-last-empty-places/</loc>
 		<lastmod>2023-03-20</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-visual-display-of-quantitative-information/</loc>
 		<lastmod>2023-04-10</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/a-psalm-for-the-wild-built/</loc>
 		<lastmod>2023-05-01</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/training-for-the-new-alpinism/</loc>
 		<lastmod>2023-05-10</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/a-prayer-for-the-crown-shy/</loc>
 		<lastmod>2023-05-20</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/all-the-gold-stars/</loc>
 		<lastmod>2023-07-15</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-good-enough-job/</loc>
 		<lastmod>2023-08-05</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/a-fine-line/</loc>
 		<lastmod>2023-09-01</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-boys-in-the-boat/</loc>
 		<lastmod>2023-10-20</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-power-of-habit/</loc>
 		<lastmod>2023-12-15</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/books-2023/</loc>
 		<lastmod>2024-01-03</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/eastern-standard-tribe/</loc>
 		<lastmod>2024-01-12</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/i-rigoberta-menchu/</loc>
 		<lastmod>2024-02-22</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-art-of-shralpinism/</loc>
 		<lastmod>2024-03-16</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/life-as-we-know-it-can-be/</loc>
 		<lastmod>2024-04-12</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/about/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/tags/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/hidden-life-of-trees/</loc>
 		<lastmod>2024-05-05</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/imagination-a-manifesto/</loc>
 		<lastmod>2024-06-10</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/a-brief-history-of-intelligence/</loc>
 		<lastmod>2024-07-07</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/clear-thinking/</loc>
 		<lastmod>2024-07-28</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-darkest-white/</loc>
 		<lastmod>2024-08-20</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/pizza-in-new-haven/</loc>
 		<lastmod>2024-09-11</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/alchemy-of-action/</loc>
 		<lastmod>2024-10-01</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/books-2024/</loc>
 		<lastmod>2025-01-03</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/on-writing/</loc>
 		<lastmod>2025-01-04</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/cultish/</loc>
 		<lastmod>2025-02-09</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/states-of-adventure/</loc>
 		<lastmod>2025-02-16</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-uncanny-muse/</loc>
 		<lastmod>2025-02-17</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/tender-is-the-flesh/</loc>
 		<lastmod>2025-02-19</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/photos/</loc>
 		<lastmod>2025-02-19</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/amusing-ourselves-to-death/</loc>
 		<lastmod>2025-02-25</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/my-corner-web/</loc>
 		<lastmod>2025-03-28</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/beyond-the-mountain/</loc>
 		<lastmod>2025-04-11</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/lost-trees-willow-ave/</loc>
 		<lastmod>2025-04-24</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/the-sirens-call/</loc>
 		<lastmod>2025-06-01</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/thirty-below/</loc>
 		<lastmod>2025-06-05</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/everest-inc/</loc>
 		<lastmod>2025-06-22</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/uplifted/</loc>
 		<lastmod>2025-07-22</lastmod>
 	</url>
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/blog/book-reviews/technopoly/</loc>
 		<lastmod>2025-08-05</lastmod>
 	</url>
+
+
+
+
+
 	
 	<url>
 		<loc>https://www.shane.st/feed/feed.xml</loc>
 		<lastmod>2025-08-08</lastmod>
 	</url>
+
 </urlset>
 
 			</div>
