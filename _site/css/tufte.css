@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 /* Import ET Book styles
 @font-face {
   font-family: "et-book";
@@ -13,7 +11,6 @@
   font-display: swap;
 }
  */
-
 /* General Typography Overrides */
 html {
   scroll-behavior: smooth;
@@ -27,18 +24,18 @@ body {
   counter-reset: sidenote-counter;
 }
 */
-
-
+article {
+  position: relative;
+}
 
 /* Sidenotes and Marginnotes */
 .sidenote, .marginnote {
-  float: right;
-  clear: right;
   width: 35%;
-  margin-right: -60%;
+  right: 0;
+  padding-left: 2rem;
   font-size: 1.1rem;
   line-height: 1.3;
-  position: relative;
+  position: absolute;
   vertical-align: baseline;
 }
 
@@ -68,14 +65,5 @@ figcaption {
 }
 
 /* Typography */
-blockquote {
 
-}
-
-code {
-
-}
-
-pre code {
-
-}
+/*# sourceMappingURL=tufte.css.map */
