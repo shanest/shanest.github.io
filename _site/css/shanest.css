@@ -7730,5 +7730,9 @@ figcaption {
 }
 
 /* Typography */
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 /*# sourceMappingURL=shanest.css.map */

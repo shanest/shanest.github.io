@@ -86,3 +86,8 @@ $body-bg-dark: $gray-900;
 @import "et-font";
 @import "et-bootstrap";
 @import "tufte";
+
+img {
+    max-width: 100%;
+    height: auto;
+}

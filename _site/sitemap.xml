@@ -4538,6 +4538,9 @@
 							<a href="/blog/" class="nav-link  fs-4" >Blog</a>
 						</li>
 						<li class="nav-item">
+							<a href="/trip-reports/" class="nav-link  fs-4" >Trip Reports</a>
+						</li>
+						<li class="nav-item">
 							<a href="/feed/feed.xml" class="nav-link  fs-4" >Feed</a>
 						</li>
 					</ul>
@@ -4943,8 +4946,24 @@
 
 	
 	<url>
+		<loc>https://www.shane.st/trip-reports/ingalls/</loc>
+		<lastmod>2025-08-10</lastmod>
+	</url>
+
+
+
+	
+	<url>
+		<loc>https://www.shane.st/trip-reports/</loc>
+		<lastmod>2025-08-11</lastmod>
+	</url>
+
+
+
+	
+	<url>
 		<loc>https://www.shane.st/feed/feed.xml</loc>
-		<lastmod>2025-08-08</lastmod>
+		<lastmod>2025-08-11</lastmod>
 	</url>
 
 </urlset>

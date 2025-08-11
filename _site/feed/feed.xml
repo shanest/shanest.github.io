@@ -5,11 +5,25 @@
   <subtitle>Posts from Shane Steinert-Threlkeld, with no promised frequency or content, though usually covering book reviews, trip reports, and miscellaneous academic thoughts.</subtitle>
   <link href="https://shane.st/feed/feed.xml" rel="self" />
   <link href="https://shane.st/" />
-  <updated>2025-08-05T00:00:00Z</updated>
+  <updated>2025-08-10T00:00:00Z</updated>
   <id>https://shane.st/</id>
   <author>
     <name>Shane Steinert-Threlkeld</name>
   </author>
+  <entry>
+    <title>Ingalls Peak, South Ridge (of North Peak)</title>
+    <link href="https://shane.st/trip-reports/ingalls/" />
+    <updated>2025-08-10T00:00:00Z</updated>
+    <id>https://shane.st/trip-reports/ingalls/</id>
+    <content type="html">&lt;p&gt;After a lot of multipitch climbing in preparation for and culminating in a climb of the West Ridge of Prusik Peak,&lt;label for=&quot;sn-0&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-0&quot; class=&quot;margin-toggle&quot;&gt;&lt;span class=&quot;sidenote&quot;&gt;I plan to write about this trip and some of the prep ones soon.&lt;/span&gt; B and I spent most of July on our bikes, riding STP (Seattle to Portland) in one day&lt;label for=&quot;sn-1&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-1&quot; class=&quot;margin-toggle&quot;&gt;&lt;span class=&quot;sidenote&quot;&gt;207 miles!&lt;/span&gt; followed up by RAMROD (Ride Around Mount Rainier in One Day).  With summer starting to feel like its beginning to wane, and with lots of travel coming up in September, but also with our bodies being pretty fried, we wanted to take another trip into the alpine.  The goal: at most type 1.5 fun, beautiful views, fun climbing, and hopefully a “cute lil overnighter” as well.  Enter: &lt;a href=&quot;https://www.mountainproject.com/area/110928196/ingalls-peak&quot;&gt;Ingalls&lt;/a&gt;!&lt;/p&gt;
+&lt;h2 id=&quot;day-1-seattle-to-camp&quot; tabindex=&quot;-1&quot;&gt;Day 1: Seattle to camp &lt;a class=&quot;header-anchor&quot; href=&quot;https://shane.st/trip-reports/ingalls/#day-1-seattle-to-camp&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;figure&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://shane.st/.11ty/image/?src=content%2Ftrip-reports%2Fingalls%2Fcamp-stuart.jpg&amp;width=4032&amp;format=avif&amp;via=transform 4032w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://shane.st/.11ty/image/?src=content%2Ftrip-reports%2Fingalls%2Fcamp-stuart.jpg&amp;width=4032&amp;format=webp&amp;via=transform 4032w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://shane.st/.11ty/image/?src=content%2Ftrip-reports%2Fingalls%2Fcamp-stuart.jpg&amp;width=4032&amp;format=jpeg&amp;via=transform&quot; alt=&quot;Our blue Black Diamond tent set up for the night, with Mt Stuart in the background.&quot; width=&quot;4032&quot; height=&quot;3024&quot;&gt;&lt;/picture&gt;
+&lt;figcaption&gt;Our blue Black Diamond tent set up for the night, with Mt Stuart in the background.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&quot;day-2-the-climb-and-exit&quot; tabindex=&quot;-1&quot;&gt;Day 2: the climb and exit &lt;a class=&quot;header-anchor&quot; href=&quot;https://shane.st/trip-reports/ingalls/#day-2-the-climb-and-exit&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+</content>
+  </entry>
   <entry>
     <title>_Technopoly_ by Neil Postman</title>
     <link href="https://shane.st/blog/book-reviews/technopoly/" />
@@ -99,14 +113,6 @@ TODO: figure out / debug sidenote.js to get id working for label
 &lt;!--
 This book is a classic, and for good reason.  Postman&#39;s thesis is that the medium of communication shapes the content of communication, and that the shift from a print-based culture to a television-based culture has had profound effects on public discourse.  Postman&#39;s argument is compelling, and his examples are well-chosen.  The book is a bit dated, and some of the examples are a bit stale, but the core argument is still relevant today.  Postman&#39;s writing is clear and engaging, and he makes his points effectively.  The book is a bit repetitive, but it&#39;s a quick read and well worth the time.  Grade: B+
 --&gt;
-</content>
-  </entry>
-  <entry>
-    <title>_Tender is the Flesh_ by Agustina Bazterrica</title>
-    <link href="https://shane.st/blog/book-reviews/tender-is-the-flesh/" />
-    <updated>2025-02-19T00:00:00Z</updated>
-    <id>https://shane.st/blog/book-reviews/tender-is-the-flesh/</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://bookshop.org/a/111171/9781982150921&quot;&gt;&lt;em&gt;Tender is the Flesh&lt;/em&gt;, Agustina Bazterrica&lt;/a&gt;.  My first novel in a little while, this one was a shop’s pick in Charleston, SC during a visit to my mom for the new year.  It’s disturbing.  The premise: in a near-future world, a global virus has spread among all animals, forcing them to all be killed.  In response, sanctioned and regulated cannibalism has become the norm.&lt;label for=&quot;sn-0&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sn-0&quot; class=&quot;margin-toggle&quot;&gt;&lt;span class=&quot;sidenote&quot;&gt;Or did it? Several characters allude to a conspiracy theory, that the virus was a hoax so that the government could tighten regulation and control the population.&lt;/span&gt; Some of the regulations are linguistic: euphemisms (“the Transition”, “meat”, “head” to refer to a human bred for meat, etc) serve to mask the reality of what’s going on.  Some are not: the breeding process is very regulated to create humans that in a sense lack humanity (no names, no vocal chords, etc).  The protagonist works high up at a meat-processing plant.  He—his name is Marcos, but he’s almost uniformly referred to as “he” and the like—is a troubled soul: he does not like the work and the resulting dehumanization, but does so to take care of and provide for an ailing father.  He also has dark events in his past that contribute to his dissociative day-to-day existence.  While the book depicts truly gruesome events—detailed descriptions of a tour through a human slaughterhouse, a “game hunting” operation, and the like—the plot moves relatively quickly and the narration of Marcos’ inner-life keeps the reader grounded.  The prose is moving as well. At one point, an entire paragraph spanning two pages uses a long sequence of comma-separated clauses to both describe and mirror the mental chaos of a traumatic event.  I do not want to say too much about the plot,&lt;span class=&quot;marginnote&quot;&gt;The book has two “parts”, which are separated by a particular event which does, in a sense, change everything.&lt;/span&gt; but will just say: the ending genuinely surprised, and somewhat shook me.  The take home: Marcos—as we all are I suppose—is still just human after all.  Grade: A&lt;/p&gt;
 </content>
   </entry>
 </feed>

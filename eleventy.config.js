@@ -88,7 +88,7 @@ export default async function(eleventyConfig) {
 		// Output formats for each image.
 		formats: ["avif", "webp", "auto"],
 
-		// widths: ["auto"],
+		widths: ["auto"],
 
 		failOnError: false,
 		htmlOptions: {
