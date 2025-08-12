@@ -66,7 +66,7 @@ Pitch 3 looked like a great pitch of actual rock climbing.  The first half has t
 
 Halfway up, the pitch traverses horizontally along an interesting juggy crack, then up a few feet into 10-20 feet of easy terrain before one more crack to an anchor.  This one is on the characteristically-slippery rock (called "serpentine" for reasons I need to look up).  So even though it was not physically difficult, I took even extra care to place my feet securely on the relatively frictionless rock.  Before too long, I was clipping into a luxurious bolted anchor after a very fun pitch.^[And one where I was happy with my placements and extensions, having zero rope drag even at the top.]
 
-The fourth and final pitch was fairly short and unremarkable as well.  Two pieces in total; after placing the second, I waited for awhile as a party worked to begin the rappel from the anchor, which admittedly involved an awkward lower-off from the top.  Once they were on their way, a little climb up a corner on very slick rock lead to a juggy lip and a comfortable top out at another bolted anchor.  I rose above to find our friends S and P fully napping on the summit waiting for their turn to rap down.
+The fourth and final pitch was fairly short and unremarkable as well.  Two pieces in total; after placing the second, I waited for awhile as a party worked to begin the rappel from the anchor, which admittedly involved an awkward lower-off from the top.  Once they were on their way, a little climb up a corner on very slick rock lead to a juggy lip and a comfortable top out at another bolted anchor.  I rose above to find our friends S and P fully napping on the summit waiting for their turn to rap down after the Mounties.
 
 After talking with them and deciding to join ropes to make the rappel down the route faster, B and I put our approach shoes back on and walked over a few hundred feet to tag the actual summit.  The views here were amazing: in addition to Stuart,^[Washington's second largest non-volcanic mountain.] we enjoyed views of Dakobed / Glacier Peak, Kulshan / Mt Baker, Tahoma / Rainier, Pahto / Adams, and even Wy'east / Hood in the distance.  Not to mention the rest of the Alpine Lakes Wilderness in the Snoqualmie pass region as well.  Hard to beat that kind of summit view!
 
@@ -74,3 +74,9 @@ After talking with them and deciding to join ropes to make the rappel down the r
 <img src="./glacier-baker.jpg" alt="View of Glacier Peak and Mt Baker in the distance from the summit" />
 <figcaption>Dakobed / Glacier Peak and Kulshan / Mt Baker in the distance, looking north/west from the summit of Ingalls Peak.</ficaption>
 </figure>
+
+Two double-length rappels had us back at the base in no time.  Somehow, we stayed too low in the scree field this time, and had to do even weirder shenanigans to get back over to the gully / slabs on the way back to the lake.  But oh was it worth it: a quick dip in the lake brought me back to life after roasting in the sun all day.^[I much prefer the victory dip to the sport-climbers' victory whip.] A perfect cap to the day.
+
+We got back to camp just after 5pm, had a quick snap and were fast to break things down, and were on our way by 5:45.  A smooth and uneventul---minus encroaching foot soreness and hunger---walk back out brought us to the car in an hour and a half.  
+
+Type 1.5 fun indeed; just what the doctor ordered.
