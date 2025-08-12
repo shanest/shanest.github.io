@@ -12,10 +12,8 @@ layout: layouts/home.njk
   border-radius: 10px;" />
 
 
-# Welcome to my corner of the web!
+Hello!  My name's Shane and this is [my corner of the web](blog/my-corner-web.md).
 
-Hello!  My name's Shane.
-
-Professionally, I'm an Associate Professor in the Linguistics department at the University of Washington, where I work in computational linguistics and cognitive science.
+Professionally, I'm an Associate Professor in the Linguistics department at the University of Washington, where I work at the intersection of computational linguistics, natural language processing, and cognitive science.  At UW, I run [CLMBR](https://clmbr.shane.st): the Computation, Language and Meaning Band of Researchers. You can find out more about my research by browing the lab website or my [CV](/cv/).  You can find more information about my teaching at [teaching.shane.st](https://teaching.shane.st).
 
 In my non-professional life, I'm passionate about the outdoors---especially rock climbing, (backcountry) skiing, and bicycling---as well as food, design, and urbanism.

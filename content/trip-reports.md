@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: Trip Reports
-  order: 4
+  order: 3
 ---
 
 The more I've done various outdoor activities---especially larger ones like big ski tours and alpine climbs---the more I've come to appreciate the trip report.  Aside from providing valuable beta, the story-telling paints a picture of what one may come to find.  Over time, I've found myself reading lots of reports from [Steph Abegg](https://stephabegg.com/), [Kyle McCrohan](https://climberkyle.com/), and [Kyle Miller](https://www.whereiskylemiller.com/), among others.

@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
   key: Blog 
-  order: 3
+  order: 4
 pagination:
   data: collections.posts
   size: 10
@@ -24,7 +24,7 @@ pagination:
 
 {% for tag in collections | getKeys | filterTagList | sortAlphabetically %}
 	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a> - 
+	<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a> ({{collections[tag].length}}) - 
 {% endfor %}
 
   </div>
