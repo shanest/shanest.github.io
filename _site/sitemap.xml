@@ -4540,9 +4540,6 @@
 						<li class="nav-item">
 							<a href="/blog/" class="nav-link  fs-4" >Blog</a>
 						</li>
-						<li class="nav-item">
-							<a href="/feed/feed.xml" class="nav-link  fs-4" >Feed</a>
-						</li>
 					</ul>
 				</div>
 			</div>
@@ -4735,14 +4732,6 @@
 	
 	<url>
 		<loc>https://www.shane.st/blog/</loc>
-		<lastmod>2024-04-29</lastmod>
-	</url>
-
-
-
-	
-	<url>
-		<loc>https://www.shane.st/</loc>
 		<lastmod>2024-04-29</lastmod>
 	</url>
 
@@ -4964,6 +4953,14 @@
 	<url>
 		<loc>https://www.shane.st/trip-reports/</loc>
 		<lastmod>2025-08-11</lastmod>
+	</url>
+
+
+
+	
+	<url>
+		<loc>https://www.shane.st/</loc>
+		<lastmod>2025-08-13</lastmod>
 	</url>
 
 
