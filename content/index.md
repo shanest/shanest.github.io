@@ -3,7 +3,7 @@ layout: layouts/home.njk
 ---
 
 
-<div class="m-3 float-end w-25">
+<div class="mx-3 float-end w-25">
     <img src="./shane_headshot.png" alt="Photo of Shane Steinert-Threlkeld from " style="mask-image: radial-gradient( circle at center, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%); mask-composite: intersect; border-radius: 10px;" />
 <div class="text-center mt-2">
     <a href="https://github.com/shanest/" class="p-2 link-underline link-underline-opacity-0">
