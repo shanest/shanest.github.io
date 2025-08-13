@@ -5,4 +5,5 @@ tags:
     - personal 
     - internet-culture
 tufte: true
+draft: true
 ---
