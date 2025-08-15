@@ -5,6 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
+		"build-sass": "npx sass css:_site/css",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
 		"start": "npm-run-all -p -r watch:eleventy watch:sass",
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
