@@ -31,6 +31,12 @@ gallery:
   - url: ./perfection-lake.jpg
     title: "Perfection Lake, from Prusik Pass"
     alt: "Perfection Lake, with Little Annapurna on the right, McClellan Peak on the left, and Rainier/Tahoma in the distance in the background, as seen from Prusik Pass on descending from climbing the west ridge of Prusik Peak. 07/06/25"
+  - url: ./fuego-1.jpg
+    title: "Volcan de Fuego erupting, from the shoulder connecting it to Acatenango"
+    alt: "Volcan de Fuego, just outside Antigua Guatemala, erupting as it regularly does.  Seen from the saddle connecting it to Acatenango. 02/14/2024"
+  - url: volcan-de-agua.jpg
+    title: "Volcan de Agua at sunrise."
+    alt: "Sunrise behind Volcan de Agua, just outside of Antigua Guatemala, as photographed from the summit of Acatenango. 02/15/2024"
 ---
 
 I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures.  Here are a few random ones that have caught my eye over the years.  This page/section is a work in progress; photos will be added, and they may or may not become more organized over time.
