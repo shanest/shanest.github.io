@@ -46,7 +46,7 @@ jobs:
       - name: Persist Eleventy .cache
         uses: actions/cache@v4
         with:
-          path: ./.cache
+          path: ~/.cache
           key: ${{ runner.os }}-eleventy-fetch-cache
 
       - run: npm install
