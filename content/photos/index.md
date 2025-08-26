@@ -34,7 +34,7 @@ gallery:
   - url: ./fuego-1.jpg
     title: "Volcan de Fuego erupting, from the shoulder connecting it to Acatenango"
     alt: "Volcan de Fuego, just outside Antigua Guatemala, erupting as it regularly does.  Seen from the saddle connecting it to Acatenango. 02/14/2024"
-  - url: volcan-de-agua.jpg
+  - url: ./volcan-de-agua.jpg
     title: "Volcan de Agua at sunrise."
     alt: "Sunrise behind Volcan de Agua, just outside of Antigua Guatemala, as photographed from the summit of Acatenango. 02/15/2024"
 ---
