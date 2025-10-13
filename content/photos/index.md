@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Photos 
+  key: Photos
   order: 2
 gallery:
   - url: ./Baker.JPG
@@ -16,7 +16,7 @@ gallery:
   - url: ./Tieton-boxes.jpg
     title: "Apple crates resting for the winter in Tieton, WA"
     alt: "Apple crates resting for the winter in Tieton, WA. 12/28/20"
-  - url: ./Tahoma.jpg 
+  - url: ./Tahoma.jpg
     title: "Tahoma (Rainier) as seen from the Northeast"
     alt: "Tahoma (Rainier) as seen from the Northeast, with a nice lenticular hat. 03/07/22"
   - url: ./Triad-back.jpg
@@ -37,9 +37,11 @@ gallery:
   - url: ./volcan-de-agua.JPG
     title: "Volcan de Agua at sunrise."
     alt: "Sunrise behind Volcan de Agua, just outside of Antigua Guatemala, as photographed from the summit of Acatenango. 02/15/2024"
+  - url: ./baker-sunset.jpg
+    title: "Baker/Kulshan at sunset."
+    alt: "The sun setting behind Baker/Kulshan, with reflections in a small lake. 10/03/25"
 ---
 
-I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures.  Here are a few random ones that have caught my eye over the years.  This page/section is a work in progress; photos will be added, and they may or may not become more organized over time.
+I am a thoroughly amateur photographer with no special training or equipment, but do enjoy taking photographs, especially while on outdoor adventures. Here are a few random ones that have caught my eye over the years. This page/section is a work in progress; photos will be added, and they may or may not become more organized over time.
 
 {% include "gallery.njk" %}
-
