@@ -6,6 +6,10 @@
 
 // 2. Include any default variable overrides here
 
+// ------Gruvbox Theme------
+@import "gruvbox-variables.scss";
+
+/* 
 //
 // Color system
 // From bootswatch united theme: https://bootswatch.com/5/united/_variables.scss
@@ -44,13 +48,14 @@ $light:         $gray-200 !default;
 $dark:          $purple !default;
 
 $min-contrast-ratio:   1.8 !default;
+*/
 
 // 3. Include remainder of required Bootstrap stylesheets (including any separate color mode stylesheets)
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/variables-dark";
 
 $headings-color-dark: $primary;
-$body-bg-dark: $gray-900;
+$body-bg-dark: $bg-soft;
 // $border-color-dark: $orange-500;
 
 // 4. Include any default map overrides here
