@@ -5,7 +5,6 @@ tags:
     - personal
     - writing-methods
 tufte: true
-draft: true
 ---
 
 Starting today, I will write one blog post a day through the month of November.^[November 1 was a Saturday, so I'm starting on the first weekday.]  Why?  I've often given the standard daily-writing advice to many people, including my students, but have not often followed it myself---a fact that I am upfront about with anyone to whom I dole it out.  Relatedly, I am on sabbatical right now, but have found myself failing to carve out the kind of intentional writing time that is exactly what such a break is designed for.  The hope is that this low-stakes daily-writing practice will "grease the groove" and get me back in the habit of all forms of writing.
