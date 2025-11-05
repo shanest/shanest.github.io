@@ -77,6 +77,6 @@ After talking with them and deciding to join ropes to make the rappel down the r
 
 Two double-length rappels had us back at the base in no time.  Somehow, we stayed too low in the scree field this time, and had to do even weirder shenanigans to get back over to the gully / slabs on the way back to the lake.  But oh was it worth it: a quick dip in the lake brought me back to life after roasting in the sun all day.^[I much prefer the victory dip to the sport-climbers' victory whip.] A perfect cap to the day.
 
-We got back to camp just after 5pm, had a quick snap and were fast to break things down, and were on our way by 5:45.  A smooth and uneventul---minus encroaching foot soreness and hunger---walk back out brought us to the car in an hour and a half.  
+We got back to camp just after 5pm, had a quick snack and were fast to break things down, and were on our way by 5:45.  A smooth and uneventul---minus encroaching foot soreness and hunger---walk back out brought us to the car in an hour and a half.  
 
 Type 1.5 fun indeed; just what the doctor ordered.
