@@ -9,7 +9,7 @@ tags:
   - climbing
   - memoir
   - alpinism
-  - psychology
+  - mental health
 ---
 [_The Color of Everything: A Journey to Quiet the Chaos Within_](https://bookshop.org/a/111171/9780593596791) by Cory Richards (audio).
 
