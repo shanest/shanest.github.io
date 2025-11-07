@@ -6,8 +6,8 @@ tags:
   - skiing
   - volcanoes
 tufte: true
-draft: true
 ---
+
 (N.B.: this is a post-hoc trip report, being written in November 2025, a bit over a year after we actually skied Mount Adams.  But just in time to get excited for a new season as it rains here in Seattle and snows up in the mountains!)
 
 Although I didn't learn to ski until I moved to Seattle in 2019 and have only been touring since 2022, my first proper tour---i.e. not just skinning in-bounds terrain to learn how to use my gear---was a mostly off-the-couch ski descent of [Mount Baker / Kulshan](https://en.wikipedia.org/wiki/Mount_Baker).^[Another post-hoc trip report to come of that at some point.] That experience completely hooked me. Being up close and personal with a huge, awe-inspiring mountain, and then having a joy-ride skiing down after suffering through the uphill slog cemented two things for me: (i) no walking down mountains, and (ii) like any good PNW skier, I have to ski all the volcanoes in WA.  The next year, I got shut down on St. Helens twice by bad weather.
