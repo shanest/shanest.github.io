@@ -23,7 +23,7 @@ Computational Linguist and Cognitive Scientist
 </div>
 
 <div id="date">
-Last modified: 08/07/25
+Last modified: 01/05/26
 </div>
 
 
@@ -112,10 +112,13 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 ### Journals
 
 `forthcoming`
-@schlenkerAncestralMeaningsPreludeforthcoming
+@imelEfficientCommunicationAnalysisforthcoming
 
 `2025`
-@guerinSecondorderZipfsLaw2025
+@schlenkerAncestralMeaningsPrelude2025
+
+`2025`
+@guerinSecondOrderZipfsLaw2025
 
 `2025`
 @schlenkerAntiBabelThreeDegrees2025
@@ -234,7 +237,7 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 (NB: An * next to the year indicates abstract, as opposed to full paper, review.)
 
 `2025`
-@imelUnnaturalLanguageToolKit2025`
+@imelUnnaturalLanguageToolKit2025
 
 `2025`
 @haberlandQuantifiersThatAre2025
@@ -415,7 +418,7 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 
 ### Invited
 
-#### TBD
+#### Language Models as Model "Organisms" 
 
 `10/31/2025`
 Georgetown University, Computational Linguistics Colloquium

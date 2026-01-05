@@ -50,7 +50,7 @@ references:
     (CogSci 2019)
   issued:
     - year: 2019
-  page: 190-196
+  page: 190–196
   title: The emergence of monotone quantifiers via iterated learning
   type: paper-conference
   URL: https://psyarxiv.com/8swtd
@@ -161,7 +161,7 @@ references:
   DOI: 10.3765/salt.v30i0.4811
   issued:
     - year: 2020
-  page: 166-184
+  page: 166–184
   title: Complexity/informativeness trade-off in the domain of indefinite pronouns
   type: paper-conference
   URL: >-
@@ -440,7 +440,7 @@ references:
   event-place: Stroudsburg, PA, USA
   issued:
     - year: 2020
-  page: 4794-4800
+  page: 4794–4800
   publisher: Association for Computational Linguistics
   publisher-place: Stroudsburg, PA, USA
   title: On the Spontaneous Emergence of Discrete and Compositional Signals
@@ -491,23 +491,47 @@ references:
   type: article-journal
   URL: https://openreview.net/forum?id=6DflIABPQP
 
-- id: guerinSecondorderZipfsLaw2025
+- id: guerinSecondOrderZipfsLaw2025
+  abstract: >-
+    Many advances in NLP, starting with distributional semantics, are founded on
+    the insight that the semantics of words can be revealed by their
+    co-occurrences (the frequency for two words to be present in the same
+    sentence). And the most sophisticated modern machines are built to reproduce
+    the statistics of even larger sets of words. Yet, these systems do not
+    provide a transparent description of these statistics. We reveal a
+    second-order Zipf’s law: the frequencies of co-occurrences follow an inverse
+    power law in all 17 languages we tested. To assess this, we use the most
+    conservative methods to detect a power law (and even develop its extension
+    in the natural case of a finite vocabulary, which reveals new insights). We
+    show that this second-order Zipf’s law is not a consequence of random
+    processes, it is not a consequence of the usual Zipf’s law on word
+    frequencies (it is less robust in a shuffled corpus), and it is not a
+    consequence of syntactic constraints (it is less robust in a shuffled corpus
+    that respects syntactic categories). The second-order Zipf’s law may
+    therefore be more foundational than Zipf’s original law, and able to provide
+    (transparent) information about semantic aspects of language.
   author:
     - family: Guerin
       given: Nicolas
     - family: Steinert-Threlkeld
       given: Shane
     - family: Ryder
-      given: Robin
+      given: Robin J.
     - family: Chemla
       given: Emmanuel
-  citation-key: guerinSecondorderZipfsLaw2025
+  citation-key: guerinSecondOrderZipfsLaw2025
   container-title: Open Mind
+  container-title-short: Open Mind
   DOI: 10.1162/opmi.a.8
+  ISSN: 2470-2986
   issued:
     - year: 2025
-  title: Second-order Zipf's Law for Word  Co-occurrences
+  page: 1138–1157
+  source: Silverchair
+  title: Second-Order Zipf’s Law for Word Co-Occurrences
   type: article-journal
+  URL: https://doi.org/10.1162/opmi.a.8
+  volume: '9'
 
 - id: guoDatabaseModalSemantic2022
   abstract: >-
@@ -581,7 +605,7 @@ references:
       given: Wen-fang
   issued:
     - year: 2015
-  page: 143-155
+  page: 143–155
   title: Informational Dynamics of `Might' Assertions
   type: paper-conference
   volume: '9394'
@@ -620,7 +644,7 @@ references:
   issued:
     - year: 2018
   language: en
-  page: 4309-4342
+  page: 4309–4342
   source: Springer Link
   title: Informational dynamics of epistemic possibility modals
   type: article-journal
@@ -661,7 +685,7 @@ references:
   issued:
     - year: 2015
   language: en
-  page: 143-155
+  page: 143–155
   publisher: Springer
   publisher-place: Berlin, Heidelberg
   source: Springer Link
@@ -706,12 +730,46 @@ references:
   issued:
     - year: 2021
   language: en
-  page: 475-511
+  page: 475–511
   source: Springer Link
   title: Semantic expressivism for epistemic modals
   type: article-journal
   URL: https://doi.org/10.1007/s10988-020-09295-7
   volume: '44'
+
+- id: imelEfficientCommunicationAnalysisforthcoming
+  abstract: >-
+    The meanings expressed by the world's languages have been argued to support
+    efficient communication. Across diverse semantic domains, crosslinguistic
+    analyses show that natural language vocabularies are jointly optimized for
+    two competing pressures: cognitive simplicity and informative communication.
+    This paper applies an efficiency analysis to modals (e.g. can, ought,
+    might). We define and measure the simplicity and informativeness of a large
+    number of logically possible modal systems, including a sample of twenty
+    seven natural language inventories. We also consider a recently-introduced
+    semantic universal for modal expressions in natural language, dubbed the
+    Independence of Force and Flavor (IFF). Our analysis yields three main
+    results: (i) every optimal modal system perfectly satisfies the IFF
+    universal; (ii) as systems contain more IFF modals, they become more
+    efficient; (iii) attested modal systems are more efficient than merely
+    possible systems. These results indicate that general pressures for
+    efficient communication can explain typological variation in the
+    lexicalization of modality.
+  author:
+    - family: Imel
+      given: Nathaniel
+    - family: Guo
+      given: Qingxia
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: imelEfficientCommunicationAnalysisforthcoming
+  container-title: Open Mind
+  DOI: 10.1162/OPMI.a.313
+  issued:
+    - literal: forthcoming
+  title: An Efficient Communication Analysis of Modal Typology
+  type: article-journal
+  URL: https://doi.org/10.1162/OPMI.a.313
 
 - id: imelModalSemanticUniversals2022
   abstract: "The\_meanings\_expressed\_by\_the\_world’s\_languages\_have\_been\_argued\_to support efficient communication.\_Evidence for this hypothesis has drawn on\_cross-linguistic analyses of vocabulary in semantic domains of both content words\_(e.g. kinship terms (Kemp & Regier 2012); color terms (Regier, Kay & Khetarpal\_2007; Zaslavsky, Kemp, Regier & Tishby 2018)) and function words (e.g.quantifiers(Steinert-Threlkeld2021);\_indefinite\_pronouns(Deni ́c,\_Steinert-Threlkeld\_& Szymanik 2022)) approaching the hypothesis concretely in terms of a trade-off\_between simplicity and informativeness. We apply the analysis to\_modals\_(e.g.\_can,\_ought,\_might).\_Two proposed universals in this domain from Nauze (2008) and\_Vander Klok (2013) are used for generating many artificial languages with varying\_degrees of quasi-naturalness as a proxy for natural data. A computational experiment\_shows that most of the optimal solutions to the trade-off problem are predicted by\_Vander Klok; meanwhile, as languages more robustly satisfy Nauze’s universal, they\_also become more optimal. This suggests that efficient communication is a leading\_explanation for constraints on modal semantic variation."
@@ -732,7 +790,7 @@ references:
   language: en
   license: Copyright (c) 2022 Nathaniel Imel
   number: '0'
-  page: 227-248
+  page: 227–248
   source: journals.linguisticsociety.org
   title: Modal semantic universals optimize the simplicity/informativeness trade-off
   type: paper-conference
@@ -741,10 +799,6 @@ references:
 
 - id: imelUnnaturalLanguageToolKit2025
   abstract: "The Unnatural Language Toolkit (ULTK) is an open-source Python library for computational semantic typology research (https://clmbr.shane.st/ultk/ultk.html). ULTK's key features include unifying data structures, algorithms for generating artificial languages, and data analysis tools for related computational experiments. The\_language module organizes the basic data structures for constructing meaning spaces, expressions, and languages. A\_grammar submodule contains methods for building and enumerating expressions from custom Language of Thought (Fodor, 1975, 2008; Quilty-Dunn et al., 2022) grammars, which allows for straightforward computation of minimum length descriptions for symbolically expressible semantic representations. This approach has been used successfully in many investigations of concept learning (Feldman, 2000; Goodman et al., 2015). The second main module of ULTK, effcomm, organizes efficient communication analyses, which have become popular styles of explanation in recent functionalist accounts of semantic universals (Kemp et al., 2018). This module contains functions for defining informativity based on literal and pragmatic communicative agents and algorithms for exploring the space of artificial languages. After first elaborating on the structure of these two modules, we then provide two case studies, illustrating two major styles of explanation in computational semantic typology research: (1) an efficient communication analysis of modal semantic typology, and (2) an analysis of the relative ease of learning of monotone versus non-monotone quantifiers. ULTK’s accessible design, documentation, and open-source nature are intended to reduce barriers for researchers when implementing computational linguistic typological experiments."
-  accessed:
-    - year: 2025
-      month: 8
-      day: 8
   author:
     - family: Imel
       given: Nathaniel
@@ -898,7 +952,7 @@ references:
   issue: '1'
   issued:
     - year: 2016
-  page: 395-408
+  page: 395–408
   title: ADC Method of Proof Search in Intuitionistic Propositional Natural Deduction
   type: article-journal
   volume: '26'
@@ -976,7 +1030,7 @@ references:
   issue: '2009'
   issued:
     - year: 2019
-  page: 140-151
+  page: 140–151
   publisher: Association for Computational Linguistics
   publisher-place: Stroudsburg, PA, USA
   title: Neural Models of the Psychosemantics of ‘Most’
@@ -1023,7 +1077,7 @@ references:
   ISSN: 2307-387X
   issued:
     - year: 2024
-  page: 1597-1615
+  page: 1597–1615
   source: Silverchair
   title: >-
     Filtered Corpus Training (FiCT) Shows that Language Models Can Generalize
@@ -1135,7 +1189,7 @@ references:
     (CogSci 2019)
   issued:
     - year: 2019
-  page: 3015-3021
+  page: 3015–3021
   title: >-
     Complexity and learnability in the explanation of semantic universals of
     quantifiers
@@ -1205,7 +1259,7 @@ references:
     Copyright (c) 2020 Sonia Ramotowska, Shane Steinert-Threlkeld, Leendert Van
     Maanen, Jakub Szymanik
   number: '2'
-  page: 165-182
+  page: 165–182
   source: ojs.ub.uni-konstanz.de
   title: >-
     Most, but not more than half, is proportion-dependent and sensitive to
@@ -1330,24 +1384,24 @@ references:
   type: paper-conference
   URL: https://aclanthology.org/2023.genbench-1.11
 
-- id: schlenkerAncestralMeaningsPreludeforthcoming
+- id: schlenkerAncestralMeaningsPrelude2025
   abstract: >-
     How did the very first meaning components arise in animals? We argue that
     answers interact in interesting ways with data on current and ancestral
     animal communication systems. Using standard notions of evolutionary
     stability in biology, we develop a simple framework to analyze the emergence
-    of three meaning components: individual signals, non-trivial combinations,
+    of three meaning components: individual signals, nontrivial combinations,
     and pragmatic principles of competition among signals. We show that for
     elementary signals to arise, they should have null cost, or be understood
-    from the start. While this conclusion dovetails with the traditional idea
-    that signals often originate in cues, i.e. informative by-products of
+    from the start.  While this conclusion dovetails with the traditional idea
+    that signals often originate in cues, i.e., informative byproducts of
     non-communicative processes, the two scenarios (null cost vs. understanding
     from the start) can be distinguished in case studies involving ancestral
-    meaning reconstruction. For non-trivial combinations of the form CC' (such
-    as pyow-hack sequences in putty-nosed monkeys and ABC-D sequences in
-    Japanese tits), we show that their emergence is heavily constrained because
-    they should initially give rise to some miscommunication, as CC' could also
-    be understood as the (trivial) combination of separate utterances C and C'.
+    meaning reconstruction. For nontrivial combinations of the form CC’ (such as
+    pyow-hack sequences in putty-nosed monkeys and ABC-D sequences in Japanese
+    tits), we show that their emergence is heavily constrained because they
+    should initially give rise to some miscommunication, as CC’ could also be
+    understood as the (trivial) combination of separate utterances C and C’.
     Finally, we investigate the evolution of two pragmatic principles that were
     posited in recent animal linguistics: the Informativity Principle and the
     Urgency Principle. We argue that both have a clear evolutionary path,
@@ -1362,7 +1416,7 @@ references:
     - family: Pawlowitsch
       given: Christina
     - family: Arnal
-      given: Luc
+      given: Luc H.
     - family: Chatain
       given: Keny
     - family: Ravaux
@@ -1377,16 +1431,22 @@ references:
       given: Léo
     - family: Chemla
       given: Emmanuel
-  citation-key: schlenkerAncestralMeaningsPreludeforthcoming
+  citation-key: schlenkerAncestralMeaningsPrelude2025
   container-title: Linguistics and Philosophy
+  container-title-short: Linguist and Philos
+  DOI: 10.1007/s10988-025-09438-8
+  ISSN: 1573-0549
+  issue: '5'
   issued:
-    - literal: forthcoming
-  note: 'LingBuzz Published In: To appear in Linguistics & Philosophy'
-  source: LingBuzz
-  title: 'Ancestral Meanings: A Prelude to Evolutionary Animal Linguistics'
+    - year: 2025
+  language: en
+  page: 823–878
+  source: Springer Link
+  title: 'Ancestral Meanings: a prelude to evolutionary animal linguistics'
   title-short: Ancestral Meanings
   type: article-journal
-  URL: https://ling.auf.net/lingbuzz/008203
+  URL: https://doi.org/10.1007/s10988-025-09438-8
+  volume: '48'
 
 - id: schlenkerAnthropocentrismComparativeCognition2022
   accessed:
@@ -1662,7 +1722,7 @@ references:
       given: Nadine
   issued:
     - year: 2015
-  page: 368-378
+  page: 368–378
   title: 'Alternative Representations in Formal Semantics: A case study of quantifiers'
   type: paper-conference
 
@@ -1686,10 +1746,10 @@ references:
   citation-key: steinert-threlkeldCompositionalityCompetitionMonkey2016
   container-title: Theoretical Linguistics
   DOI: 10.1515/tl-2016-0009
-  issue: 1-2
+  issue: 1–2
   issued:
     - year: 2016
-  page: 159-171
+  page: 159–171
   title: Compositionality and competition in monkey alert calls
   type: article-journal
   volume: '42'
@@ -1704,7 +1764,7 @@ references:
   issue: '3'
   issued:
     - year: 2016
-  page: 379-397
+  page: 379–397
   title: Compositional Signaling in a Complex World
   type: article-journal
   volume: '25'
@@ -1736,7 +1796,7 @@ references:
       given: Oleg
   issued:
     - year: 2014
-  page: 215-224
+  page: 215–224
   title: On the Decidability of Iterated Languages
   type: paper-conference
 
@@ -1800,7 +1860,7 @@ references:
   issue: '5'
   issued:
     - year: 2020
-  page: 897-909
+  page: 897–909
   publisher: The University of Chicago Press
   source: journals.uchicago.edu (Atypon)
   title: Toward the Emergence of Nontrivial Compositionality
@@ -1884,7 +1944,7 @@ references:
   issued:
     - year: 2020
   license: All rights reserved
-  page: 129-144
+  page: 129–144
   title: An Explanation of the Veridical Uniformity Universal
   type: article-journal
   URL: https://academic.oup.com/jos/article/37/1/129/5683663
@@ -1943,7 +2003,7 @@ references:
   issue: '2'
   issued:
     - year: 2013
-  page: 151-173
+  page: 151–173
   title: Iterating semantic automata
   type: article-journal
   volume: '36'
@@ -2084,7 +2144,7 @@ references:
   issue: '3'
   issued:
     - year: 2012
-  page: 522-527
+  page: 522–527
   title: Ontological Labels for Automated Location of Anatomical Shape Differences
   type: article-journal
   URL: http://dx.doi.org/10.1016/j.jbi.2012.02.013
@@ -2155,7 +2215,7 @@ references:
   issue: '2'
   issued:
     - year: 2016
-  page: 191-213
+  page: 191–213
   publisher: Springer Netherlands
   title: Some Properties of Iterated Languages
   type: article-journal
@@ -2191,7 +2251,7 @@ references:
   issued:
     - year: 2019
   license: All rights reserved
-  page: 513-522
+  page: 513–522
   title: >-
     Quantifiers in natural language optimize the simplicity/informativeness
     trade-off
@@ -2266,7 +2326,7 @@ references:
   issued:
     - year: 2021
   language: en
-  page: 1317-1342
+  page: 1317–1342
   source: Springer Link
   title: Referential and general calls in primate semantics
   type: article-journal
@@ -2309,7 +2369,7 @@ references:
       given: Floris
   issued:
     - year: 2017
-  page: 445-454
+  page: 445–454
   title: Uniform Definability in Assertability Semantics
   type: paper-conference
 
