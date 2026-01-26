@@ -232,7 +232,6 @@ references:
   editor:
     - family: Ataman
       given: Duygu
-  event-place: Singapore
   issued:
     - year: 2023
       month: 12
@@ -268,7 +267,6 @@ references:
   editor:
     - family: Ataman
       given: Duygu
-  event-place: Singapore
   issued:
     - year: 2023
       month: 12
@@ -349,7 +347,6 @@ references:
   container-title: >-
     Proceedings of the 19th SIGMORPHON Workshop on Computational Research in
     Phonetics, Phonology, and Morphology
-  event-place: Seattle, Washington
   event-title: NAACL-SIGMORPHON 2022
   issued:
     - year: 2022
@@ -405,7 +402,6 @@ references:
       given: Mohit
     - family: Chen
       given: Yun-Nung
-  event-place: Miami, Florida, USA
   event-title: Findings 2024
   issued:
     - year: 2024
@@ -437,7 +433,6 @@ references:
     Proceedings of the 58th Annual Meeting of the Association for Computational
     Linguistics
   DOI: 10.18653/v1/2020.acl-main.433
-  event-place: Stroudsburg, PA, USA
   issued:
     - year: 2020
   page: 4794–4800
@@ -560,7 +555,6 @@ references:
     Proceedings of the 4th Workshop on Research in Computational Linguistic
     Typology and Multilingual NLP
   DOI: 10.18653/v1/2022.sigtyp-1.6
-  event-place: Seattle, Washington
   event-title: NAACL-SIGTYP 2022
   issued:
     - year: 2022
@@ -680,7 +674,6 @@ references:
       given: Wesley H.
     - family: Wang
       given: Wen-fang
-  event-place: Berlin, Heidelberg
   ISBN: 978-3-662-48561-3
   issued:
     - year: 2015
@@ -737,24 +730,29 @@ references:
   URL: https://doi.org/10.1007/s10988-020-09295-7
   volume: '44'
 
-- id: imelEfficientCommunicationAnalysisforthcoming
+- id: imelEfficientCommunicationAnalysis2026
   abstract: >-
-    The meanings expressed by the world's languages have been argued to support
+    The meanings expressed by the world’s languages have been argued to support
     efficient communication. Across diverse semantic domains, crosslinguistic
     analyses show that natural language vocabularies are jointly optimized for
     two competing pressures: cognitive simplicity and informative communication.
-    This paper applies an efficiency analysis to modals (e.g. can, ought,
-    might). We define and measure the simplicity and informativeness of a large
-    number of logically possible modal systems, including a sample of twenty
-    seven natural language inventories. We also consider a recently-introduced
-    semantic universal for modal expressions in natural language, dubbed the
-    Independence of Force and Flavor (IFF). Our analysis yields three main
-    results: (i) every optimal modal system perfectly satisfies the IFF
-    universal; (ii) as systems contain more IFF modals, they become more
-    efficient; (iii) attested modal systems are more efficient than merely
-    possible systems. These results indicate that general pressures for
+    This paper applies an efficiency analysis to modals (e.g., can, ought,
+    might), a central mechanism for talking about situations other than the
+    here-and-now. We define and measure the simplicity and informativeness of a
+    large number of logically possible modal systems, together with a sample of
+    twenty-seven natural language inventories. We also consider a
+    recently-introduced semantic universal for modal expressions in natural
+    language, dubbed the Independence of Force and Flavor (IFF). Our analysis
+    yields three main results: (i) every optimal modal system perfectly
+    satisfies the IFF universal; (ii) as systems contain more IFF modals, they
+    become more efficient; (iii) attested modal systems are more efficient than
+    merely possible systems. These results indicate that general pressures for
     efficient communication can explain typological variation in the
     lexicalization of modality.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 22
   author:
     - family: Imel
       given: Nathaniel
@@ -762,14 +760,19 @@ references:
       given: Qingxia
     - family: Steinert-Threlkeld
       given: Shane
-  citation-key: imelEfficientCommunicationAnalysisforthcoming
+  citation-key: imelEfficientCommunicationAnalysis2026
   container-title: Open Mind
+  container-title-short: Open Mind
   DOI: 10.1162/OPMI.a.313
+  ISSN: 2470-2986
   issued:
-    - literal: forthcoming
+    - year: 2026
+  page: 1–28
+  source: Silverchair
   title: An Efficient Communication Analysis of Modal Typology
   type: article-journal
   URL: https://doi.org/10.1162/OPMI.a.313
+  volume: '10'
 
 - id: imelModalSemanticUniversals2022
   abstract: "The\_meanings\_expressed\_by\_the\_world’s\_languages\_have\_been\_argued\_to support efficient communication.\_Evidence for this hypothesis has drawn on\_cross-linguistic analyses of vocabulary in semantic domains of both content words\_(e.g. kinship terms (Kemp & Regier 2012); color terms (Regier, Kay & Khetarpal\_2007; Zaslavsky, Kemp, Regier & Tishby 2018)) and function words (e.g.quantifiers(Steinert-Threlkeld2021);\_indefinite\_pronouns(Deni ́c,\_Steinert-Threlkeld\_& Szymanik 2022)) approaching the hypothesis concretely in terms of a trade-off\_between simplicity and informativeness. We apply the analysis to\_modals\_(e.g.\_can,\_ought,\_might).\_Two proposed universals in this domain from Nauze (2008) and\_Vander Klok (2013) are used for generating many artificial languages with varying\_degrees of quasi-naturalness as a proxy for natural data. A computational experiment\_shows that most of the optimal solutions to the trade-off problem are predicted by\_Vander Klok; meanwhile, as languages more robustly satisfy Nauze’s universal, they\_also become more optimal. This suggests that efficient communication is a leading\_explanation for constraints on modal semantic variation."
@@ -873,7 +876,6 @@ references:
   citation-key: jumeletLanguageModelsUse2021
   container-title: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021'
   DOI: 10.18653/v1/2021.findings-acl.439
-  event-place: Online
   event-title: Findings 2021
   issued:
     - year: 2021
@@ -923,7 +925,6 @@ references:
     Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting
     Neural Networks for NLP
   DOI: 10.18653/v1/2020.blackboxnlp-1.12
-  event-place: Online
   event-title: BlackboxNLP-EMNLP 2020
   issued:
     - year: 2020
@@ -1026,7 +1027,6 @@ references:
     Proceedings of the Workshop on Cognitive Modeling and Computational
     Linguistics
   DOI: 10.18653/v1/W19-2916
-  event-place: Stroudsburg, PA, USA
   issue: '2009'
   issued:
     - year: 2019
@@ -1136,7 +1136,6 @@ references:
     Proceedings of the 56th Annual Meeting of the Association for Computational
     Linguistics (Volume 2: Short Papers)
   DOI: 10.18653/v1/P18-2019
-  event-place: Melbourne, Australia
   event-title: ACL 2018
   issued:
     - year: 2018
@@ -1371,7 +1370,6 @@ references:
       given: Ryan
     - family: Bruni
       given: Elia
-  event-place: Singapore
   issued:
     - year: 2023
       month: 12
@@ -1664,7 +1662,6 @@ references:
   citation-key: shapiroMultilabelApproachMorphosyntactic2021
   container-title: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
   DOI: 10.18653/v1/2021.findings-emnlp.382
-  event-place: Punta Cana, Dominican Republic
   event-title: EMNLP-Findings 2021
   issued:
     - year: 2021
@@ -2420,7 +2417,6 @@ references:
   container-title: >-
     Proceedings of the 60th Annual Meeting of the Association for Computational
     Linguistics (Volume 1: Long Papers)
-  event-place: Dublin, Ireland
   event-title: ACL 2022
   issued:
     - year: 2022
@@ -2515,7 +2511,6 @@ references:
       given: Arya
     - family: Mohebbi
       given: Hosein
-  event-place: Singapore
   issued:
     - year: 2023
       month: 12
@@ -2568,7 +2563,6 @@ references:
       given: Ryan
     - family: Bruni
       given: Elia
-  event-place: Singapore
   issued:
     - year: 2023
       month: 12
@@ -2582,6 +2576,38 @@ references:
   title-short: GQG
   type: paper-conference
   URL: https://aclanthology.org/2023.genbench-1.15
+
+- id: wangMinimizationBooleanComplexity2025
+  abstract: >-
+    What factors contribute to the relative success and corresponding
+    difficulties of in-context learning for Large Language Models (LLMs)?
+    Drawing on insights from the literature on human concept learning, we test
+    LLMs on carefully designed concept learning tasks, and show that task
+    performance highly correlates with the Boolean complexity of the concept.
+    This suggests that in-context learning exhibits a learning bias for
+    simplicity in a way similar to humans.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 26
+  author:
+    - family: Wang
+      given: Leroy Z.
+    - family: McCoy
+      given: R. Thomas
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: wangMinimizationBooleanComplexity2025
+  container-title: 'First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models'
+  issued:
+    - year: 2025
+      month: 9
+      day: 23
+  language: en
+  source: openreview.net
+  title: Minimization of Boolean Complexity in In-Context Concept Learning
+  type: paper-conference
+  URL: https://openreview.net/forum?id=srJFgAQ8fC
 
 - id: yiProbingUnderstandingEnglish2022
   abstract: >-

@@ -111,8 +111,8 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 
 ### Journals
 
-`forthcoming`
-@imelEfficientCommunicationAnalysisforthcoming
+`2026`
+@imelEfficientCommunicationAnalysis2026
 
 `2025`
 @schlenkerAncestralMeaningsPrelude2025
@@ -235,6 +235,9 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 ### Proceedings
 
 (NB: An * next to the year indicates abstract, as opposed to full paper, review.)
+
+`2025`
+@wangMinimizationBooleanComplexity2025
 
 `2025`
 @imelUnnaturalLanguageToolKit2025
