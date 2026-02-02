@@ -1480,7 +1480,7 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13220
   volume: '46'
 
-- id: schlenkerAntiBabelThreeDegrees2025
+- id: schlenkerAntiBabelThreeDegrees2026
   abstract: >-
     While recent “animal linguistics” treats call form as arbitrary, various
     results suggest that some animals use a biological code to understand the
@@ -1493,9 +1493,9 @@ references:
     interpretation”), it uses a rule associating a meaning to a specific
     acoustic feature—hence a new road to (featural) compositionality.
   accessed:
-    - year: 2025
-      month: 7
-      day: 9
+    - year: 2026
+      month: 2
+      day: 2
   author:
     - family: Schlenker
       given: Philippe
@@ -1509,19 +1509,22 @@ references:
       given: Lucie
     - family: Chemla
       given: Emmanuel
-  citation-key: schlenkerAntiBabelThreeDegrees2025
+  citation-key: schlenkerAntiBabelThreeDegrees2026
   container-title: Mind & Language
   DOI: 10.1111/mila.12529
   ISSN: 1468-0017
+  issue: '1'
   issued:
-    - year: 2025
+    - year: 2026
   language: en
-  license: © 2024 John Wiley & Sons Ltd.
+  license: © 2025 John Wiley & Sons Ltd.
+  page: 21–50
   source: Wiley Online Library
   title: 'Anti-Babel: Three degrees of interspecies comprehension'
   title-short: Anti-Babel
   type: article-journal
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/mila.12529
+  volume: '41'
 
 - id: schlenkerMinimalCompositionalityBird2024
   abstract: >-

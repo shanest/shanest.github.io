@@ -114,14 +114,14 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 `2026`
 @imelEfficientCommunicationAnalysis2026
 
+`2026`
+@schlenkerAntiBabelThreeDegrees2026
+
 `2025`
 @schlenkerAncestralMeaningsPrelude2025
 
 `2025`
 @guerinSecondOrderZipfsLaw2025
-
-`2025`
-@schlenkerAntiBabelThreeDegrees2025
 
 `2024`
 @patilFilteredCorpusTraining2024a
