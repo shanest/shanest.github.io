@@ -64,6 +64,49 @@ input.margin-toggle {
   display: none;
 }
 
+label.margin-toggle:not(.sidenote-number) {
+  display: none;
+}
+
+@media (max-width: 991.98px) {
+  /* Let body text use full width */
+  article > p,
+  article > ul,
+  article > blockquote {
+    width: 100% !important;
+  }
+
+  /* Show the toggle labels for marginnotes */
+  label.margin-toggle:not(.sidenote-number) {
+    display: inline;
+    cursor: pointer;
+  }
+
+  /* Make sidenote numbers clickable */
+  label.margin-toggle.sidenote-number {
+    cursor: pointer;
+  }
+
+  /* Hide sidenotes/marginnotes by default */
+  .sidenote,
+  .marginnote {
+    display: none;
+  }
+
+  /* Show when toggled */
+  .margin-toggle:checked + .sidenote,
+  .margin-toggle:checked + .marginnote {
+    display: block;
+    float: left;
+    clear: both;
+    width: 95%;
+    margin: 0.5rem 0 0.5rem 2.5%;
+    padding: 0.5rem 0;
+    font-size: 1rem;
+    vertical-align: baseline;
+  }
+}
+
 /* Figures */
 figure {
   margin: 1rem 0;

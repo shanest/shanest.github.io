@@ -7,7 +7,7 @@ export default function marginnote(md) {
     function render_footnote_ref(tokens, idx, options, env, slf) {
         var id = tokens[idx].meta.id
 
-        var label = `<label for="mn-${id}" class="margin-toggle">⊕<div></div></label>`
+        var label = `<label for="mn-${id}" class="margin-toggle">⊕</label>`
         var input = `<input type="checkbox" id="mn-${id}" class="margin-toggle"/>`
         return `${label}${input}`
     }
@@ -55,12 +55,17 @@ export default function marginnote(md) {
                 tokens = []
             );
 
-            // token      = state.push('marginnote_ref', '', 0);
-            // token.meta = { id: footnoteId };
+            token      = state.push('marginnote_ref', '', 0);
+            token.meta = { id: footnoteId };
 
             token = state.push('marginnote', '', 0);
             token.content = state.src.slice(labelStart, labelEnd)
             token.children = tokens
+
+            state.env.marginnotes.list[footnoteId] = {
+                content: state.src.slice(labelStart, labelEnd),
+                tokens
+            }
         }
 
         state.pos = labelEnd + 1;
