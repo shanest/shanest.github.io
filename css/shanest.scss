@@ -111,3 +111,38 @@ blockquote p {
   padding-left: 1rem;
   border-left: 2px solid $primary;
 }
+
+/* Constrain line length for comfortable reading */
+article > p,
+article > ul,
+article > ol,
+article > blockquote {
+  max-width: 38em;
+}
+
+/* More spacious line height for long-form reading */
+article {
+  line-height: 1.6;
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  position: fixed;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 1050;
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  padding: 0.4rem;
+  opacity: 0.45;
+  line-height: 1;
+  &:hover {
+    opacity: 0.85;
+  }
+  svg {
+    width: 18px;
+    height: 18px;
+  }
+}
