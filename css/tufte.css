@@ -52,7 +52,7 @@ article {
 .sidenote-number {
   counter-increment: sidenote-counter;
   vertical-align: super;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 .sidenote-number:after {
@@ -69,22 +69,26 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 @media (max-width: 991.98px) {
+
   /* Let body text use full width */
-  article > p,
-  article > ul,
-  article > blockquote {
+  article>p,
+  article>ul,
+  article>blockquote {
     width: 100% !important;
   }
 
-  /* Show the toggle labels for marginnotes */
+  /* Style toggle labels as clickable */
   label.margin-toggle:not(.sidenote-number) {
     display: inline;
+    vertical-align: super;
+    font-size: 1rem;
     cursor: pointer;
+    color: var(--bs-link-color);
   }
 
-  /* Make sidenote numbers clickable */
   label.margin-toggle.sidenote-number {
     cursor: pointer;
+    color: var(--bs-link-color);
   }
 
   /* Hide sidenotes/marginnotes by default */
@@ -94,8 +98,8 @@ label.margin-toggle:not(.sidenote-number) {
   }
 
   /* Show when toggled */
-  .margin-toggle:checked + .sidenote,
-  .margin-toggle:checked + .marginnote {
+  .margin-toggle:checked+.sidenote,
+  .margin-toggle:checked+.marginnote {
     display: block;
     float: left;
     clear: both;

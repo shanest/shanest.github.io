@@ -7,7 +7,7 @@ export default function marginnote(md) {
     function render_footnote_ref(tokens, idx, options, env, slf) {
         var id = tokens[idx].meta.id
 
-        var label = `<label for="mn-${id}" class="margin-toggle">⊕</label>`
+        var label = `<label for="mn-${id}" class="margin-toggle">+</label>`
         var input = `<input type="checkbox" id="mn-${id}" class="margin-toggle"/>`
         return `${label}${input}`
     }
