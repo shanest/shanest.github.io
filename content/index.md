@@ -41,3 +41,26 @@ Hello!  My name's Shane and this is my corner of the web. <!-- [my corner of the
 Professionally, I'm an Associate Professor in the Linguistics department at the University of Washington, where I work at the intersection of computational linguistics, natural language processing, and cognitive science.  At UW, I run [CLMBR](https://clmbr.shane.st): the Computation, Language and Meaning Band of Researchers. You can find out more about my research by browing the lab website or my [CV](/cv/).  You can find more information about my teaching at [teaching.shane.st](https://teaching.shane.st).
 
 In my non-professional life, I'm passionate about the outdoors---especially rock climbing, (backcountry) skiing, and bicycling---as well as food, design, and urbanism.
+
+
+# Miscellaneous Resources
+
+- [Montreean](https://montreean.shane.st): a small stochastic web app for visualizing parse trees of the kind you might find in introduction to linguistics in the style of Mondrian paintings.
+- [ULTK](https://clmbr.shane.st/ultk): the Unnatural Language Toolkit (ULTK) is a Python library used in my group's research
+- [edugrad](https://github.com/shanest/edugrad): edugrad is a minimal, pedagogically-focused (built for my own teaching needs!), reimplementation of the PyTorch API for building and training neural networks
+- [NASSLLI 2025](https://nasslli25.shane.st): in June 2025, I had the honor and privilege of hosting the North American Summer School for Logic, Language and Information (NASSLLI).
+
+# Recent Blog Posts
+
+{% set postsCount = collections.posts | length %}
+{% set numberOfLatestPostsToShow = 3 %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) | reverse %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
+
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
+{% endif %}
