@@ -94,7 +94,12 @@ h6,
   font-variant-ligatures: discretionary-ligatures;
 }
 
-h1 > em, h2 > em, h3 > em, h4 > em, h5 > em, h6 > em {
+h1>em,
+h2>em,
+h3>em,
+h4>em,
+h5>em,
+h6>em {
   font-family: "et-book-roman-old-style", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-style: normal;
 }
@@ -102,7 +107,7 @@ h1 > em, h2 > em, h3 > em, h4 > em, h5 > em, h6 > em {
 /* Use ET Book Italic Old Style for smaller text elements */
 em,
 cite,
-blockquote,
+/* blockquote, */
 .fst-italic {
   font-family: "et-book-italic-old-style", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-style: italic;
