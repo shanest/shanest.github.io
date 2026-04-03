@@ -2,7 +2,7 @@
 title: _Meditations for Mortals_ by Oliver Burkeman
 date: 2026-04-03
 medium: print
-grade: B
+grade: A-
 tufte: true
 tags:
   - time-management
@@ -24,4 +24,4 @@ You can imagine my surprise, then, when I read on Day 5, "Too much information: 
 I'd take a gander that Godier was specifically influenced by Burkeman here.  Possibly through [a blog post of his](https://www.oliverburkeman.com/river) explicating this idea.^[Which I just found while writing this book review.]
 
 That anecdote can serve as a testament to the power of Burkeman's ideas.  Learning to let go and embrace inescapable imperfection has felt liberating, so this is one of the rare self-help books that I'm more than happy---nay, enthusiastic---to recommend.
-Grade: B.^[Probably an unfairly-low grade, mostly due to the lack of novelty for me.]
+Grade: A-.
