@@ -242,7 +242,7 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 `2025`
 @imelUnnaturalLanguageToolKit2025
 
-`2025`
+`2025*`
 @haberlandQuantifiersThatAre2025
 
 `2024`
@@ -420,6 +420,14 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 ## Talks
 
 ### Invited
+
+#### TBA
+
+`08/xx/26`
+SLIME 5 (Studies in Language, Information, Meaning, and Expression @ UCLA)
+
+`04/26/26`
+University of Edinburgh, Centre for Language Evolution
 
 #### Language Models as Model "Organisms" 
 
@@ -918,7 +926,7 @@ Paige Finkelstein (Software Engineer, turn.io), "Human-Assisted Neural Machine T
 
 #### Journals
 
-Semantics & Pragmatics (5); Glossa Psycholinguistics; The Psychological Review; Mind; Noûs; Mind \& Language (2); Journal of Data Science; Erkenntnis (3); Synthese (2); The Review of Symbolic Logic (2); Journal of Logic, Language and Information (4); Journal of Semantics (4); Australasion Journal of Philosophy; Ergo; Philosophical Studies; Interaction Studies (formerly known as Evolution of Communication); Frontiers in Artificial Intelligence; Frontiers in Psychology (Language Sciences); Theoria (2); Logic Journal of the IGPL; PLoS Computational Biology; Open Mind; Journal of Pragmatics; Journal of Memory and Language; Proceedings of the National Academy of Sciences (PNAS)
+Semantics & Pragmatics (5); Glossa Psycholinguistics; The Psychological Review; Mind; Noûs; Mind \& Language (2); Journal of Data Science; Erkenntnis (3); Synthese (2); The Review of Symbolic Logic (2); Journal of Logic, Language and Information (4); Journal of Semantics (4); Australasion Journal of Philosophy; Ergo; Philosophical Studies; Interaction Studies (formerly known as Evolution of Communication); Frontiers in Artificial Intelligence; Frontiers in Psychology (Language Sciences); Theoria (2); Logic Journal of the IGPL; PLoS Computational Biology; Open Mind; Journal of Pragmatics; Journal of Memory and Language; Proceedings of the National Academy of Sciences (PNAS); Transactions of Machine Learning Research (4)
 
 #### Conferences
 
@@ -930,7 +938,7 @@ The MIT Press; Cambridge University Press
 
 #### Grant Agencies
 
-National Science Foundation; Israeli Science Foundation; UW Royalty Research Fund; UW Linguistics Fund
+National Science Foundation; Israeli Science Foundation; UW Royalty Research Fund; UW Linguistics Fund; Canada NSERC
 
 
 ### Conference Organization
@@ -954,6 +962,8 @@ National Science Foundation; Israeli Science Foundation; UW Royalty Research Fun
 - ESSLLI 2023: Language and Computation
 - CoNLL 2023: Lexical, Compositional and Discourse Semantics
 - NAACL 2024: Analysis and interpretability
+- ACL 2026
+- CoNLL 2026
 
 ### Mentorship
 
