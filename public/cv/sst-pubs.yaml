@@ -132,6 +132,72 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13027
   volume: '45'
 
+- id: chemlaMinusBonoboCall2025
+  abstract: >-
+    Berthet et al. (2025) propose a computational method to find cases of
+    non-trivial compositionality (when an utterance of a sequence "A B" should
+    not just be interpreted as "A and B", as if elements A and B were
+    interpreted one after the other for instance) in bonobo vocal communication.
+    We show weaknesses of the criteria, and suggest a path for completing the
+    program.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 23
+  author:
+    - family: Chemla
+      given: Emmanuel
+    - family: Brochhagen
+      given: Thomas
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: chemlaMinusBonoboCall2025
+  container-title: Science eLetters
+  issued:
+    - year: 2025
+  note: 'LingBuzz Published In: e-letter in Science'
+  source: LingBuzz
+  title: The plus and minus of bonobo call combinations
+  type: article-journal
+  URL: https://www.science.org/doi/10.1126/science.adv1170#elettersSection
+
+- id: dengDifferencesTypologicalAlignment2026
+  abstract: >-
+    Recent work has shown that language models (LMs) trained on synthetic
+    corpora can exhibit typological preferences that resemble cross-linguistic
+    regularities in human languages, particularly for syntactic phenomena such
+    as word order. In this paper, we extend this paradigm to differential
+    argument marking (DAM), a semantic licensing system in which morphological
+    marking depends on semantic prominence. Using a controlled synthetic
+    learning method, we train GPT-2 models on 18 corpora implementing distinct
+    DAM systems and evaluate their generalization using minimal pairs. Our
+    results reveal a dissociation between two typological dimensions of DAM.
+    Models reliably exhibit human-like preferences for natural markedness
+    direction, favoring systems in which overt marking targets semantically
+    atypical arguments. In contrast, models do not reproduce the strong object
+    preference in human languages, in which overt marking in DAM more often
+    targets objects rather than subjects. These findings suggest that different
+    typological tendencies may arise from distinct underlying sources.
+  author:
+    - family: Deng
+      given: Iskar
+    - family: Xu
+      given: Nathalia
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: dengDifferencesTypologicalAlignment2026
+  container-title: Proceedings of the Conference on Natural Language Learning
+  DOI: 10.48550/arXiv.2602.17653
+  issued:
+    - year: 2026
+  language: en
+  title: >-
+    Differences in Typological Alignment in Language Models' Treatment of
+    Differential Argument Marking
+  type: paper-conference
+  URL: https://arxiv.org/abs/2602.17653v1
+  volume: '30'
+
 - id: denicComplexityInformativenessTradeoff2020
   abstract: >-
     The vocabulary of human languages has been argued to support efficient
@@ -558,7 +624,6 @@ references:
   event-title: NAACL-SIGTYP 2022
   issued:
     - year: 2022
-      month: 7
   page: 42–51
   publisher: Association for Computational Linguistics
   publisher-place: Seattle, Washington
@@ -587,6 +652,7 @@ references:
     - family: Steinert-Threlkeld
       given: Shane
   citation-key: Hawke2015
+  collection-title: Lecture Notes in Computer Science
   container-title: Proceedings of Logic, Rationality, and Interaction (LORI-V)
   DOI: 10.1007/978-3-662-48561-3_12
   editor:
@@ -1328,6 +1394,43 @@ references:
   type: article-journal
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13234
   volume: '47'
+
+- id: ranjanWhenEfficientCommunication2026
+  abstract: >-
+    Much recent work has argued that the variation in the languages of the world
+    can be explained from the perspective of efficient communication; in
+    particular, languages can be seen as optimally balancing competing pressures
+    to be simple and to be informative. Focusing on the expression of meaning --
+    semantic typology -- the present paper asks what factors are responsible for
+    successful explanations in terms of efficient communication. Using the
+    Information Bottleneck (IB) approach to formalizing this trade-off, we first
+    demonstrate and analyze a correlation between optimality in the IB sense and
+    a novel generalization of convexity to this setting. In a second experiment,
+    we manipulate various modeling parameters in the IB framework to determine
+    which factors drive the correlation between convexity and optimality. We
+    find that the convexity of the communicative need distribution plays an
+    especially important role. These results move beyond showing that efficient
+    communication can explain aspects of semantic typology into explanations for
+    why that is the case by identifying which underlying factors are
+    responsible.
+  accessed:
+    - year: 2026
+      month: 2
+      day: 23
+  author:
+    - family: Ranjan
+      given: Ashvin
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: ranjanWhenEfficientCommunication2026
+  container-title: Proceedings of the Annual Meeting of the Cognitive Science Society
+  DOI: 10.48550/arXiv.2602.02821
+  issued:
+    - year: 2026
+  title: When Efficient Communication Explains Convexity
+  type: paper-conference
+  URL: http://arxiv.org/abs/2602.02821
+  volume: '48'
 
 - id: reymondMSCANDatasetMultilingual2023
   abstract: >-

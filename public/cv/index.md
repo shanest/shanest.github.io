@@ -23,7 +23,7 @@ Computational Linguist and Cognitive Scientist
 </div>
 
 <div id="date">
-Last modified: 01/05/26
+Last modified: 05/28/26
 </div>
 
 
@@ -236,10 +236,16 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 
 (NB: An * next to the year indicates abstract, as opposed to full paper, review.)
 
+`2026`
+@dengDifferencesTypologicalAlignment2026
+
+`2026`
+@ranjanWhenEfficientCommunication2026
+
 `2025`
 @wangMinimizationBooleanComplexity2025
 
-`2025`
+`2025*`
 @imelUnnaturalLanguageToolKit2025
 
 `2025*`
@@ -426,8 +432,10 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 `08/xx/26`
 SLIME 5 (Studies in Language, Information, Meaning, and Expression @ UCLA)
 
+#### Artificial Language Modeling 
+
 `04/26/26`
-University of Edinburgh, Centre for Language Evolution
+University of Edinburgh, Centre for Language Evolution Colloquium
 
 #### Language Models as Model "Organisms" 
 
@@ -792,6 +800,7 @@ Fifth IEEE International Conference on Semantic Computing
 
 `2023` "[Tech’s hottest new job: AI whisperer. No coding required.](https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/)" by Drew Harwell in _The Washington Post_
 
+
 ## Teaching
 
 ### Washington
@@ -827,6 +836,8 @@ PHIL 150e Logic in Action (with Thomas Icard and Peter Hawke)
 
 ### Summer Schools and Mini-courses
 
+Unnatural Language Processing: University of Trento CiMEC May 10-11 2026
+
 The Artificial Language Toolkit: MIT Linguistics March 15-16 2023
 
 Learnability of Quantifiers (with Jakub Szymanik): ESSLLI 2019; NASSLLI 2022
@@ -848,8 +859,8 @@ __Primary Advisor__
 
 __Graduated PhD Students (as primary advisor)__
 
-- Naomi Tachikawa Shapiro (now: postdoc at Radbound University, Nijmegen)
-- C.M. Downey (co-advisor: Gina-Anne Levow; now: Assistant Professor in Linguistics and Data Science, University of Rochester)
+- Naomi Tachikawa Shapiro (first job: postdoc at Radbound University, Nijmegen)
+- C.M. Downey (co-advisor: Gina-Anne Levow; first job: Assistant Professor in Linguistics and Data Science, University of Rochester)
 
 
 __Committee Member__
@@ -858,6 +869,8 @@ __Committee Member__
 - Yuanhe Tian (chair: Fei Xia)
 - Nicolas Guerin (Institut Jean Nicod, chair: Emmanuel Chemla)
 - Yuting Zhang (chair: Qi Cheng)
+- Emil Carlsson (Chalmers University, chair: Devdatt Dubashi)
+- John Xu (University of Toronto, chair: Yang Xu)
 
 
 __Graduate Student Representative (external member)__
@@ -870,12 +883,30 @@ __Graduate Student Representative (external member)__
 - Bhargavi Paranjape (computer science)
 - Sewon Min (computer science)
 - Yizhong Wang (computer science)
-
+- Xiaochuang Han (computer science)
+- Jiacheng Liu (computer science)
+- Alisa Liu (computer science)
+- Kevin Li (Biomedical and Health Informatics)
 
 ### MS theses 
 
+`2025`
+Amélie Thu Tâm Reymond (PhD student, Linguistics @ Boston University), "mSCAN - a Multilingual Dataset for Compositional Generalization Evaluation"
+
+`2025`
+Yao-Fei Cheng (AI Resident @ Apple), "Beyond Memorization: Evaluating Length-Generalization in Transformer-based Language Models"
+
+`2025`
+Lindsay Paige Skinner (Data Scientist @ Payscale), "Convexity is a Fundamental Feature of Efficient Semantic Compression in Probability Spaces"
+
 `2024`
-Abhinav Patil, "Language Models can Generalize from Indirect Evidence: Evidence from Filtered Corpus Training (FICT)"
+Leroy Wang (PhD student, Linguistics and Computer Science @ British Columbia), "Complexity of In-Context Concept Learning in Language Models"
+
+`2024`
+Abhinav Patil (PhD student, Cognitive Science @ Johns Hopkins), "Language Models can Generalize from Indirect Evidence: Evidence from Filtered Corpus Training (FICT)"
+
+`2024`
+Dwija Parikh (Linguistic Engineer @ Meta), "Bridging the Gap: Adaptation Approaches for Under-Resourced Language Families"
 
 `2023`
 Yifan Jiang (PhD student, Computer Science @ Waterloo), "The Weighted Mobius Score: A Unified Framework for Feature Attribution"
@@ -926,7 +957,7 @@ Paige Finkelstein (Software Engineer, turn.io), "Human-Assisted Neural Machine T
 
 #### Journals
 
-Semantics & Pragmatics (5); Glossa Psycholinguistics; The Psychological Review; Mind; Noûs; Mind \& Language (2); Journal of Data Science; Erkenntnis (3); Synthese (2); The Review of Symbolic Logic (2); Journal of Logic, Language and Information (4); Journal of Semantics (4); Australasion Journal of Philosophy; Ergo; Philosophical Studies; Interaction Studies (formerly known as Evolution of Communication); Frontiers in Artificial Intelligence; Frontiers in Psychology (Language Sciences); Theoria (2); Logic Journal of the IGPL; PLoS Computational Biology; Open Mind; Journal of Pragmatics; Journal of Memory and Language; Proceedings of the National Academy of Sciences (PNAS); Transactions of Machine Learning Research (4)
+Semantics & Pragmatics (5); Glossa Psycholinguistics; The Psychological Review; Mind; Noûs; Mind \& Language (2); Journal of Data Science; Erkenntnis (3); Synthese (2); The Review of Symbolic Logic (2); Journal of Logic, Language and Information (4); Journal of Semantics (4); Australasion Journal of Philosophy; Ergo; Philosophical Studies; Interaction Studies (formerly known as Evolution of Communication); Frontiers in Artificial Intelligence; Frontiers in Psychology (Language Sciences); Theoria (2); Logic Journal of the IGPL; PLoS Computational Biology; Open Mind (3); Journal of Pragmatics; Journal of Memory and Language; Proceedings of the National Academy of Sciences (PNAS; 2); Transactions of Machine Learning Research (4); Cognition (2); Biology and Philosophy; Computational Linguistics ; Linguistics and Philosophy
 
 #### Conferences
 
@@ -938,7 +969,7 @@ The MIT Press; Cambridge University Press
 
 #### Grant Agencies
 
-National Science Foundation; Israeli Science Foundation; UW Royalty Research Fund; UW Linguistics Fund; Canada NSERC
+National Science Foundation; Israeli Science Foundation; UW Royalty Research Fund; UW Linguistics Fund; Canada NSERC; Swiss NSF
 
 
 ### Conference Organization
@@ -956,6 +987,10 @@ National Science Foundation; Israeli Science Foundation; UW Royalty Research Fun
 - Cognitive Semantics and Quantities Kick-off Workshop (with Peter Hawke)
 - NASSLLI 2014 Student Session
 - First, Second, Third, Fourth CSLI Workshop on Logic, Rationality and Intelligent Interaction (with Peter Hawke, JT Chipman, Thomas Icard, Johan van Benthem)
+
+#### Standing Committee Member
+
+- North American Summer School for Logic, Language and Information
 
 #### Area Chair
 
