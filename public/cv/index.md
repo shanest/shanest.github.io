@@ -422,6 +422,15 @@ Contribution: as required, for each non-single-authored publication, an esimate 
 `under contract`
 @steinert-threlkeldComputationalExplanationsSemanticinprep
 
+`under review`
+@quBrainScoreTracks2026
+
+`under review`
+@luoExposureOptionalLearning2026
+
+`under review`
+@popadichLanguageModelsGeneralize2026
+
 
 ## Talks
 

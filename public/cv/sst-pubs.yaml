@@ -12,9 +12,9 @@ references:
     vocabulary size. We also provide insights into how models encode such
     high-level semantic knowledge.
   accessed:
-    - year: 2022
-      month: 10
-      day: 12
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Ban
       given: Pangbo
@@ -28,13 +28,34 @@ references:
   container-title: >-
     Proceedings of the Fifth BlackboxNLP Workshop on Analyzing and Interpreting
     Neural Networks for NLP
+  container-title-short: Proc. Fifth BlackboxNLP Workshop Anal. Interpret. Neural Netw. NLP
+  DOI: 10.18653/v1/2022.blackboxnlp-1.26
+  editor:
+    - family: Bastings
+      given: Jasmijn
+    - family: Belinkov
+      given: Yonatan
+    - family: Elazar
+      given: Yanai
+    - family: Hupkes
+      given: Dieuwke
+    - family: Saphra
+      given: Naomi
+    - family: Wiegreffe
+      given: Sarah
+  event-title: BlackboxNLP 2022
   issued:
     - year: 2022
+      month: 12
+  page: 314–324
+  publisher: Association for Computational Linguistics
+  publisher-place: Abu Dhabi, United Arab Emirates (Hybrid)
+  source: ACLWeb
   title: >-
-    Testing Pre-trained Language Models’ Understanding of Distributivity via
+    Testing Pre-trained Language Models' Understanding of Distributivity via
     Causal Mediation Analysis
   type: paper-conference
-  URL: https://openreview.net/forum?id=D3U5fpVsZIN
+  URL: https://aclanthology.org/2022.blackboxnlp-1.26/
 
 - id: carcassiEmergenceMonotoneQuantifiers2019
   author:
@@ -48,6 +69,7 @@ references:
   container-title: >-
     Proceedings of the 41st Annual Meeting of the Cognitive Science Society
     (CogSci 2019)
+  container-title-short: Proc. 41st Annu. Meet. Cogn. Sci. Soc. CogSci 2019
   issued:
     - year: 2019
   page: 190–196
@@ -79,52 +101,13 @@ references:
       given: Jakub
   citation-key: carcassiMonotoneQuantifiersEmerge2021
   container-title: Cognitive Science
+  container-title-short: Cogn. Sci.
   DOI: 10.1111/cogs.13027
   ISSN: 1551-6709
   issue: '8'
   issued:
     - year: 2021
   language: en
-  page: e13027
-  source: Wiley Online Library
-  title: Monotone Quantifiers Emerge via Iterated Learning
-  type: article-journal
-  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13027
-  volume: '45'
-
-- id: carcassiMonotoneQuantifiersEmerge2021a
-  abstract: >-
-    Natural languages exhibit many semantic universals, that is, properties of
-    meaning shared across all languages. In this paper, we develop an
-    explanation of one very prominent semantic universal, the monotonicity
-    universal. While the existing work has shown that quantifiers satisfying the
-    monotonicity universal are easier to learn, we provide a more complete
-    explanation by considering the emergence of quantifiers from the perspective
-    of cultural evolution. In particular, we show that quantifiers satisfy the
-    monotonicity universal evolve reliably in an iterated learning paradigm with
-    neural networks as agents.
-  accessed:
-    - year: 2023
-      month: 10
-      day: 5
-  author:
-    - family: Carcassi
-      given: Fausto
-    - family: Steinert-Threlkeld
-      given: Shane
-    - family: Szymanik
-      given: Jakub
-  citation-key: carcassiMonotoneQuantifiersEmerge2021a
-  container-title: Cognitive Science
-  DOI: 10.1111/cogs.13027
-  ISSN: 1551-6709
-  issue: '8'
-  issued:
-    - year: 2021
-  language: en
-  license: >-
-    © 2021 The Authors. Cognitive Science published by Wiley Periodicals LLC on
-    behalf of Cognitive Science Society (CSS).
   page: e13027
   source: Wiley Online Library
   title: Monotone Quantifiers Emerge via Iterated Learning
@@ -153,6 +136,7 @@ references:
       given: Shane
   citation-key: chemlaMinusBonoboCall2025
   container-title: Science eLetters
+  container-title-short: Sci. ELetters
   issued:
     - year: 2025
   note: 'LingBuzz Published In: e-letter in Science'
@@ -178,6 +162,10 @@ references:
     preference in human languages, in which overt marking in DAM more often
     targets objects rather than subjects. These findings suggest that different
     typological tendencies may arise from distinct underlying sources.
+  accessed:
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Deng
       given: Iskar
@@ -186,17 +174,30 @@ references:
     - family: Steinert-Threlkeld
       given: Shane
   citation-key: dengDifferencesTypologicalAlignment2026
-  container-title: Proceedings of the Conference on Natural Language Learning
-  DOI: 10.48550/arXiv.2602.17653
+  container-title: >-
+    Proceedings of the 30th Conference on Computational Natural Language
+    Learning
+  container-title-short: Proc. 30th Conf. Comput. Nat. Lang. Learn.
+  DOI: 10.18653/v1/2026.conll-main.16
+  editor:
+    - family: Bonial
+      given: Claire
+    - family: Berzak
+      given: Yevgeni
+  event-title: CoNLL 2026
+  ISBN: 979-8-89176-410-1
   issued:
     - year: 2026
-  language: en
+      month: 7
+  page: 268–283
+  publisher: Association for Computational Linguistics
+  publisher-place: San Diego, California, USA
+  source: ACLWeb
   title: >-
     Differences in Typological Alignment in Language Models' Treatment of
     Differential Argument Marking
   type: paper-conference
-  URL: https://arxiv.org/abs/2602.17653v1
-  volume: '30'
+  URL: https://aclanthology.org/2026.conll-main.16/
 
 - id: denicComplexityInformativenessTradeoff2020
   abstract: >-
@@ -224,6 +225,7 @@ references:
       given: Jakub
   citation-key: denicComplexityInformativenessTradeoff2020
   container-title: Proceedings of Semantics and Linguistic Theory (SALT 30)
+  container-title-short: Proc. Semant. Linguist. Theory SALT 30
   DOI: 10.3765/salt.v30i0.4811
   issued:
     - year: 2020
@@ -264,6 +266,7 @@ references:
       given: Jakub
   citation-key: denicIndefinitePronounsOptimize2022
   container-title: Cognitive Science
+  container-title-short: Cogn. Sci.
   DOI: 10.1111/cogs.13142
   ISSN: 1551-6709
   issue: '5'
@@ -295,6 +298,7 @@ references:
   container-title: >-
     Proceedings of the 3rd Workshop on Multi-lingual Representation Learning
     (MRL)
+  container-title-short: Proc. 3rd Workshop Multi-Lingual Represent. Learn. MRL
   editor:
     - family: Ataman
       given: Duygu
@@ -330,6 +334,7 @@ references:
   container-title: >-
     Proceedings of the 3rd Workshop on Multi-lingual Representation Learning
     (MRL)
+  container-title-short: Proc. 3rd Workshop Multi-Lingual Represent. Learn. MRL
   editor:
     - family: Ataman
       given: Duygu
@@ -371,6 +376,7 @@ references:
       given: Shane
   citation-key: downeyLearningTranslateLearningsubmitted
   container-title: Representation Learning for NLP (RepL4NLP)
+  container-title-short: Represent. Learn. NLP RepL4NLP
   DOI: 10.48550/arXiv.2207.07025
   issued:
     - literal: submitted
@@ -413,6 +419,7 @@ references:
   container-title: >-
     Proceedings of the 19th SIGMORPHON Workshop on Computational Research in
     Phonetics, Phonology, and Morphology
+  container-title-short: Proc. 19th SIGMORPHON Workshop Comput. Res. Phon. Phonol. Morphol.
   event-title: NAACL-SIGMORPHON 2022
   issued:
     - year: 2022
@@ -461,6 +468,7 @@ references:
       given: Shane
   citation-key: downeyTargetedMultilingualAdaptation2024
   container-title: 'Findings of the Association for Computational Linguistics: EMNLP 2024'
+  container-title-short: Find. Assoc. Comput. Linguist. EMNLP 2024
   editor:
     - family: Al-Onaizan
       given: Yaser
@@ -487,6 +495,10 @@ references:
     (i) train using backpropagation, (ii) show that discrete messages
     nonetheless naturally emerge. We explore whether categorical perception
     effects follow and show that the messages are not compositional.
+  accessed:
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Geffen Lan
       given: Nur
@@ -498,15 +510,28 @@ references:
   container-title: >-
     Proceedings of the 58th Annual Meeting of the Association for Computational
     Linguistics
+  container-title-short: Proc. 58th Annu. Meet. Assoc. Comput. Linguist.
   DOI: 10.18653/v1/2020.acl-main.433
+  editor:
+    - family: Jurafsky
+      given: Dan
+    - family: Chai
+      given: Joyce
+    - family: Schluter
+      given: Natalie
+    - family: Tetreault
+      given: Joel
+  event-title: ACL 2020
   issued:
     - year: 2020
+      month: 7
   page: 4794–4800
   publisher: Association for Computational Linguistics
-  publisher-place: Stroudsburg, PA, USA
+  publisher-place: Online
+  source: ACLWeb
   title: On the Spontaneous Emergence of Discrete and Compositional Signals
   type: paper-conference
-  URL: https://www.aclweb.org/anthology/2020.acl-main.433
+  URL: https://aclanthology.org/2020.acl-main.433/
 
 - id: guerinImpactSyntacticSemantic2024
   abstract: >-
@@ -541,6 +566,7 @@ references:
       given: Shane
   citation-key: guerinImpactSyntacticSemantic2024
   container-title: Transactions on Machine Learning Research
+  container-title-short: Trans. Mach. Learn. Res.
   ISSN: 2835-8856
   issued:
     - year: 2024
@@ -582,7 +608,6 @@ references:
       given: Emmanuel
   citation-key: guerinSecondOrderZipfsLaw2025
   container-title: Open Mind
-  container-title-short: Open Mind
   DOI: 10.1162/opmi.a.8
   ISSN: 2470-2986
   issued:
@@ -620,6 +645,7 @@ references:
   container-title: >-
     Proceedings of the 4th Workshop on Research in Computational Linguistic
     Typology and Multilingual NLP
+  container-title-short: Proc. 4th Workshop Res. Comput. Linguist. Typology Multiling. NLP
   DOI: 10.18653/v1/2022.sigtyp-1.6
   event-title: NAACL-SIGTYP 2022
   issued:
@@ -633,17 +659,52 @@ references:
   URL: https://aclanthology.org/2022.sigtyp-1.6
 
 - id: haberlandQuantifiersThatAre2025
+  abstract: >-
+    Linguistic universals have been hypothesized to bound the observed
+    properties of natural languages at all levels of linguistic analysis
+    (Greenberg 1966; Croft 2003; van der Hulst 2008). In the domain of
+    semantics, such universals are often explained by appeal to general
+    information-theoretic and cognitive facts, from efficient communication to
+    ease of learning. This paper expands the range of the ease of learning
+    explanation through a case study of monotone quantifiers. While most
+    existing studies compare expressions which either do or do not satisfy a
+    given universal property, we here define a metric for measuring monotonicity
+    in degrees. A computational experiment shows that this degree correlates
+    well with ease of learning, providing a finer-grained explanation in the
+    ease of learning tradition.
+  accessed:
+    - year: 2026
+      month: 7
+      day: 15
   author:
     - family: Haberland
       given: Christopher
     - family: Steinert-Threlkeld
       given: Shane
   citation-key: haberlandQuantifiersThatAre2025
-  container-title: Proceedings of Semantics and Linguistic Theory (SALT 35)
+  container-title: Proceedings of the 35th Semantics and Linguistic Theory Conference (SALT35)
+  container-title-short: Proc. 35th Semant. Linguist. Theory Conf. SALT35
+  DOI: 10.3765/6qa95941
+  editor:
+    - family: Cho
+      given: Youngdong
+    - family: Wu
+      given: Yifan
+    - family: Lynch
+      given: Zander
+    - family: Wibberly
+      given: Kory
+  ISSN: 2163-5951
   issued:
     - year: 2025
-  title: Quantifiers that are More Monotone are Easier to Learn
+  language: en
+  license: Copyright (c) 2026 Christopher Haberland, Shane Steinert-Threlkeld
+  page: 286–309
+  source: journals.linguisticsociety.org
+  title: Quantifiers that are more monotone are easier to learn
   type: paper-conference
+  URL: >-
+    https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/35.015
 
 - id: Hawke2015
   author:
@@ -654,6 +715,7 @@ references:
   citation-key: Hawke2015
   collection-title: Lecture Notes in Computer Science
   container-title: Proceedings of Logic, Rationality, and Interaction (LORI-V)
+  container-title-short: Proc. Log. Ration. Interact. LORI-V
   DOI: 10.1007/978-3-662-48561-3_12
   editor:
     - family: Hoek
@@ -697,7 +759,6 @@ references:
       given: Shane
   citation-key: hawkeInformationalDynamicsEpistemic2018
   container-title: Synthese
-  container-title-short: Synthese
   DOI: 10.1007/s11229-016-1216-8
   ISSN: 1573-0964
   issue: '10'
@@ -731,6 +792,7 @@ references:
   citation-key: hawkeInformationalDynamicsMight2015
   collection-title: Lecture Notes in Computer Science
   container-title: Logic, Rationality, and Interaction
+  container-title-short: Log. Ration. Interact.
   DOI: 10.1007/978-3-662-48561-3_12
   editor:
     - family: Hoek
@@ -782,7 +844,7 @@ references:
       given: Shane
   citation-key: hawkeSemanticExpressivismEpistemic2021
   container-title: Linguistics and Philosophy
-  container-title-short: Linguist and Philos
+  container-title-short: Linguist. Philos.
   DOI: 10.1007/s10988-020-09295-7
   ISSN: 1573-0549
   issue: '2'
@@ -828,7 +890,6 @@ references:
       given: Shane
   citation-key: imelEfficientCommunicationAnalysis2026
   container-title: Open Mind
-  container-title-short: Open Mind
   DOI: 10.1162/OPMI.a.313
   ISSN: 2470-2986
   issued:
@@ -853,6 +914,7 @@ references:
       given: Shane
   citation-key: imelModalSemanticUniversals2022
   container-title: Semantics and Linguistic Theory (SALT 32)
+  container-title-short: Semant. Linguist. Theory SALT 32
   DOI: 10.3765/salt.v1i0.5346
   issued:
     - year: 2022
@@ -877,12 +939,13 @@ references:
       given: Shane
   citation-key: imelUnnaturalLanguageToolKit2025
   container-title: Society for Computation in Linguistics
+  container-title-short: Soc. Comput. Linguist.
   DOI: 10.7275/scil.3144
   ISSN: 2834-1007
   issue: '1'
   issued:
     - year: 2025
-  language: eng
+  language: en
   number: '1'
   publisher: University of Massachusetts Amherst Libraries
   source: openpublishing.library.umass.edu
@@ -914,6 +977,7 @@ references:
       given: Shane
   citation-key: jiangWeightedMobiusScoresubmitted
   container-title: Neural Information Processing Systems
+  container-title-short: Neural Inf. Process. Syst.
   DOI: 10.48550/arXiv.2305.09204
   issued:
     - literal: submitted
@@ -941,6 +1005,7 @@ references:
       given: Shane
   citation-key: jumeletLanguageModelsUse2021
   container-title: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021'
+  container-title-short: Find. Assoc. Comput. Linguist. ACL-IJCNLP 2021
   DOI: 10.18653/v1/2021.findings-acl.439
   event-title: Findings 2021
   issued:
@@ -990,6 +1055,7 @@ references:
   container-title: >-
     Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting
     Neural Networks for NLP
+  container-title-short: Proc. Third BlackboxNLP Workshop Anal. Interpret. Neural Netw. NLP
   DOI: 10.18653/v1/2020.blackboxnlp-1.12
   event-title: BlackboxNLP-EMNLP 2020
   issued:
@@ -1006,6 +1072,43 @@ references:
   type: paper-conference
   URL: https://aclanthology.org/2020.blackboxnlp-1.12
 
+- id: luoExposureOptionalLearning2026
+  abstract: >-
+    Coordination, a fundamental linguistic structure, remains a subject of
+    intense debate, and its exact nature continues to elude theoretical
+    linguistics. A common view holds that only same-category constituents can be
+    conjoined, which has been challenged by the many grammatical cases of unlike
+    coordination found in natural language. Treating language models as a
+    computational testbed, we investigate whether the acquisition of unlike
+    coordination requires direct exposure in the training data, or whether it
+    can emerge organically from general compositional abilities. Using
+    Filtered-Corpus Training (FiCT), we train GPT-2 models on corpora from which
+    all instances of unlike coordination have been systematically removed. We
+    find that direct exposure is optional: models trained on filtered data
+    successfully generalize to unlike coordination, achieving perplexity and
+    grammaticality judgments comparable to models trained on unfiltered text.
+    Furthermore, our analyses of internal representations indicate that language
+    models process unlike coordination by treating the conjoined elements as
+    belonging to similar structural categories or through a mechanism akin to
+    deletion, both of which appear learnable from exposure to alike coordination
+    alone. This work contributes to the growing understanding of how language
+    models internally represent linguistic structures, while also adding to the
+    broader debate on coordination by showing that how models generalize and
+    process unlike coordination without direct exposure.
+  author:
+    - family: Luo
+      given: Jiamu
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: luoExposureOptionalLearning2026
+  issued:
+    - literal: under review
+  language: en
+  title: 'Exposure is Optional: Learning Unlike Coordination in Language Models'
+  title-short: Exposure is Optional
+  type: article
+  URL: https://arxiv.org/abs/2607.20251
+
 - id: mintsADCMethodProof2016
   author:
     - family: Mints
@@ -1014,6 +1117,7 @@ references:
       given: Shane
   citation-key: mintsADCMethodProof2016
   container-title: Journal of Logic and Computation
+  container-title-short: J. Log. Comput.
   DOI: 10.1093/logcom/ext032
   ISSN: 0955-792X
   issue: '1'
@@ -1042,11 +1146,11 @@ references:
     leaves room for the possibility that an extensional account might offer a
     better analysis.
 
-    EARLY ACCESS
+    BibTeX info
   accessed:
-    - year: 2024
-      month: 1
-      day: 8
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Ogihara
       given: Toshiyuki
@@ -1054,13 +1158,16 @@ references:
       given: Shane
   citation-key: ogiharaLimitationsModalAnalysis2024
   container-title: Semantics and Pragmatics
+  container-title-short: Semant. Pragmat.
   DOI: 10.3765/sp.17.1
   ISSN: 1937-8912
-  issue: '1'
   issued:
     - year: 2024
+      month: 1
+      day: 5
   language: en
   license: Copyright (c) 2024 Toshiyuki Ogihara, Shane Steinert-Threlkeld
+  page: 1:1-21
   source: semprag.org
   title: Limitations of a modal analysis of *before* and *after*
   type: article-journal
@@ -1092,6 +1199,7 @@ references:
   container-title: >-
     Proceedings of the Workshop on Cognitive Modeling and Computational
     Linguistics
+  container-title-short: Proc. Workshop Cogn. Model. Comput. Linguist.
   DOI: 10.18653/v1/W19-2916
   issue: '2009'
   issued:
@@ -1138,7 +1246,7 @@ references:
       given: Shane
   citation-key: patilFilteredCorpusTraining2024a
   container-title: Transactions of the Association for Computational Linguistics
-  container-title-short: Transactions of the Association for Computational Linguistics
+  container-title-short: Trans. Assoc. Comput. Linguist.
   DOI: 10.1162/tacl_a_00720
   ISSN: 2307-387X
   issued:
@@ -1166,6 +1274,7 @@ references:
   container-title: >-
     Proceedings of the 56th Annual Meeting of the Association for Computational
     Linguistics (ACL 2018)
+  container-title-short: Proc. 56th Annu. Meet. Assoc. Comput. Linguist. ACL 2018
   issued:
     - year: 2018
   title: >-
@@ -1201,6 +1310,7 @@ references:
   container-title: >-
     Proceedings of the 56th Annual Meeting of the Association for Computational
     Linguistics (Volume 2: Short Papers)
+  container-title-short: Proc. 56th Annu. Meet. Assoc. Comput. Linguist. Vol. 2 Short Pap.
   DOI: 10.18653/v1/P18-2019
   event-title: ACL 2018
   issued:
@@ -1232,6 +1342,7 @@ references:
       given: Jakub
   citation-key: Pol2021
   container-title: Proceedings of the Annual Meeting of the Cognitive Science Society
+  container-title-short: Proc. Annu. Meet. Cogn. Sci. Soc.
   issued:
     - year: 2021
   title: Quantifiers satisfying semantic universals are simpler
@@ -1252,6 +1363,7 @@ references:
   container-title: >-
     Proceedings of the 41st Annual Meeting of the Cognitive Science Society
     (CogSci 2019)
+  container-title-short: Proc. 41st Annu. Meet. Cogn. Sci. Soc. CogSci 2019
   issued:
     - year: 2019
   page: 3015–3021
@@ -1287,6 +1399,75 @@ references:
   type: article-journal
   volume: '232'
 
+- id: popadichLanguageModelsGeneralize2026
+  abstract: >-
+    A central question in language acquisition is whether linguistic biases can
+    emerge from general learning mechanisms operating over underdetermined
+    input. Artificial Language Learning (ALL) studies have shown that human
+    learners reliably generalize beyond the evidence provided, including by
+    preferring scope-homomorphic noun phrase modifier orders. In this work, we
+    investigate whether language models exhibit the same bias under similar
+    conditions. We create a controlled learning environment in which models are
+    trained on a corpus where all noun phrases containing multiple modifiers
+    have been removed, eliminating direct evidence about modifier ordering, and
+    are then evaluated on multiple modifier sentences. Across three model sizes,
+    we find that they consistently prefer scope-homomorphic orders despite never
+    observing them during training. These preferences vary in strength by
+    modifier type. To investigate the source of these preferences, we examine
+    noun-modifier association strength using pointwise mutual information (PMI).
+    While PMI reflects known modifier-ordering patterns, it does not explain the
+    models' ordering preferences. These findings demonstrate that LMs can
+    recover human-like linguistic generalizations from impoverished input and
+    provide a controlled framework for investigating the mechanisms underlying
+    such biases.
+  author:
+    - family: Popadich
+      given: Amanda
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: popadichLanguageModelsGeneralize2026
+  issued:
+    - literal: under review
+  language: en
+  title: Language Models Generalize to Human-like Word Order Preferences
+  type: article
+  URL: https://arxiv.org/abs/2608.05028v1
+
+- id: quBrainScoreTracks2026
+  abstract: >-
+    Recent breakthroughs in language models (LMs) using neural networks have
+    raised the question: how similar are these models' processing to human
+    language processing? Results using a framework called Brain Score (BS) --
+    predicting fMRI activations during reading from LM activations -- have been
+    used to argue for a high degree of similarity. To understand this
+    similarity, we conduct experiments by training LMs on various types of input
+    data and evaluate them on BS. We find that models trained on various natural
+    languages from many different language families have very similar BS
+    performance. LMs trained on other structured data -- the human genome,
+    Python, and pure hierarchical structure (nested parentheses) -- also perform
+    reasonably well and close to natural languages in some cases. These findings
+    suggest that BS can highlight language models' ability to extract common
+    structure across natural languages, but that the metric may not be sensitive
+    enough to allow us to infer human-like processing from a high BS score
+    alone.
+  author:
+    - family: Qu
+      given: Jingnong
+    - family: Ranjan
+      given: Ashvin
+    - family: Steinert-Threlkeld
+      given: Shane
+  citation-key: quBrainScoreTracks2026
+  issued:
+    - literal: under review
+  source: arXiv.org
+  title: >-
+    Brain Score Tracks Shared Properties of Languages: Evidence from Many
+    Natural Languages and Structured Sequences
+  title-short: Brain Score Tracks Shared Properties of Languages
+  type: article
+  URL: http://arxiv.org/abs/2604.15503
+
 - id: ramotowskaMostNotMore2020
   abstract: >-
     In this study we test individual differences in the meaning representations
@@ -1314,6 +1495,7 @@ references:
       given: Jakub
   citation-key: ramotowskaMostNotMore2020
   container-title: Proceedings of Sinn und Bedeutung
+  container-title-short: Proc. Sinn Bedeut.
   DOI: 10.18148/sub/2020.v24i2.891
   ISSN: 2629-6055
   issue: '2'
@@ -1380,6 +1562,7 @@ references:
       given: Jakub
   citation-key: ramotowskaUncoveringStructureSemantic2023
   container-title: Cognitive Science
+  container-title-short: Cogn. Sci.
   DOI: 10.1111/cogs.13234
   ISSN: 1551-6709
   issue: '1'
@@ -1400,23 +1583,23 @@ references:
     Much recent work has argued that the variation in the languages of the world
     can be explained from the perspective of efficient communication; in
     particular, languages can be seen as optimally balancing competing pressures
-    to be simple and to be informative. Focusing on the expression of meaning --
-    semantic typology -- the present paper asks what factors are responsible for
-    successful explanations in terms of efficient communication. Using the
-    Information Bottleneck (IB) approach to formalizing this trade-off, we first
-    demonstrate and analyze a correlation between optimality in the IB sense and
-    a novel generalization of convexity to this setting. In a second experiment,
-    we manipulate various modeling parameters in the IB framework to determine
-    which factors drive the correlation between convexity and optimality. We
-    find that the convexity of the communicative need distribution plays an
-    especially important role. These results move beyond showing that efficient
-    communication can explain aspects of semantic typology into explanations for
-    why that is the case by identifying which underlying factors are
-    responsible.
+    to be simple and to be informative. Focusing on the expression of
+    meaning---semantic typology---the present paper asks what factors are
+    responsible for successful explanations in terms of efficient communication.
+    Using the Information Bottleneck (IB) approach to formalizing this
+    trade-off, we first demonstrate and analyze a correlation between optimality
+    in the IB sense and a novel generalization of convexity to this setting. In
+    a second experiment, we manipulate various modeling parameters in the IB
+    framework to determine which factors drive the correlation between convexity
+    and optimality. We find that the convexity of the communicative need
+    distribution plays an especially important role. These results move beyond
+    showing that efficient communication can explain aspects of semantic
+    typology into explanations for why that is the case by identifying which
+    underlying factors are responsible.
   accessed:
     - year: 2026
-      month: 2
-      day: 23
+      month: 8
+      day: 3
   author:
     - family: Ranjan
       given: Ashvin
@@ -1424,12 +1607,15 @@ references:
       given: Shane
   citation-key: ranjanWhenEfficientCommunication2026
   container-title: Proceedings of the Annual Meeting of the Cognitive Science Society
-  DOI: 10.48550/arXiv.2602.02821
+  container-title-short: Proc. Annu. Meet. Cogn. Sci. Soc.
+  issue: '0'
   issued:
     - year: 2026
+  language: en
+  source: escholarship.org
   title: When Efficient Communication Explains Convexity
   type: paper-conference
-  URL: http://arxiv.org/abs/2602.02821
+  URL: https://escholarship.org/uc/item/9vg783hc
   volume: '48'
 
 - id: reymondMSCANDatasetMultilingual2023
@@ -1456,6 +1642,7 @@ references:
   container-title: >-
     Proceedings of the 1st GenBench Workshop on (Benchmarking) Generalisation in
     NLP
+  container-title-short: Proc. 1st GenBench Workshop Benchmarking Gen. NLP
   editor:
     - family: Hupkes
       given: Dieuwke
@@ -1534,7 +1721,7 @@ references:
       given: Emmanuel
   citation-key: schlenkerAncestralMeaningsPrelude2025
   container-title: Linguistics and Philosophy
-  container-title-short: Linguist and Philos
+  container-title-short: Linguist. Philos.
   DOI: 10.1007/s10988-025-09438-8
   ISSN: 1573-0549
   issue: '5'
@@ -1567,6 +1754,7 @@ references:
       given: Emmanuel
   citation-key: schlenkerAnthropocentrismComparativeCognition2022
   container-title: Cognitive Science
+  container-title-short: Cogn. Sci.
   DOI: 10.1111/cogs.13220
   ISSN: 1551-6709
   issue: '12'
@@ -1597,8 +1785,8 @@ references:
     acoustic feature—hence a new road to (featural) compositionality.
   accessed:
     - year: 2026
-      month: 2
-      day: 2
+      month: 8
+      day: 10
   author:
     - family: Schlenker
       given: Philippe
@@ -1614,6 +1802,7 @@ references:
       given: Emmanuel
   citation-key: schlenkerAntiBabelThreeDegrees2026
   container-title: Mind & Language
+  container-title-short: Mind Lang.
   DOI: 10.1111/mila.12529
   ISSN: 1468-0017
   issue: '1'
@@ -1639,29 +1828,29 @@ references:
     played by distinct but close loudspeakers). While the logic of the argument
     is arguably sound, no explicit rule has been proposed to derive the meaning
     of ABC-D from that of its parts. We compare two analyses. One posits a
-    limited instance of semantic compositionality ('Minimal Compositionality');
-    the other does without compositionality, but with a more sophisticated
-    pragmatics ('Bird Implicatures'). Minimal Compositionality takes the
-    composition of ABC and D to deviate only minimally from what would be found
-    with two independent utterances: ABC means that 'there is something that
-    licenses an alert', D means that 'there is something that licenses
-    recruitment', and ABC-D means that 'there is something that licenses both an
-    alert and recruitment'. By contrast, ABC and D as independent utterances
-    yield something weaker, namely: 'there is something that licenses an alert,
-    and there is something that licenses recruitment', without any 'binding'
+    limited instance of semantic compositionality (‘Minimal Compositionality’);
+    the other does without compositionality, but uses instead a more
+    sophisticated pragmatics (‘Bird Implicatures’). Minimal Compositionality
+    takes the composition of ABC and D to deviate only minimally from what would
+    be found with two independent utterances: ABC means that ‘there is something
+    that licenses an alert’, D means that ‘there is something that licenses
+    recruitment’, and ABC-D means that ‘there is something that licenses both an
+    alert and recruitment’. By contrast, ABC and D as independent utterances
+    yield something weaker, namely: ‘there is something that licenses an alert,
+    and there is something that licenses recruitment’, without any ‘binding’
     across the two utterances. The second theory, Bird Implicatures, only
     requires that ABC-D should be more informative than ABC, and/or than D. It
-    builds on the idea, proposed for several monkey species, that a less
-    informative call competes with a more informative one (‘Informativity
-    Principle’): when produced alone, ABC and D trigger an inference that ABC-D
-    is false. We explain how both Minimal Compositionality and Bird Implicatures
-    could have evolved, and we compare the predictions of the two theories.
-    Finally, we extend the discussion to some chimpanzee and meerkat sequences
-    that might raise related theoretical problems.
+    builds on the idea, proposed for several monkey species, that a
+    less-informative call competes with a more informative one (the
+    ‘Informativity Principle’): when produced alone, ABC and D trigger an
+    inference that ABC-D is false. We explain how both Minimal Compositionality
+    and Bird Implicatures could have evolved, and we compare the predictions of
+    the two theories. Finally, we extend the discussion to some chimpanzee and
+    meerkat sequences that might raise related theoretical problems.
   accessed:
-    - year: 2024
-      month: 2
-      day: 26
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Schlenker
       given: Philippe
@@ -1679,19 +1868,38 @@ references:
       given: Emmanuel
   citation-key: schlenkerMinimalCompositionalityBird2024
   container-title: Biological Reviews
+  container-title-short: Biol. Rev.
   DOI: 10.1111/brv.13068
+  ISSN: 1469-185X
+  issue: '4'
   issued:
     - year: 2024
-  note: 'LingBuzz Published In: To appear in Biological Reviews'
-  source: LingBuzz
+  language: en
+  license: © 2024 Cambridge Philosophical Society.
+  page: 1278–1297
+  source: Wiley Online Library
   title: >-
-    Minimal Compositionality versus Bird Implicatures:  Two Theories of ABC-D
-    Sequences in Japanese Tits
+    Minimal Compositionality versus Bird Implicatures: two theories of ABC-D
+    sequences in Japanese tits
   title-short: Minimal Compositionality versus Bird Implicatures
   type: article-journal
-  URL: https://ling.auf.net/lingbuzz/007422
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.13068
+  volume: '99'
 
 - id: shapiroIconicArtificialLanguage2023
+  abstract: >-
+    We introduce an iconic approach to artificial language learning, one that
+    replaces traditional phonologically-grounded stimuli with pictographic
+    writing systems. Conducting an experiment with English speakers, we
+    demonstrate the viability of this approach by reproducing word order effects
+    observed in multiple studies (e.g., Culbertson &amp; Adger, 2014; Martin,
+    Holtz, Abels, Adger, &amp; Culbertson, 2020). Importantly, iconic artificial
+    languages make it possible to re-use the same linguistic stimuli with
+    diverse language populations, facilitating crosslinguistic investigations.
+  accessed:
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Shapiro
       given: Naomi Tachikawa
@@ -1699,11 +1907,16 @@ references:
       given: Shane
   citation-key: shapiroIconicArtificialLanguage2023
   container-title: Proceedings of the Annual Meeting of the Cognitive Science Society
+  container-title-short: Proc. Annu. Meet. Cogn. Sci. Soc.
+  issue: '45'
   issued:
     - year: 2023
+  language: en
+  source: escholarship.org
   title: >-
     Iconic Artificial Language Learning: A Conceptual Replication with English
     Speakers
+  title-short: Iconic Artificial Language Learning
   type: paper-conference
   URL: https://escholarship.org/uc/item/7b66s7c6
   volume: '45'
@@ -1727,6 +1940,7 @@ references:
       given: Shane
   citation-key: shapiroIconicArtificialLanguage2024
   container-title: Proceedings of the Annual Meeting of the Cognitive Science Society
+  container-title-short: Proc. Annu. Meet. Cogn. Sci. Soc.
   issued:
     - year: 2024
   title: >-
@@ -1767,6 +1981,7 @@ references:
       given: Shane
   citation-key: shapiroMultilabelApproachMorphosyntactic2021
   container-title: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
+  container-title-short: Find. Assoc. Comput. Linguist. EMNLP 2021
   DOI: 10.18653/v1/2021.findings-emnlp.382
   event-title: EMNLP-Findings 2021
   issued:
@@ -1786,6 +2001,7 @@ references:
       given: Shane
   citation-key: Steinert-Threlkeld2014
   container-title: Proceedings of Information Dynamics in Artificial Societies (IDAS-14)
+  container-title-short: Proc. Inf. Dyn. Artif. Soc. IDAS-14
   editor:
     - family: Lorini
       given: Emiliano
@@ -1816,6 +2032,7 @@ references:
       given: Jakub
   citation-key: steinert-threlkeldAlternativeRepresentationsFormal2015
   container-title: Proceedings of the 20th Amsterdam Colloquium
+  container-title-short: Proc. 20th Amst. Colloq.
   editor:
     - family: Brochhagen
       given: Thomas
@@ -1848,6 +2065,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldCompositionalityCompetitionMonkey2016
   container-title: Theoretical Linguistics
+  container-title-short: Theor. Linguist.
   DOI: 10.1515/tl-2016-0009
   issue: 1–2
   issued:
@@ -1863,6 +2081,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldCompositionalSignalingComplex2016
   container-title: Journal of Logic, Language and Information
+  container-title-short: J. Log. Lang. Inf.
   DOI: 10.1007/s10849-016-9236-9
   issue: '3'
   issued:
@@ -1894,6 +2113,7 @@ references:
   container-title: >-
     Proceedings of Philosophy, Mathematics, Linguistics: Aspects of Interaction
     (PhML2014)
+  container-title-short: Proc. Philos. Math. Linguist. Asp. Interact. PhML2014
   editor:
     - family: Prosorov
       given: Oleg
@@ -1925,7 +2145,6 @@ references:
       given: Jakub
   citation-key: steinert-threlkeldEaseLearningExplains2020
   container-title: Cognition
-  container-title-short: Cognition
   DOI: 10.1016/j.cognition.2019.104076
   ISSN: 0010-0277
   issued:
@@ -1958,6 +2177,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldEmergenceNontrivialCompositionality2020
   container-title: Philosophy of Science
+  container-title-short: Philos. Sci.
   DOI: 10.1086/710628
   ISSN: 0031-8248
   issue: '5'
@@ -1991,6 +2211,7 @@ references:
       given: C. M.
   citation-key: steinert-threlkeldEmergentCommunicationFinetuning2022
   container-title: Emergent Communication Workshop at ICLR 2022
+  container-title-short: Emergent Commun. Workshop ICLR 2022
   event-title: Emergent Communication Workshop at ICLR 2022
   issued:
     - year: 2022
@@ -2012,12 +2233,12 @@ references:
       given: Shane
   citation-key: steinert-threlkeldExplainingSemanticTypology2022
   container-title: Trends in Cognitive Sciences
-  container-title-short: Trends in Cognitive Sciences
+  container-title-short: Trends Cogn. Sci.
   DOI: 10.1016/j.tics.2022.02.001
   ISSN: 1364-6613, 1879-307X
   issued:
     - year: 2022
-  language: English
+  language: en
   PMID: '35248478'
   publisher: Elsevier
   source: www-cell-com.offcampus.lib.washington.edu
@@ -2041,6 +2262,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldExplanationVeridicalUniformity2020
   container-title: Journal of Semantics
+  container-title-short: J. Semant.
   DOI: 10.1093/jos/ffz019
   ISSN: 0167-5133
   issue: '1'
@@ -2079,7 +2301,6 @@ references:
       given: Zachary
   citation-key: steinert-threlkeldHowSocialNetworks2021
   container-title: PLOS ONE
-  container-title-short: PLOS ONE
   DOI: 10.1371/journal.pone.0250784
   ISSN: 1932-6203
   issue: '5'
@@ -2102,6 +2323,7 @@ references:
       given: Thomas F.
   citation-key: steinert-threlkeldIteratingSemanticAutomata2013
   container-title: Linguistics and Philosophy
+  container-title-short: Linguist. Philos.
   DOI: 10.1007/s10988-013-9132-6
   issue: '2'
   issued:
@@ -2117,6 +2339,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldLambdaCalculi2011
   container-title: The Internet Encyclopedia of Philosophy
+  container-title-short: Internet Encycl. Philos.
   issued:
     - year: 2011
   title: Lambda Calculi
@@ -2146,6 +2369,7 @@ references:
       given: Jakub
   citation-key: steinert-threlkeldLearnabilitySemanticUniversals2019
   container-title: Semantics & Pragmatics
+  container-title-short: Semant. Pragmat.
   DOI: 10.3765/sp.12.4
   issue: '4'
   issued:
@@ -2193,6 +2417,7 @@ references:
   container-title: >-
     Proceedings - 5th IEEE International Conference on Semantic Computing, ICSC
     2011
+  container-title-short: Proc. - 5th IEEE Int. Conf. Semantic Comput. ICSC 2011
   DOI: 10.1109/ICSC.2011.99
   ISBN: 978-0-7695-4492-2
   issued:
@@ -2242,6 +2467,7 @@ references:
       given: J.T. Tilak
   citation-key: steinert-threlkeldOntologicalLabelsAutomated2012
   container-title: Journal of Biomedical Informatics
+  container-title-short: J. Biomed. Inform.
   DOI: 10.1016/j.jbi.2012.02.013
   ISSN: '15320464'
   issue: '3'
@@ -2274,6 +2500,7 @@ references:
       given: Tilak
   citation-key: steinert-threlkeldOpenStandardsWebBased2009
   container-title: 'Loci: Developers'
+  container-title-short: Loci Dev.
   DOI: 10.4169/loci003340
   ISSN: '19419198'
   issued:
@@ -2302,6 +2529,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldPayingAttentionFunction2018
   container-title: Emergent Communication Workshop @ NeurIPS 2018
+  container-title-short: Emergent Commun. Workshop NeurIPS 2018
   issued:
     - year: 2018
   title: Paying Attention to Function Words
@@ -2314,6 +2542,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldPropertiesIteratedLanguages2016
   container-title: Journal of Logic, Language and Information
+  container-title-short: J. Log. Lang. Inf.
   DOI: 10.1007/s10849-016-9239-6
   issue: '2'
   issued:
@@ -2344,6 +2573,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldQuantifiersNaturalLanguage2019
   container-title: Proceedings of the 22nd Amsterdam Colloquium
+  container-title-short: Proc. 22nd Amst. Colloq.
   editor:
     - family: Schlöder
       given: Julian J
@@ -2422,7 +2652,7 @@ references:
       given: Emmanuel
   citation-key: steinert-threlkeldReferentialGeneralCalls2021
   container-title: Linguistics and Philosophy
-  container-title-short: Linguist and Philos
+  container-title-short: Linguist. Philos.
   DOI: 10.1007/s10988-021-09322-1
   ISSN: 1573-0549
   issue: '6'
@@ -2437,6 +2667,19 @@ references:
   volume: '44'
 
 - id: steinert-threlkeldSemanticUniversalModality2023
+  abstract: >-
+    This paper articulates a new semantic universal for modal expressions in
+    natural language, dubbed the Independence of Force and Flavor (IFF). This
+    property accommodates counterexamples to Nauze 2008’s proposed universal
+    from variable-force variable-flavor modals (Bochnak 2015a,b) and attitude
+    verbs (Močnik &amp; Abramovitz 2019), while still ruling out unattested
+    modals. It may also be seen as a form of convexity applied to modals.
+
+    BibTeX info
+  accessed:
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Steinert-Threlkeld
       given: Shane
@@ -2445,15 +2688,21 @@ references:
     - family: Guo
       given: Qingxia
   citation-key: steinert-threlkeldSemanticUniversalModality2023
-  container-title: Semantics & Pragmatics
+  container-title: Semantics and Pragmatics
+  container-title-short: Semant. Pragmat.
   DOI: 10.3765/sp.16.1
-  issue: '1'
+  ISSN: 1937-8912
   issued:
     - year: 2023
-  license: All rights reserved
-  title: A Semantic Universal for Modality
+      month: 1
+      day: 5
+  language: en
+  license: Copyright (c) 2023 Shane Steinert-Threlkeld, Nathaniel Imel, Qingxia Guo
+  page: 1:1-20
+  source: semprag.org
+  title: A semantic universal for modality
   type: article-journal
-  URL: https://doi.org/10.3765/sp.16.1
+  URL: https://semprag.org/index.php/sp/article/view/sp.16.1
   volume: '16'
 
 - id: steinert-threlkeldUniformDefinabilityAssertability2017
@@ -2462,6 +2711,7 @@ references:
       given: Shane
   citation-key: steinert-threlkeldUniformDefinabilityAssertability2017
   container-title: Proceedings of the 21st Amsterdam Colloquium
+  container-title-short: Proc. 21st Amst. Colloq.
   editor:
     - family: Cremers
       given: Alexandre
@@ -2488,6 +2738,7 @@ references:
       given: Thomas F.
   citation-key: szymanikAutomataComplexityMultipleQuantifier2013
   container-title: Proceedings of the 12th International Conference on Cognitive Modeling
+  container-title-short: Proc. 12th Int. Conf. Cogn. Model.
   issued:
     - year: 2013
   title: Automata and Complexity in Multiple-Quantifier Sentence Verification
@@ -2523,6 +2774,7 @@ references:
   container-title: >-
     Proceedings of the 60th Annual Meeting of the Association for Computational
     Linguistics (Volume 1: Long Papers)
+  container-title-short: Proc. 60th Annu. Meet. Assoc. Comput. Linguist. Vol. 1 Long Pap.
   event-title: ACL 2022
   issued:
     - year: 2022
@@ -2568,6 +2820,7 @@ references:
       given: Jakub
   citation-key: vandepolQuantifiersSatisfyingSemantic2021
   container-title: Proceedings of the Annual Meeting of the Cognitive Science Society
+  container-title-short: Proc. Annu. Meet. Cogn. Sci. Soc.
   issue: '43'
   issued:
     - year: 2021
@@ -2604,6 +2857,7 @@ references:
   container-title: >-
     Proceedings of the 6th BlackboxNLP Workshop: Analyzing and Interpreting
     Neural Networks for NLP
+  container-title-short: Proc. 6th BlackboxNLP Workshop Anal. Interpret. Neural Netw. NLP
   editor:
     - family: Belinkov
       given: Yonatan
@@ -2652,6 +2906,7 @@ references:
   container-title: >-
     Proceedings of the 1st GenBench Workshop on (Benchmarking) Generalisation in
     NLP
+  container-title-short: Proc. 1st GenBench Workshop Benchmarking Gen. NLP
   editor:
     - family: Hupkes
       given: Dieuwke
@@ -2705,6 +2960,7 @@ references:
       given: Shane
   citation-key: wangMinimizationBooleanComplexity2025
   container-title: 'First Workshop on CogInterp: Interpreting Cognition in Deep Learning Models'
+  container-title-short: First Workshop CogInterp Interpret. Cogn. Deep Learn. Models
   issued:
     - year: 2025
       month: 9
@@ -2730,14 +2986,14 @@ references:
     layers of PLMs achieve better performance on average than the lower layers
     across all probing tasks.
   accessed:
-    - year: 2022
-      month: 10
-      day: 12
+    - year: 2026
+      month: 8
+      day: 10
   author:
     - family: Yi
-      given: David K
+      given: David
     - family: Bruno
-      given: James V
+      given: James
     - family: Han
       given: Jiayu
     - family: Zukerman
@@ -2748,11 +3004,32 @@ references:
   container-title: >-
     Proceedings of the Fifth BlackboxNLP Workshop on Analyzing and Interpreting
     Neural Networks for NLP
+  container-title-short: Proc. Fifth BlackboxNLP Workshop Anal. Interpret. Neural Netw. NLP
+  DOI: 10.18653/v1/2022.blackboxnlp-1.12
+  editor:
+    - family: Bastings
+      given: Jasmijn
+    - family: Belinkov
+      given: Yonatan
+    - family: Elazar
+      given: Yanai
+    - family: Hupkes
+      given: Dieuwke
+    - family: Saphra
+      given: Naomi
+    - family: Wiegreffe
+      given: Sarah
+  event-title: BlackboxNLP 2022
   issued:
     - year: 2022
+      month: 12
+  page: 142–152
+  publisher: Association for Computational Linguistics
+  publisher-place: Abu Dhabi, United Arab Emirates (Hybrid)
+  source: ACLWeb
   title: >-
     Probing for Understanding of English Verb Classes and Alternations in Large
     Pre-trained Language Models
   type: paper-conference
-  URL: https://openreview.net/forum?id=Fmn3YQmUPYZ
+  URL: https://aclanthology.org/2022.blackboxnlp-1.12/
 ...
