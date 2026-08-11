@@ -90,7 +90,7 @@ We finally stopped at the same place where we got our first look at the peak ear
 <figcaption>A Rainier with Sahale in the background.</figcaption>
 </figure>
 
-Spirits lifted, we powered back down to Cascade Pass and cruised from there back to the car.  Although we got ourselves into a bit of a situation on the way down with our short rope, the gang still had a great time in a beautiful place.  This felt like the best way to celebrate the complicated 250th birthday of the USA.
+Spirits lifted, we powered back down to Cascade Pass and cruised from there back to the car.  Although we got ourselves into a bit of a situation on the way down with our short rope, the gang still had a great time in a beautiful place.   The luxuriousness of the weekend also helped, knowing we had warm tacos to cook back at our car camp.  This felt like the best way to celebrate the complicated 250th birthday of the USA.
 
 Some stats:
 - 13.77 miles
