@@ -5,7 +5,7 @@ tags:
   - alpine
   - climbing
 tufte: true
-draft: true
+draft: false
 ---
 Following both on a tradition of my friend Ian and I aiming for an alpine adventure at least once a summer and our successful [trip to Prusik](../prusik/index.md) with B on July 4 weekend last year, the three of us set our sights on the same weekend this year.  B had recently taken a crevasse rescue class and wanted to whet her feet^[And maybe even wet them too!] with some glacier travel, so we eyed [Sahale Peak](https://en.wikipedia.org/wiki/Sahale_Mountain) for its combination of pleasant approach, stunning views, and a relatively simple glacier approach to its summit block.
 
