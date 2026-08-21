@@ -5,6 +5,9 @@ medium: audio
 grade: A
 tufte: true
 tags:
+  - games
+  - values
+  - philosophy
 draft: false
 ---
 
